@@ -1,0 +1,23 @@
+{
+  "name": "chrisandsheena.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisCarleton/ChrisAndSheena.git"
+  },
+  "keywords": [
+    "Chris",
+    "Sheena"
+  ],
+  "author": "Chris Carleton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChrisCarleton/ChrisAndSheena/issues"
+  },
+  "homepage": "https://github.com/ChrisCarleton/ChrisAndSheena#readme"
+}
