@@ -30,4 +30,8 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
         
       # run tests!
+      - run: gulp bundle-prod
       - run: gulp test
+
+      # deploy!
+      - run: aws s3 sync dist/prod/ s3://chris-and-sheena-dot-com --delete
