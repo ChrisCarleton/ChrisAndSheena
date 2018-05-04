@@ -2,7 +2,7 @@ import { enableProdMode, NgModule } from "@angular/core";
 import { BrowserModule } from "@angular/platform-browser";
 import { platformBrowserDynamic } from "@angular/platform-browser-dynamic";
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
-import { AppComponent } from "./app.component";
+import { AppComponent } from "./app/app.component";
 
 import router from './app.router';
 import { HomeComponent } from "./app/home.component";
