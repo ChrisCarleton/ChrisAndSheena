@@ -6,10 +6,12 @@ import { AppComponent } from "./app/app.component";
 import router from './app.router';
 import { HomeComponent } from "./app/home.component";
 import { NotFoundComponent } from "./app/not-found.component";
+import { DivingModule } from "./diving/diving.module";
 
 @NgModule({
 	imports: [
 		BrowserModule,
+		DivingModule,
 		NgbModule.forRoot(),
 		router
 	],
