@@ -1,43 +1,62 @@
+import eslint from 'gulp-eslint';
 import gulp from 'gulp';
-import gutil from 'gulp-util';
 import webpack from 'webpack';
-import webpackDevServer from 'webpack-dev-server';
 import webpackStream from 'webpack-stream';
+import WebpackDevServer from 'webpack-dev-server';
 
-gulp.task('test', () => {});
+function lint() {
+	return gulp.src(['web/**/*.js', 'web/**/*.jsx'])
+		.pipe(eslint())
+		.pipe(eslint.format())
+		.pipe(eslint.failAfterError());
+}
 
-gulp.task('bundle-dev', () => {
-	return gulp.src('web/main.ts')
-		.pipe(webpackStream(require('./webpack.dev'), webpack))
+function test(done) {
+	done();
+}
+
+function packageDev() {
+	return gulp.src('web/app.js')
+		.pipe(webpackStream(
+			require('./webpack.dev'),
+			webpack
+		))
 		.pipe(gulp.dest('dist/dev'));
-});
+}
 
-gulp.task('bundle-prod', () => {
-	return gulp.src('web/main.ts')
-		.pipe(webpackStream(require('./webpack.prod'), webpack))
+function packageProd() {
+	return gulp.src('web/app.js')
+		.pipe(webpackStream(
+			require('./webpack.prod'),
+			webpack
+		))
 		.pipe(gulp.dest('dist/prod'));
-});
+}
 
-gulp.task('serve', done => {
-	new webpackDevServer(
+function serve(done) {
+	new WebpackDevServer(
 		webpack(require('./webpack.dev')),
 		{
-			contentBase: 'dist/dev/',
+			compress: true,
 			historyApiFallback: true,
 			hot: true,
 			index: 'index.html',
 			port: 8080,
+			publicPath: '/',
 			watchContentBase: true
-		}
-	)
-	.listen(8080, 'localhost', err => {
-		if (err) {
-			return done(err);
-		}
+		})
+		.listen(8080, 'localhost', err => {
+			if (err) return done(err);
+			done();
+		});
+}
 
-		gutil.log('[webpack-dev-server]', 'Webpack dev server running at http://localhost:8080/.');
-		done();
-	});
-});
+gulp.task('package', gulp.parallel(packageDev, packageProd));
 
-gulp.task('default', ['serve']);
+gulp.task('lint', lint);
+
+gulp.task('test', gulp.series('lint', test));
+
+gulp.task('serve', serve);
+
+gulp.task('default', serve);
