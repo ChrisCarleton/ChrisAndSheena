@@ -27,7 +27,7 @@ class Home extends React.Component {
 							<img width={1100} height={450} src="carousel_sheena.png" />
 							<Carousel.Caption>
 								<h3>Welcome to Our New Website</h3>
-								<p>Yup. It's a website.</p>
+								<p>Yup. It&apos;s a website.</p>
 							</Carousel.Caption>
 						</Carousel.Item>
 						<Carousel.Item>
@@ -48,9 +48,9 @@ class Home extends React.Component {
 				</div>
 
 				<div className="container">
-					<h3>Hi! We're Chris and Sheena</h3>
+					<h3>Hi! We&apos;re Chris and Sheena</h3>
 					<p>
-						This is a website we're building for the lulz.
+						This is a website we&apos;re building for the lulz.
 					</p>
 				</div>
 
