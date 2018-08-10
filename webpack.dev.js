@@ -1,20 +1,18 @@
-var common = require('./webpack.common');
-var ExtractTextPlugin = require('extract-text-webpack-plugin');
+var CleanWebpackPlugin = require('clean-webpack-plugin');
+var merge = require('webpack-merge');
 var path = require('path');
-var webpackMerge = require('webpack-merge');
 
-module.exports = webpackMerge(
-	common,
-	{
-		devtool: 'cheap-module-eval-source-map',
-		output: {
-			path: path.join(__dirname, 'dist/dev/'),
-			publicPath: '/',
-			filename: '[name].js',
-			chunkFilename: '[id].chunk.js'
-		},
-		plugins: [
-			new ExtractTextPlugin('[name].css')
-		]
-	}
-);
+var common = require('./webpack.common');
+
+module.exports = merge(common, {
+	mode: 'development',
+	devtool: 'inline-source-map',
+	output: {
+		filename: '[name].js',
+		path: path.resolve(__dirname, 'dist/dev'),
+		publicPath: '/'
+	},
+	plugins: [
+		new CleanWebpackPlugin(['dist/dev'])
+	]
+});
