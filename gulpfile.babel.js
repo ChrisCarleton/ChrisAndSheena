@@ -51,6 +51,10 @@ function serve(done) {
 		});
 }
 
+gulp.task('package-dev', packageDev);
+
+gulp.task('package-prod', packageProd);
+
 gulp.task('package', gulp.parallel(packageDev, packageProd));
 
 gulp.task('lint', lint);
