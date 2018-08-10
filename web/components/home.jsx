@@ -1,9 +1,7 @@
 import React from 'react';
 
 import {
-	Carousel,
-	Navbar,
-	Panel
+	Carousel
 } from 'react-bootstrap';
 
 import '../img/carousel_cenote.png';
@@ -14,13 +12,6 @@ class Home extends React.Component {
 	render() {
 		return (
 			<div>
-				<Navbar>
-					<Navbar.Header>
-						<Navbar.Brand>
-							<a href="/">ChrisAndSheena.ca</a>
-						</Navbar.Brand>
-					</Navbar.Header>
-				</Navbar>
 				<div className="container">
 					<Carousel>
 						<Carousel.Item>
@@ -54,9 +45,6 @@ class Home extends React.Component {
 					</p>
 				</div>
 
-				<div className="container">
-					<Panel><small>Copyright &copy; Chris and Sheena, 2018</small></Panel>
-				</div>
 			</div>
 		);
 	}

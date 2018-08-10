@@ -1,9 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import Home from './components/home';
+import App from './components/app';
+import { BrowserRouter } from 'react-router-dom';
 
 require('./alt');
 require('./styles/style.css');
 
-ReactDOM.render(<Home />, document.getElementById('app'));
+ReactDOM.render(
+	<BrowserRouter>
+		<App />
+	</BrowserRouter>,
+	document.getElementById('app'));

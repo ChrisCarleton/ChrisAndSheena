@@ -6,12 +6,12 @@
 Bundle development environment:
 
 ```
-gulp bundle-dev
+gulp package-dev
 ```
 
 Bundle production environment:
 ```
-gulp bundle-prod
+gulp package-prod
 ```
 
 Run tests:
