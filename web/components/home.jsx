@@ -49,7 +49,11 @@ class Home extends React.Component {
 						Here is our new fancy video player:
 					</p>
 					<p>
-						<VideoPlayer />
+						<VideoPlayer
+							dashUrl="https://s3.amazonaws.com/2018-bahamas-trip/August1/11-TheWashingMachine/01-Washingmachinebriefing-dash.mpd"
+							hlsUrl="https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/01+-+Washing+machine+briefing-hls.MP4"
+							controls
+							autoPlay />
 					</p>
 				</div>
 

@@ -1,17 +1,29 @@
 import bowser from 'bowser';
+import PropTypes from 'prop-types';
 import React from 'react';
 
 class VideoPlayer extends React.Component {
 
 	renderDashPlayer() {
 		return (
-			<video data-dashjs-player autoPlay src="https://s3.amazonaws.com/2018-bahamas-trip/August1/11-TheWashingMachine/01-Washingmachinebriefing-dash.mpd" controls></video>
+			<video
+				data-dashjs-player
+				autoPlay={this.props.autoPlay}
+				src={this.props.dashUrl}
+				controls={this.props.controls}>
+				{this.props.children}
+			</video>
 		);
 	}
 
 	renderNativePlayer() {
 		return (
-			<video autoPlay src="https://s3.amazonaws.com/2018-bahamas-trip/August1/11-TheWashingMachine/01-Washingmachinebriefing-dash.mpd" controls></video>
+			<video
+				autoPlay={this.props.autoPlay}
+				src={this.props.hlsUrl}
+				controls>
+				{this.props.children}
+			</video>
 		);
 	}
 
@@ -24,5 +36,13 @@ class VideoPlayer extends React.Component {
 		return this.renderNativePlayer();
 	}
 }
+
+VideoPlayer.propTypes = {
+	children: PropTypes.node,
+	hlsUrl: PropTypes.string,
+	dashUrl: PropTypes.string,
+	autoPlay: PropTypes.bool,
+	controls: PropTypes.bool
+};
 
 export default VideoPlayer;
