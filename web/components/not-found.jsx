@@ -12,7 +12,7 @@ class NotFound extends React.Component {
 				</p>
 
 				<p>
-					<img src="suzy_on_laptop.jpg" />
+					<img src="/suzy_on_laptop.jpg" />
 				</p>
 			</div>);
 	}
