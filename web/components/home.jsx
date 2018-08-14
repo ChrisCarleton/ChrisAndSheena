@@ -4,6 +4,8 @@ import {
 	Carousel
 } from 'react-bootstrap';
 
+import VideoPlayer from './video-player';
+
 import '../img/carousel_cenote.png';
 import '../img/carousel_chris.png';
 import '../img/carousel_sheena.png';
@@ -42,6 +44,16 @@ class Home extends React.Component {
 					<h3>Hi! We&apos;re Chris and Sheena</h3>
 					<p>
 						This is a website we&apos;re building for the lulz.
+					</p>
+					<p>
+						Here is our new fancy video player:
+					</p>
+					<p>
+						<VideoPlayer
+							dashUrl="https://s3.amazonaws.com/2018-bahamas-trip/August1/11-TheWashingMachine/01-Washingmachinebriefing-dash.mpd"
+							hlsUrl="https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/01+-+Washing+machine+briefing-hls.MP4"
+							controls
+							autoPlay />
 					</p>
 				</div>
 
