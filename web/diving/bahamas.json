@@ -1,0 +1,2754 @@
+module.exports = {
+  "August 1": {
+    "11 - The Washing Machine": {
+      "01 - Washing machine briefing": {
+        "key": "August 1/11 - The Washing Machine/01 - Washing machine briefing.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/01+-+Washing+machine+briefing.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/01+-+Washing+machine+briefing-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/01+-+Washing+machine+briefing-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/11-TheWashingMachine/01-Washingmachinebriefing-dash.mpd"
+      },
+      "02 - Amos partying before the dive": {
+        "key": "August 1/11 - The Washing Machine/02 - Amos partying before the dive.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/02+-+Amos+partying+before+the+dive.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/02+-+Amos+partying+before+the+dive-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/02+-+Amos+partying+before+the+dive-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/11-TheWashingMachine/02-Amospartyingbeforethedive-dash.mpd"
+      },
+      "03 - Ship getting in position": {
+        "key": "August 1/11 - The Washing Machine/03 - Ship getting in position.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/03+-+Ship+getting+in+position.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/03+-+Ship+getting+in+position-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/03+-+Ship+getting+in+position-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/11-TheWashingMachine/03-Shipgettinginposition-dash.mpd"
+      },
+      "04 - Dive! Dive! Dive! The Washing Machine": {
+        "key": "August 1/11 - The Washing Machine/04 - Dive! Dive! Dive! The Washing Machine.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/04+-+Dive!+Dive!+Dive!+The+Washing+Machine.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/04+-+Dive!+Dive!+Dive!+The+Washing+Machine-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/04+-+Dive!+Dive!+Dive!+The+Washing+Machine-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/11-TheWashingMachine/04-Dive!Dive!Dive!TheWashingMachine-dash.mpd"
+      },
+      "05 - Drifting over the coral 1": {
+        "key": "August 1/11 - The Washing Machine/05 - Drifting over the coral 1.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/05+-+Drifting+over+the+coral+1.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/05+-+Drifting+over+the+coral+1-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/05+-+Drifting+over+the+coral+1-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/11-TheWashingMachine/05-Driftingoverthecoral1-dash.mpd"
+      },
+      "06 - Drifting over the coral 2": {
+        "key": "August 1/11 - The Washing Machine/06 - Drifting over the coral 2.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/06+-+Drifting+over+the+coral+2.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/06+-+Drifting+over+the+coral+2-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/06+-+Drifting+over+the+coral+2-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/11-TheWashingMachine/06-Driftingoverthecoral2-dash.mpd"
+      },
+      "07 - Turtle 1": {
+        "key": "August 1/11 - The Washing Machine/07 - Turtle 1.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/07+-+Turtle+1.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/07+-+Turtle+1-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/07+-+Turtle+1-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/11-TheWashingMachine/07-Turtle1-dash.mpd"
+      },
+      "08 - Turtle 2": {
+        "key": "August 1/11 - The Washing Machine/08 - Turtle 2.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/08+-+Turtle+2.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/08+-+Turtle+2-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/08+-+Turtle+2-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/11-TheWashingMachine/08-Turtle2-dash.mpd"
+      },
+      "09 - After the dive": {
+        "key": "August 1/11 - The Washing Machine/09 - After the dive.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/09+-+After+the+dive.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/09+-+After+the+dive-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/11+-+The+Washing+Machine/09+-+After+the+dive-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/11-TheWashingMachine/09-Afterthedive-dash.mpd"
+      }
+    },
+    "12 - Barracuda Shoals": {
+      "01 - Jumping in; Sharks are waiting": {
+        "key": "August 1/12 - Barracuda Shoals/01 - Jumping in; Sharks are waiting.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/01+-+Jumping+in;+Sharks+are+waiting.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/01+-+Jumping+in;+Sharks+are+waiting-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/01+-+Jumping+in;+Sharks+are+waiting-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/01-Jumpingin;Sharksarewaiting-dash.mpd"
+      },
+      "02 - Old urchin cage": {
+        "key": "August 1/12 - Barracuda Shoals/02 - Old urchin cage.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/02+-+Old+urchin+cage.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/02+-+Old+urchin+cage-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/02+-+Old+urchin+cage-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/02-Oldurchincage-dash.mpd"
+      },
+      "03 - The Dive Family waiting for the sharks": {
+        "key": "August 1/12 - Barracuda Shoals/03 - The Dive Family waiting for the sharks.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/03+-+The+Dive+Family+waiting+for+the+sharks.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/03+-+The+Dive+Family+waiting+for+the+sharks-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/03+-+The+Dive+Family+waiting+for+the+sharks-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/03-TheDiveFamilywaitingforthesharks-dash.mpd"
+      },
+      "04 - Striped grouper": {
+        "key": "August 1/12 - Barracuda Shoals/04 - Striped grouper.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/04+-+Striped+grouper.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/04+-+Striped+grouper-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/04+-+Striped+grouper-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/04-Stripedgrouper-dash.mpd"
+      },
+      "05 - Big ol' grouper": {
+        "key": "August 1/12 - Barracuda Shoals/05 - Big ol' grouper.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/05+-+Big+ol'+grouper.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/05+-+Big+ol'+grouper-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/05+-+Big+ol'+grouper-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/05-Bigol'grouper-dash.mpd"
+      },
+      "06 - Hanging out on the reef with jacks and sharks": {
+        "key": "August 1/12 - Barracuda Shoals/06 - Hanging out on the reef with jacks and sharks.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/06+-+Hanging+out+on+the+reef+with+jacks+and+sharks.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/06+-+Hanging+out+on+the+reef+with+jacks+and+sharks-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/06+-+Hanging+out+on+the+reef+with+jacks+and+sharks-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/06-Hangingoutonthereefwithjacksandsharks-dash.mpd"
+      },
+      "07 - Trumpet fish and tons of pretty coral": {
+        "key": "August 1/12 - Barracuda Shoals/07 - Trumpet fish and tons of pretty coral.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/07+-+Trumpet+fish+and+tons+of+pretty+coral.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/07+-+Trumpet+fish+and+tons+of+pretty+coral-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/07+-+Trumpet+fish+and+tons+of+pretty+coral-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/07-Trumpetfishandtonsofprettycoral-dash.mpd"
+      },
+      "08 - Shark lurking in the reef": {
+        "key": "August 1/12 - Barracuda Shoals/08 - Shark lurking in the reef.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/08+-+Shark+lurking+in+the+reef.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/08+-+Shark+lurking+in+the+reef-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/08+-+Shark+lurking+in+the+reef-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/08-Sharklurkinginthereef-dash.mpd"
+      },
+      "09 - Sharks circling us": {
+        "key": "August 1/12 - Barracuda Shoals/09 - Sharks circling us.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/09+-+Sharks+circling+us.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/09+-+Sharks+circling+us-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/09+-+Sharks+circling+us-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/09-Sharkscirclingus-dash.mpd"
+      },
+      "10 - Parrot fish on the bottom": {
+        "key": "August 1/12 - Barracuda Shoals/10 - Parrot fish on the bottom.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/10+-+Parrot+fish+on+the+bottom.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/10+-+Parrot+fish+on+the+bottom-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/10+-+Parrot+fish+on+the+bottom-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/10-Parrotfishonthebottom-dash.mpd"
+      },
+      "11 - Yellow sting ray hiding in the sand": {
+        "key": "August 1/12 - Barracuda Shoals/11 - Yellow sting ray hiding in the sand.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/11+-+Yellow+sting+ray+hiding+in+the+sand.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/11+-+Yellow+sting+ray+hiding+in+the+sand-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/11+-+Yellow+sting+ray+hiding+in+the+sand-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/11-Yellowstingrayhidinginthesand-dash.mpd"
+      },
+      "12 - Tiny puffer fish": {
+        "key": "August 1/12 - Barracuda Shoals/12 - Tiny puffer fish.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/12+-+Tiny+puffer+fish.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/12+-+Tiny+puffer+fish-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/12+-+Tiny+puffer+fish-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/12-Tinypufferfish-dash.mpd"
+      },
+      "13 - Following a curious shark": {
+        "key": "August 1/12 - Barracuda Shoals/13 - Following a curious shark.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/13+-+Following+a+curious+shark.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/13+-+Following+a+curious+shark-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/13+-+Following+a+curious+shark-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/13-Followingacuriousshark-dash.mpd"
+      },
+      "14 - Forest of coral 1": {
+        "key": "August 1/12 - Barracuda Shoals/14 - Forest of coral 1.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/14+-+Forest+of+coral+1.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/14+-+Forest+of+coral+1-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/14+-+Forest+of+coral+1-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/14-Forestofcoral1-dash.mpd"
+      },
+      "15 - Urchin cage lost in the reef": {
+        "key": "August 1/12 - Barracuda Shoals/15 - Urchin cage lost in the reef.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/15+-+Urchin+cage+lost+in+the+reef.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/15+-+Urchin+cage+lost+in+the+reef-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/15+-+Urchin+cage+lost+in+the+reef-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/15-Urchincagelostinthereef-dash.mpd"
+      },
+      "16 - Forest of coral 2": {
+        "key": "August 1/12 - Barracuda Shoals/16 - Forest of coral 2.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/16+-+Forest+of+coral+2.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/16+-+Forest+of+coral+2-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/16+-+Forest+of+coral+2-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/16-Forestofcoral2-dash.mpd"
+      },
+      "17 - Reef sharks and nurse sharks checking us out": {
+        "key": "August 1/12 - Barracuda Shoals/17 - Reef sharks and nurse sharks checking us out.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/17+-+Reef+sharks+and+nurse+sharks+checking+us+out.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/17+-+Reef+sharks+and+nurse+sharks+checking+us+out-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/17+-+Reef+sharks+and+nurse+sharks+checking+us+out-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/17-Reefsharksandnursesharkscheckingusout-dash.mpd"
+      },
+      "18 - Shark fly-by": {
+        "key": "August 1/12 - Barracuda Shoals/18 - Shark fly-by.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/18+-+Shark+fly-by.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/18+-+Shark+fly-by-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/18+-+Shark+fly-by-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/18-Sharkfly-by-dash.mpd"
+      },
+      "19 - Reef shark and a grouper amongst the coral": {
+        "key": "August 1/12 - Barracuda Shoals/19 - Reef shark and a grouper amongst the coral.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/19+-+Reef+shark+and+a+grouper+amongst+the+coral.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/19+-+Reef+shark+and+a+grouper+amongst+the+coral-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/19+-+Reef+shark+and+a+grouper+amongst+the+coral-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/19-Reefsharkandagrouperamongstthecoral-dash.mpd"
+      },
+      "20 - Grouper swimming through the coral": {
+        "key": "August 1/12 - Barracuda Shoals/20 - Grouper swimming through the coral.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/20+-+Grouper+swimming+through+the+coral.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/20+-+Grouper+swimming+through+the+coral-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/20+-+Grouper+swimming+through+the+coral-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/20-Grouperswimmingthroughthecoral-dash.mpd"
+      },
+      "21 - A shark and a school of fish": {
+        "key": "August 1/12 - Barracuda Shoals/21 - A shark and a school of fish.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/21+-+A+shark+and+a+school+of+fish.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/21+-+A+shark+and+a+school+of+fish-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/21+-+A+shark+and+a+school+of+fish-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/21-Asharkandaschooloffish-dash.mpd"
+      },
+      "22 - Sharks checking us out; Chris is pleased": {
+        "key": "August 1/12 - Barracuda Shoals/22 - Sharks checking us out; Chris is pleased.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/22+-+Sharks+checking+us+out;+Chris+is+pleased.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/22+-+Sharks+checking+us+out;+Chris+is+pleased-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/22+-+Sharks+checking+us+out;+Chris+is+pleased-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/22-Sharkscheckingusout;Chrisispleased-dash.mpd"
+      },
+      "23 - More sharks circling us": {
+        "key": "August 1/12 - Barracuda Shoals/23 - More sharks circling us.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/23+-+More+sharks+circling+us.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/23+-+More+sharks+circling+us-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/23+-+More+sharks+circling+us-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/23-Moresharkscirclingus-dash.mpd"
+      },
+      "24 - Making friends with the local sharks": {
+        "key": "August 1/12 - Barracuda Shoals/24 - Making friends with the local sharks.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/24+-+Making+friends+with+the+local+sharks.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/24+-+Making+friends+with+the+local+sharks-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/24+-+Making+friends+with+the+local+sharks-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/24-Makingfriendswiththelocalsharks-dash.mpd"
+      },
+      "25 - Bright coral and bright fish": {
+        "key": "August 1/12 - Barracuda Shoals/25 - Bright coral and bright fish.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/25+-+Bright+coral+and+bright+fish.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/25+-+Bright+coral+and+bright+fish-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/25+-+Bright+coral+and+bright+fish-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/25-Brightcoralandbrightfish-dash.mpd"
+      },
+      "26 - Two big groupers": {
+        "key": "August 1/12 - Barracuda Shoals/26 - Two big groupers.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/26+-+Two+big+groupers.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/26+-+Two+big+groupers-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/26+-+Two+big+groupers-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/26-Twobiggroupers-dash.mpd"
+      },
+      "27 - Reef shark swim-by": {
+        "key": "August 1/12 - Barracuda Shoals/27 - Reef shark swim-by.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/27+-+Reef+shark+swim-by.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/27+-+Reef+shark+swim-by-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/27+-+Reef+shark+swim-by-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/27-Reefsharkswim-by-dash.mpd"
+      },
+      "28 - Sheena's shark selfie": {
+        "key": "August 1/12 - Barracuda Shoals/28 - Sheena's shark selfie.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/28+-+Sheena's+shark+selfie.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/28+-+Sheena's+shark+selfie-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/28+-+Sheena's+shark+selfie-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/28-Sheena'ssharkselfie-dash.mpd"
+      },
+      "29 - Relaxing in the water column with some sharks": {
+        "key": "August 1/12 - Barracuda Shoals/29 - Relaxing in the water column with some sharks.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/29+-+Relaxing+in+the+water+column+with+some+sharks.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/29+-+Relaxing+in+the+water+column+with+some+sharks-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/29+-+Relaxing+in+the+water+column+with+some+sharks-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/29-Relaxinginthewatercolumnwithsomesharks-dash.mpd"
+      },
+      "30 - Waiting on the tag line at the end of the dive": {
+        "key": "August 1/12 - Barracuda Shoals/30 - Waiting on the tag line at the end of the dive.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/30+-+Waiting+on+the+tag+line+at+the+end+of+the+dive.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/30+-+Waiting+on+the+tag+line+at+the+end+of+the+dive-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/12+-+Barracuda+Shoals/30+-+Waiting+on+the+tag+line+at+the+end+of+the+dive-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/12-BarracudaShoals/30-Waitingonthetaglineattheendofthedive-dash.mpd"
+      }
+    },
+    "13 - Barracuda Shoals (Shark Feed)": {
+      "01 - Shark feed part 1": {
+        "key": "August 1/13 - Barracuda Shoals (Shark Feed)/01 - Shark feed part 1.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/01+-+Shark+feed+part+1.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/01+-+Shark+feed+part+1-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/01+-+Shark+feed+part+1-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/13-BarracudaShoals(SharkFeed)/01-Sharkfeedpart1-dash.mpd"
+      },
+      "02 - Shark feed part 2": {
+        "key": "August 1/13 - Barracuda Shoals (Shark Feed)/02 - Shark feed part 2.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/02+-+Shark+feed+part+2.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/02+-+Shark+feed+part+2-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/02+-+Shark+feed+part+2-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/13-BarracudaShoals(SharkFeed)/02-Sharkfeedpart2-dash.mpd"
+      },
+      "03 - Shark feed part 3": {
+        "key": "August 1/13 - Barracuda Shoals (Shark Feed)/03 - Shark feed part 3.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/03+-+Shark+feed+part+3.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/03+-+Shark+feed+part+3-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/03+-+Shark+feed+part+3-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/13-BarracudaShoals(SharkFeed)/03-Sharkfeedpart3-dash.mpd"
+      },
+      "04 - Shark feed part 4": {
+        "key": "August 1/13 - Barracuda Shoals (Shark Feed)/04 - Shark feed part 4.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/04+-+Shark+feed+part+4.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/04+-+Shark+feed+part+4-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/04+-+Shark+feed+part+4-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/13-BarracudaShoals(SharkFeed)/04-Sharkfeedpart4-dash.mpd"
+      },
+      "05 - Sheena with the sharks": {
+        "key": "August 1/13 - Barracuda Shoals (Shark Feed)/05 - Sheena with the sharks.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/05+-+Sheena+with+the+sharks.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/05+-+Sheena+with+the+sharks-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/05+-+Sheena+with+the+sharks-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/13-BarracudaShoals(SharkFeed)/05-Sheenawiththesharks-dash.mpd"
+      },
+      "06 - Iain cutting the chum-cycle loose": {
+        "key": "August 1/13 - Barracuda Shoals (Shark Feed)/06 - Iain cutting the chum-cycle loose.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/06+-+Iain+cutting+the+chum-cycle+loose.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/06+-+Iain+cutting+the+chum-cycle+loose-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/06+-+Iain+cutting+the+chum-cycle+loose-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/13-BarracudaShoals(SharkFeed)/06-Iaincuttingthechum-cycleloose-dash.mpd"
+      },
+      "07 - Fish in a hole": {
+        "key": "August 1/13 - Barracuda Shoals (Shark Feed)/07 - Fish in a hole.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/07+-+Fish+in+a+hole.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/07+-+Fish+in+a+hole-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/07+-+Fish+in+a+hole-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/13-BarracudaShoals(SharkFeed)/07-Fishinahole-dash.mpd"
+      },
+      "08 - Grouper hiding out and fish lingering after shark feeding": {
+        "key": "August 1/13 - Barracuda Shoals (Shark Feed)/08 - Grouper hiding out and fish lingering after shark feeding.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/08+-+Grouper+hiding+out+and+fish+lingering+after+shark+feeding.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/08+-+Grouper+hiding+out+and+fish+lingering+after+shark+feeding-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/08+-+Grouper+hiding+out+and+fish+lingering+after+shark+feeding-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/13-BarracudaShoals(SharkFeed)/08-Grouperhidingoutandfishlingeringaftersharkfeeding-dash.mpd"
+      },
+      "09 - Two squirrel fish": {
+        "key": "August 1/13 - Barracuda Shoals (Shark Feed)/09 - Two squirrel fish.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/09+-+Two+squirrel+fish.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/09+-+Two+squirrel+fish-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/09+-+Two+squirrel+fish-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/13-BarracudaShoals(SharkFeed)/09-Twosquirrelfish-dash.mpd"
+      },
+      "10 - Two giant angel fish": {
+        "key": "August 1/13 - Barracuda Shoals (Shark Feed)/10 - Two giant angel fish.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/10+-+Two+giant+angel+fish.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/10+-+Two+giant+angel+fish-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/10+-+Two+giant+angel+fish-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/13-BarracudaShoals(SharkFeed)/10-Twogiantangelfish-dash.mpd"
+      },
+      "11 - Stealthy fish and a sea cucumber": {
+        "key": "August 1/13 - Barracuda Shoals (Shark Feed)/11 - Stealthy fish and a sea cucumber.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/11+-+Stealthy+fish+and+a+sea+cucumber.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/11+-+Stealthy+fish+and+a+sea+cucumber-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/11+-+Stealthy+fish+and+a+sea+cucumber-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/13-BarracudaShoals(SharkFeed)/11-Stealthyfishandaseacucumber-dash.mpd"
+      },
+      "12 - Searching for shark teeth": {
+        "key": "August 1/13 - Barracuda Shoals (Shark Feed)/12 - Searching for shark teeth.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/12+-+Searching+for+shark+teeth.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/12+-+Searching+for+shark+teeth-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/13+-+Barracuda+Shoals+(Shark+Feed)/12+-+Searching+for+shark+teeth-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/13-BarracudaShoals(SharkFeed)/12-Searchingforsharkteeth-dash.mpd"
+      }
+    },
+    "20180801_114811": {
+      "key": "August 1/20180801_114811.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/20180801_114811.jpg",
+      "type": "image/jpeg"
+    },
+    "20180801_114838": {
+      "key": "August 1/20180801_114838.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/20180801_114838.jpg",
+      "type": "image/jpeg"
+    },
+    "20180801_114905": {
+      "key": "August 1/20180801_114905.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/20180801_114905.jpg",
+      "type": "image/jpeg"
+    },
+    "20180801_114957": {
+      "key": "August 1/20180801_114957.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/20180801_114957.jpg",
+      "type": "image/jpeg"
+    },
+    "20180801_115135": {
+      "key": "August 1/20180801_115135.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/20180801_115135.jpg",
+      "type": "image/jpeg"
+    },
+    "20180801_115155": {
+      "key": "August 1/20180801_115155.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/20180801_115155.jpg",
+      "type": "image/jpeg"
+    },
+    "20180801_115223": {
+      "key": "August 1/20180801_115223.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/20180801_115223.jpg",
+      "type": "image/jpeg"
+    },
+    "20180801_115317": {
+      "key": "August 1/20180801_115317.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/20180801_115317.jpg",
+      "type": "image/jpeg"
+    },
+    "20180801_115323": {
+      "key": "August 1/20180801_115323.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/20180801_115323.jpg",
+      "type": "image/jpeg"
+    },
+    "20180801_115353": {
+      "key": "August 1/20180801_115353.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/20180801_115353.jpg",
+      "type": "image/jpeg"
+    },
+    "20180801_120446": {
+      "key": "August 1/20180801_120446.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/20180801_120446.jpg",
+      "type": "image/jpeg"
+    },
+    "20180801_120459": {
+      "key": "August 1/20180801_120459.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/20180801_120459.jpg",
+      "type": "image/jpeg"
+    },
+    "20180801_120522": {
+      "key": "August 1/20180801_120522.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/20180801_120522.jpg",
+      "type": "image/jpeg"
+    },
+    "20180801_122951": {
+      "key": "August 1/20180801_122951.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/20180801_122951.jpg",
+      "type": "image/jpeg"
+    },
+    "20180801_122957": {
+      "key": "August 1/20180801_122957.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/20180801_122957.jpg",
+      "type": "image/jpeg"
+    },
+    "20180801_123002": {
+      "key": "August 1/20180801_123002.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/20180801_123002.jpg",
+      "type": "image/jpeg"
+    },
+    "20180801_132616": {
+      "key": "August 1/20180801_132616.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/20180801_132616.jpg",
+      "type": "image/jpeg"
+    },
+    "20180801_134347": {
+      "key": "August 1/20180801_134347.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/20180801_134347.jpg",
+      "type": "image/jpeg"
+    },
+    "20180801_134356": {
+      "key": "August 1/20180801_134356.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/20180801_134356.jpg",
+      "type": "image/jpeg"
+    },
+    "Early morning sailing": {
+      "key": "August 1/Early morning sailing.MP4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/Early+morning+sailing.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/Early+morning+sailing-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/Early+morning+sailing-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/Earlymorningsailing-dash.mpd"
+    },
+    "I can camera too": {
+      "key": "August 1/I can camera too.MP4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/I+can+camera+too.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/I+can+camera+too-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/I+can+camera+too-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/Icancameratoo-dash.mpd"
+    },
+    "Sharks off the bow": {
+      "key": "August 1/Sharks off the bow.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/Sharks+off+the+bow.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/Sharks+off+the+bow-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/Sharks+off+the+bow-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/Sharksoffthebow-dash.mpd"
+    },
+    "White sandy beach": {
+      "key": "August 1/White sandy beach.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/White+sandy+beach.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/White+sandy+beach-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+1/White+sandy+beach-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August1/Whitesandybeach-dash.mpd"
+    }
+  },
+  "August 2": {
+    "14 - The Washing Machine (Round 2)": {
+      "01 - Dive briefing": {
+        "key": "August 2/14 - The Washing Machine (Round 2)/01 - Dive briefing.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/01+-+Dive+briefing.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/01+-+Dive+briefing-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/01+-+Dive+briefing-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August2/14-TheWashingMachine(Round2)/01-Divebriefing-dash.mpd"
+      },
+      "02 - Sheena's onesie": {
+        "key": "August 2/14 - The Washing Machine (Round 2)/02 - Sheena's onesie.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/02+-+Sheena's+onesie.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/02+-+Sheena's+onesie-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/02+-+Sheena's+onesie-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August2/14-TheWashingMachine(Round2)/02-Sheena'sonesie-dash.mpd"
+      },
+      "03 - Sheena dancing in her onesie": {
+        "key": "August 2/14 - The Washing Machine (Round 2)/03 - Sheena dancing in her onesie.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/03+-+Sheena+dancing+in+her+onesie.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/03+-+Sheena+dancing+in+her+onesie-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/03+-+Sheena+dancing+in+her+onesie-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August2/14-TheWashingMachine(Round2)/03-Sheenadancinginheronesie-dash.mpd"
+      },
+      "04 - Dive! Dive! Dive! The Washing Machine - Round 2": {
+        "key": "August 2/14 - The Washing Machine (Round 2)/04 - Dive! Dive! Dive! The Washing Machine - Round 2.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/04+-+Dive!+Dive!+Dive!+The+Washing+Machine+-+Round+2.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/04+-+Dive!+Dive!+Dive!+The+Washing+Machine+-+Round+2-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/04+-+Dive!+Dive!+Dive!+The+Washing+Machine+-+Round+2-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August2/14-TheWashingMachine(Round2)/04-Dive!Dive!Dive!TheWashingMachine-Round2-dash.mpd"
+      },
+      "05 - Daren and Joel riding each other": {
+        "key": "August 2/14 - The Washing Machine (Round 2)/05 - Daren and Joel riding each other.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/05+-+Daren+and+Joel+riding+each+other.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/05+-+Daren+and+Joel+riding+each+other-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/05+-+Daren+and+Joel+riding+each+other-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August2/14-TheWashingMachine(Round2)/05-DarenandJoelridingeachother-dash.mpd"
+      },
+      "06 - Drifting over the coral": {
+        "key": "August 2/14 - The Washing Machine (Round 2)/06 - Drifting over the coral.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/06+-+Drifting+over+the+coral.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/06+-+Drifting+over+the+coral-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/06+-+Drifting+over+the+coral-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August2/14-TheWashingMachine(Round2)/06-Driftingoverthecoral-dash.mpd"
+      },
+      "07 - A box on the ground": {
+        "key": "August 2/14 - The Washing Machine (Round 2)/07 - A box on the ground.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/07+-+A+box+on+the+ground.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/07+-+A+box+on+the+ground-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/07+-+A+box+on+the+ground-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August2/14-TheWashingMachine(Round2)/07-Aboxontheground-dash.mpd"
+      },
+      "08 - Yellow sting ray": {
+        "key": "August 2/14 - The Washing Machine (Round 2)/08 - Yellow sting ray.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/08+-+Yellow+sting+ray.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/08+-+Yellow+sting+ray-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/08+-+Yellow+sting+ray-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August2/14-TheWashingMachine(Round2)/08-Yellowstingray-dash.mpd"
+      },
+      "09 - Sea turtle 1": {
+        "key": "August 2/14 - The Washing Machine (Round 2)/09 - Sea turtle 1.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/09+-+Sea+turtle+1.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/09+-+Sea+turtle+1-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/09+-+Sea+turtle+1-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August2/14-TheWashingMachine(Round2)/09-Seaturtle1-dash.mpd"
+      },
+      "10 - Sea turtle 2": {
+        "key": "August 2/14 - The Washing Machine (Round 2)/10 - Sea turtle 2.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/10+-+Sea+turtle+2.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/10+-+Sea+turtle+2-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/10+-+Sea+turtle+2-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August2/14-TheWashingMachine(Round2)/10-Seaturtle2-dash.mpd"
+      },
+      "11 - Sneaky sting ray hiding behind the coral": {
+        "key": "August 2/14 - The Washing Machine (Round 2)/11 - Sneaky sting ray hiding behind the coral.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/11+-+Sneaky+sting+ray+hiding+behind+the+coral.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/11+-+Sneaky+sting+ray+hiding+behind+the+coral-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/11+-+Sneaky+sting+ray+hiding+behind+the+coral-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August2/14-TheWashingMachine(Round2)/11-Sneakystingrayhidingbehindthecoral-dash.mpd"
+      },
+      "12 - Sea turtle 3": {
+        "key": "August 2/14 - The Washing Machine (Round 2)/12 - Sea turtle 3.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/12+-+Sea+turtle+3.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/12+-+Sea+turtle+3-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/14+-+The+Washing+Machine+(Round+2)/12+-+Sea+turtle+3-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August2/14-TheWashingMachine(Round2)/12-Seaturtle3-dash.mpd"
+      }
+    },
+    "20180802_103519": {
+      "key": "August 2/20180802_103519.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_103519.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_103546": {
+      "key": "August 2/20180802_103546.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_103546.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_103718": {
+      "key": "August 2/20180802_103718.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_103718.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_103920": {
+      "key": "August 2/20180802_103920.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_103920.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_134838": {
+      "key": "August 2/20180802_134838.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_134838.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_134843": {
+      "key": "August 2/20180802_134843.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_134843.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_134846": {
+      "key": "August 2/20180802_134846.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_134846.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_134855": {
+      "key": "August 2/20180802_134855.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_134855.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_135906": {
+      "key": "August 2/20180802_135906.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_135906.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_135909": {
+      "key": "August 2/20180802_135909.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_135909.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_135911": {
+      "key": "August 2/20180802_135911.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_135911.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_152408": {
+      "key": "August 2/20180802_152408.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_152408.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_152410": {
+      "key": "August 2/20180802_152410.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_152410.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_152413": {
+      "key": "August 2/20180802_152413.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_152413.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_152416": {
+      "key": "August 2/20180802_152416.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_152416.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_152417": {
+      "key": "August 2/20180802_152417.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_152417.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_152419": {
+      "key": "August 2/20180802_152419.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_152419.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_205227": {
+      "key": "August 2/20180802_205227.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_205227.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_205232": {
+      "key": "August 2/20180802_205232.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_205232.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_205248": {
+      "key": "August 2/20180802_205248.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_205248.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_205255": {
+      "key": "August 2/20180802_205255.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_205255.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_210101": {
+      "key": "August 2/20180802_210101.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_210101.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_210102": {
+      "key": "August 2/20180802_210102.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_210102.jpg",
+      "type": "image/jpeg"
+    },
+    "20180802_210147": {
+      "key": "August 2/20180802_210147.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/20180802_210147.jpg",
+      "type": "image/jpeg"
+    },
+    "Chris filming Sheena, filming Chris": {
+      "key": "August 2/Chris filming Sheena, filming Chris.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/Chris+filming+Sheena,+filming+Chris.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/Chris+filming+Sheena,+filming+Chris-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/Chris+filming+Sheena,+filming+Chris-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August2/ChrisfilmingSheena,filmingChris-dash.mpd"
+    },
+    "Daren and Joel": {
+      "key": "August 2/Daren and Joel.MP4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/Daren+and+Joel.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/Daren+and+Joel-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/Daren+and+Joel-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August2/DarenandJoel-dash.mpd"
+    },
+    "Drifting over the washing machine with divers down below": {
+      "key": "August 2/Drifting over the washing machine with divers down below.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/Drifting+over+the+washing+machine+with+divers+down+below.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/Drifting+over+the+washing+machine+with+divers+down+below-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/Drifting+over+the+washing+machine+with+divers+down+below-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August2/Driftingoverthewashingmachinewithdiversdownbelow-dash.mpd"
+    },
+    "End of trip briefing": {
+      "key": "August 2/End of trip briefing.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/End+of+trip+briefing.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/End+of+trip+briefing-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/End+of+trip+briefing-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August2/Endoftripbriefing-dash.mpd"
+    },
+    "Everyone jumping in": {
+      "key": "August 2/Everyone jumping in.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/Everyone+jumping+in.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/Everyone+jumping+in-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/Everyone+jumping+in-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August2/Everyonejumpingin-dash.mpd"
+    },
+    "Gerald and Dalyce at the brewpub": {
+      "key": "August 2/Gerald and Dalyce at the brewpub.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/Gerald+and+Dalyce+at+the+brewpub.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/Gerald+and+Dalyce+at+the+brewpub-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/Gerald+and+Dalyce+at+the+brewpub-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August2/GeraldandDalyceatthebrewpub-dash.mpd"
+    },
+    "On the boat, getting ready to dive": {
+      "key": "August 2/On the boat, getting ready to dive.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/On+the+boat,+getting+ready+to+dive.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/On+the+boat,+getting+ready+to+dive-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+2/On+the+boat,+getting+ready+to+dive-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August2/Ontheboat,gettingreadytodive-dash.mpd"
+    }
+  },
+  "August 3": {
+    "20180803_004242": {
+      "key": "August 3/20180803_004242.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_004242.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_005145": {
+      "key": "August 3/20180803_005145.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_005145.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_073527": {
+      "key": "August 3/20180803_073527.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_073527.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_075705": {
+      "key": "August 3/20180803_075705.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_075705.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_075713": {
+      "key": "August 3/20180803_075713.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_075713.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_075734": {
+      "key": "August 3/20180803_075734.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_075734.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_075741": {
+      "key": "August 3/20180803_075741.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_075741.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_095718": {
+      "key": "August 3/20180803_095718.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_095718.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_095745": {
+      "key": "August 3/20180803_095745.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_095745.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_095752": {
+      "key": "August 3/20180803_095752.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_095752.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_095756": {
+      "key": "August 3/20180803_095756.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_095756.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_095801": {
+      "key": "August 3/20180803_095801.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_095801.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_095832": {
+      "key": "August 3/20180803_095832.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_095832.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_113718": {
+      "key": "August 3/20180803_113718.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_113718.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_120244": {
+      "key": "August 3/20180803_120244.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_120244.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_120807": {
+      "key": "August 3/20180803_120807.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_120807.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_120908": {
+      "key": "August 3/20180803_120908.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_120908.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_120913": {
+      "key": "August 3/20180803_120913.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_120913.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_120932": {
+      "key": "August 3/20180803_120932.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_120932.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_121428": {
+      "key": "August 3/20180803_121428.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_121428.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_121453": {
+      "key": "August 3/20180803_121453.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_121453.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_121514": {
+      "key": "August 3/20180803_121514.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_121514.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_121622": {
+      "key": "August 3/20180803_121622.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_121622.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_121629": {
+      "key": "August 3/20180803_121629.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_121629.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_121636": {
+      "key": "August 3/20180803_121636.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_121636.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_121743": {
+      "key": "August 3/20180803_121743.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_121743.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_121748": {
+      "key": "August 3/20180803_121748.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_121748.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_122216": {
+      "key": "August 3/20180803_122216.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_122216.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_122219": {
+      "key": "August 3/20180803_122219.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_122219.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_122353": {
+      "key": "August 3/20180803_122353.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_122353.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_122410": {
+      "key": "August 3/20180803_122410.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_122410.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_122703": {
+      "key": "August 3/20180803_122703.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_122703.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_122743": {
+      "key": "August 3/20180803_122743.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_122743.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_134823": {
+      "key": "August 3/20180803_134823.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_134823.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_134940": {
+      "key": "August 3/20180803_134940.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_134940.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_135000": {
+      "key": "August 3/20180803_135000.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_135000.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_142153": {
+      "key": "August 3/20180803_142153.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_142153.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_163617": {
+      "key": "August 3/20180803_163617.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_163617.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_163623": {
+      "key": "August 3/20180803_163623.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_163623.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_171343": {
+      "key": "August 3/20180803_171343.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_171343.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_174621": {
+      "key": "August 3/20180803_174621.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_174621.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_174709": {
+      "key": "August 3/20180803_174709.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_174709.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_175310": {
+      "key": "August 3/20180803_175310.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_175310.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_175313": {
+      "key": "August 3/20180803_175313.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_175313.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_175318": {
+      "key": "August 3/20180803_175318.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_175318.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_180733": {
+      "key": "August 3/20180803_180733.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_180733.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_180739": {
+      "key": "August 3/20180803_180739.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_180739.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_183001": {
+      "key": "August 3/20180803_183001.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_183001.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_183028": {
+      "key": "August 3/20180803_183028.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_183028.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_212119": {
+      "key": "August 3/20180803_212119.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_212119.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_212128": {
+      "key": "August 3/20180803_212128.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_212128.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_212142": {
+      "key": "August 3/20180803_212142.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_212142.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_212750": {
+      "key": "August 3/20180803_212750.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_212750.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_212757": {
+      "key": "August 3/20180803_212757.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_212757.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_212809": {
+      "key": "August 3/20180803_212809.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_212809.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_212823": {
+      "key": "August 3/20180803_212823.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_212823.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_212835": {
+      "key": "August 3/20180803_212835.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_212835.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_213155": {
+      "key": "August 3/20180803_213155.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_213155.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_213210": {
+      "key": "August 3/20180803_213210.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_213210.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_213236": {
+      "key": "August 3/20180803_213236.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_213236.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_213443": {
+      "key": "August 3/20180803_213443.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_213443.jpg",
+      "type": "image/jpeg"
+    },
+    "20180803_214834": {
+      "key": "August 3/20180803_214834.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/20180803_214834.jpg",
+      "type": "image/jpeg"
+    },
+    "Bahamian band": {
+      "key": "August 3/Bahamian band.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Bahamian+band.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Bahamian+band-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Bahamian+band-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August3/Bahamianband-dash.mpd"
+    },
+    "Carnival - bass drum": {
+      "key": "August 3/Carnival - bass drum.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Carnival+-+bass+drum.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Carnival+-+bass+drum-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Carnival+-+bass+drum-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August3/Carnival-bassdrum-dash.mpd"
+    },
+    "Carnival - free dancer": {
+      "key": "August 3/Carnival - free dancer.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Carnival+-+free+dancer.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Carnival+-+free+dancer-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Carnival+-+free+dancer-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August3/Carnival-freedancer-dash.mpd"
+    },
+    "Carnival": {
+      "key": "August 3/Carnival.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Carnival.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Carnival-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Carnival-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August3/Carnival-dash.mpd"
+    },
+    "Flaming limbo": {
+      "key": "August 3/Flaming limbo.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Flaming+limbo.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Flaming+limbo-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Flaming+limbo-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August3/Flaminglimbo-dash.mpd"
+    },
+    "Going under flaming limbo": {
+      "key": "August 3/Going under flaming limbo.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Going+under+flaming+limbo.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Going+under+flaming+limbo-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Going+under+flaming+limbo-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August3/Goingunderflaminglimbo-dash.mpd"
+    },
+    "Jumping over limbo": {
+      "key": "August 3/Jumping over limbo.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Jumping+over+limbo.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Jumping+over+limbo-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Jumping+over+limbo-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August3/Jumpingoverlimbo-dash.mpd"
+    },
+    "Limbo": {
+      "key": "August 3/Limbo.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Limbo.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Limbo-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Limbo-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August3/Limbo-dash.mpd"
+    },
+    "Lower flaming limbo": {
+      "key": "August 3/Lower flaming limbo.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Lower+flaming+limbo.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Lower+flaming+limbo-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Lower+flaming+limbo-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August3/Lowerflaminglimbo-dash.mpd"
+    },
+    "Pool at the Melia Nassau resort": {
+      "key": "August 3/Pool at the Melia Nassau resort.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Pool+at+the+Melia+Nassau+resort.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Pool+at+the+Melia+Nassau+resort-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Pool+at+the+Melia+Nassau+resort-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August3/PoolattheMeliaNassauresort-dash.mpd"
+    },
+    "Super-low flaming limbo": {
+      "key": "August 3/Super-low flaming limbo.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Super-low+flaming+limbo.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Super-low+flaming+limbo-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+3/Super-low+flaming+limbo-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August3/Super-lowflaminglimbo-dash.mpd"
+    }
+  },
+  "August 4": {
+    "20180804_074245": {
+      "key": "August 4/20180804_074245.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_074245.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_074311": {
+      "key": "August 4/20180804_074311.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_074311.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_074359": {
+      "key": "August 4/20180804_074359.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_074359.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_080602": {
+      "key": "August 4/20180804_080602.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_080602.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_080607": {
+      "key": "August 4/20180804_080607.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_080607.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_093400": {
+      "key": "August 4/20180804_093400.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_093400.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_093414": {
+      "key": "August 4/20180804_093414.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_093414.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_093436": {
+      "key": "August 4/20180804_093436.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_093436.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_093453": {
+      "key": "August 4/20180804_093453.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_093453.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_093458": {
+      "key": "August 4/20180804_093458.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_093458.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_094153": {
+      "key": "August 4/20180804_094153.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_094153.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_095809": {
+      "key": "August 4/20180804_095809.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_095809.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_100250": {
+      "key": "August 4/20180804_100250.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_100250.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_100309": {
+      "key": "August 4/20180804_100309.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_100309.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_100351": {
+      "key": "August 4/20180804_100351.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_100351.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_132218": {
+      "key": "August 4/20180804_132218.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_132218.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_133544": {
+      "key": "August 4/20180804_133544.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_133544.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_133615": {
+      "key": "August 4/20180804_133615.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_133615.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_133940": {
+      "key": "August 4/20180804_133940.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_133940.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_134014": {
+      "key": "August 4/20180804_134014.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_134014.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_134027": {
+      "key": "August 4/20180804_134027.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_134027.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_134057": {
+      "key": "August 4/20180804_134057.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_134057.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_134109": {
+      "key": "August 4/20180804_134109.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_134109.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_134146": {
+      "key": "August 4/20180804_134146.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_134146.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_134152": {
+      "key": "August 4/20180804_134152.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_134152.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_134211": {
+      "key": "August 4/20180804_134211.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_134211.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_134443": {
+      "key": "August 4/20180804_134443.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_134443.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_134631": {
+      "key": "August 4/20180804_134631.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_134631.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_134711": {
+      "key": "August 4/20180804_134711.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_134711.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_135251": {
+      "key": "August 4/20180804_135251.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_135251.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_135420": {
+      "key": "August 4/20180804_135420.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_135420.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_135644": {
+      "key": "August 4/20180804_135644.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_135644.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_145258": {
+      "key": "August 4/20180804_145258.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_145258.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_145343": {
+      "key": "August 4/20180804_145343.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_145343.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_151459": {
+      "key": "August 4/20180804_151459.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_151459.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_160407": {
+      "key": "August 4/20180804_160407.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_160407.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_160445": {
+      "key": "August 4/20180804_160445.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_160445.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_160633": {
+      "key": "August 4/20180804_160633.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_160633.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_160646": {
+      "key": "August 4/20180804_160646.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_160646.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_160655": {
+      "key": "August 4/20180804_160655.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_160655.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_160715": {
+      "key": "August 4/20180804_160715.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_160715.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_160827": {
+      "key": "August 4/20180804_160827.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_160827.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_161134": {
+      "key": "August 4/20180804_161134.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_161134.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_161145": {
+      "key": "August 4/20180804_161145.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_161145.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_161231": {
+      "key": "August 4/20180804_161231.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_161231.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_161455": {
+      "key": "August 4/20180804_161455.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_161455.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_161612": {
+      "key": "August 4/20180804_161612.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_161612.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_161619": {
+      "key": "August 4/20180804_161619.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_161619.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_161629": {
+      "key": "August 4/20180804_161629.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_161629.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_162234": {
+      "key": "August 4/20180804_162234.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_162234.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_162307": {
+      "key": "August 4/20180804_162307.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_162307.jpg",
+      "type": "image/jpeg"
+    },
+    "20180804_175324": {
+      "key": "August 4/20180804_175324.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/20180804_175324.jpg",
+      "type": "image/jpeg"
+    },
+    "A light morning rain at the resort": {
+      "key": "August 4/A light morning rain at the resort.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/A+light+morning+rain+at+the+resort.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/A+light+morning+rain+at+the+resort-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/A+light+morning+rain+at+the+resort-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August4/Alightmorningrainattheresort-dash.mpd"
+    },
+    "Landing at Pearson": {
+      "key": "August 4/Landing at Pearson.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/Landing+at+Pearson.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/Landing+at+Pearson-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/Landing+at+Pearson-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August4/LandingatPearson-dash.mpd"
+    },
+    "Taking off from Nassau airport": {
+      "key": "August 4/Taking off from Nassau airport.mp4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/Taking+off+from+Nassau+airport.mp4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/Taking+off+from+Nassau+airport-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August+4/Taking+off+from+Nassau+airport-hls.mp4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/August4/TakingofffromNassauairport-dash.mpd"
+    }
+  },
+  "July 28": {
+    "20180728_125019": {
+      "key": "July 28/20180728_125019.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+28/20180728_125019.jpg",
+      "type": "image/jpeg"
+    },
+    "20180728_125022": {
+      "key": "July 28/20180728_125022.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+28/20180728_125022.jpg",
+      "type": "image/jpeg"
+    },
+    "20180728_183517": {
+      "key": "July 28/20180728_183517.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+28/20180728_183517.jpg",
+      "type": "image/jpeg"
+    },
+    "20180728_183530": {
+      "key": "July 28/20180728_183530.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+28/20180728_183530.jpg",
+      "type": "image/jpeg"
+    },
+    "20180728_194947": {
+      "key": "July 28/20180728_194947.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+28/20180728_194947.jpg",
+      "type": "image/jpeg"
+    },
+    "20180728_194950": {
+      "key": "July 28/20180728_194950.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+28/20180728_194950.jpg",
+      "type": "image/jpeg"
+    },
+    "20180728_194951": {
+      "key": "July 28/20180728_194951.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+28/20180728_194951.jpg",
+      "type": "image/jpeg"
+    }
+  },
+  "July 29": {
+    "1 - Rays Reef": {
+      "01 - Kicking off our diving": {
+        "key": "July 29/1 - Rays Reef/01 - Kicking off our diving.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/01+-+Kicking+off+our+diving.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/01+-+Kicking+off+our+diving-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/01+-+Kicking+off+our+diving-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/1-RaysReef/01-Kickingoffourdiving-dash.mpd"
+      },
+      "02 - Diving over some coral 1": {
+        "key": "July 29/1 - Rays Reef/02 - Diving over some coral 1.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/02+-+Diving+over+some+coral+1.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/02+-+Diving+over+some+coral+1-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/02+-+Diving+over+some+coral+1-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/1-RaysReef/02-Divingoversomecoral1-dash.mpd"
+      },
+      "03 - Diving over some coral 2": {
+        "key": "July 29/1 - Rays Reef/03 - Diving over some coral 2.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/03+-+Diving+over+some+coral+2.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/03+-+Diving+over+some+coral+2-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/03+-+Diving+over+some+coral+2-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/1-RaysReef/03-Divingoversomecoral2-dash.mpd"
+      },
+      "04 - Fish hiding in the coral": {
+        "key": "July 29/1 - Rays Reef/04 - Fish hiding in the coral.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/04+-+Fish+hiding+in+the+coral.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/04+-+Fish+hiding+in+the+coral-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/04+-+Fish+hiding+in+the+coral-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/1-RaysReef/04-Fishhidinginthecoral-dash.mpd"
+      },
+      "05 - Lobster hiding in the coral": {
+        "key": "July 29/1 - Rays Reef/05 - Lobster hiding in the coral.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/05+-+Lobster+hiding+in+the+coral.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/05+-+Lobster+hiding+in+the+coral-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/05+-+Lobster+hiding+in+the+coral-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/1-RaysReef/05-Lobsterhidinginthecoral-dash.mpd"
+      },
+      "06 - Blenny hiding in the sand": {
+        "key": "July 29/1 - Rays Reef/06 - Blenny hiding in the sand.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/06+-+Blenny+hiding+in+the+sand.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/06+-+Blenny+hiding+in+the+sand-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/06+-+Blenny+hiding+in+the+sand-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/1-RaysReef/06-Blennyhidinginthesand-dash.mpd"
+      },
+      "07 - Interesting green sea life growing in the sand": {
+        "key": "July 29/1 - Rays Reef/07 - Interesting green sea life growing in the sand.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/07+-+Interesting+green+sea+life+growing+in+the+sand.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/07+-+Interesting+green+sea+life+growing+in+the+sand-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/07+-+Interesting+green+sea+life+growing+in+the+sand-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/1-RaysReef/07-Interestinggreensealifegrowinginthesand-dash.mpd"
+      },
+      "08 - Blenny retreating to his hole": {
+        "key": "July 29/1 - Rays Reef/08 - Blenny retreating to his hole.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/08+-+Blenny+retreating+to+his+hole.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/08+-+Blenny+retreating+to+his+hole-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/08+-+Blenny+retreating+to+his+hole-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/1-RaysReef/08-Blennyretreatingtohishole-dash.mpd"
+      },
+      "09 - Sting ray hiding in the reef": {
+        "key": "July 29/1 - Rays Reef/09 - Sting ray hiding in the reef.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/09+-+Sting+ray+hiding+in+the+reef.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/09+-+Sting+ray+hiding+in+the+reef-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/09+-+Sting+ray+hiding+in+the+reef-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/1-RaysReef/09-Stingrayhidinginthereef-dash.mpd"
+      },
+      "P7290034": {
+        "key": "July 29/1 - Rays Reef/P7290034.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/P7290034.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290035": {
+        "key": "July 29/1 - Rays Reef/P7290035.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/P7290035.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290036": {
+        "key": "July 29/1 - Rays Reef/P7290036.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/P7290036.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290037": {
+        "key": "July 29/1 - Rays Reef/P7290037.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/P7290037.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290038": {
+        "key": "July 29/1 - Rays Reef/P7290038.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/P7290038.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290039": {
+        "key": "July 29/1 - Rays Reef/P7290039.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/P7290039.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290041": {
+        "key": "July 29/1 - Rays Reef/P7290041.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/P7290041.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290042": {
+        "key": "July 29/1 - Rays Reef/P7290042.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/P7290042.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290043": {
+        "key": "July 29/1 - Rays Reef/P7290043.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/P7290043.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290044": {
+        "key": "July 29/1 - Rays Reef/P7290044.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/P7290044.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290045": {
+        "key": "July 29/1 - Rays Reef/P7290045.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/P7290045.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290046": {
+        "key": "July 29/1 - Rays Reef/P7290046.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/P7290046.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290047": {
+        "key": "July 29/1 - Rays Reef/P7290047.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/P7290047.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290048": {
+        "key": "July 29/1 - Rays Reef/P7290048.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/P7290048.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290049": {
+        "key": "July 29/1 - Rays Reef/P7290049.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/P7290049.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290050": {
+        "key": "July 29/1 - Rays Reef/P7290050.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/P7290050.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290051": {
+        "key": "July 29/1 - Rays Reef/P7290051.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/P7290051.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290052": {
+        "key": "July 29/1 - Rays Reef/P7290052.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/P7290052.JPG",
+        "type": "image/jpeg"
+      },
+      "Rays Reef Briefing": {
+        "key": "July 29/1 - Rays Reef/Rays Reef Briefing.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/Rays+Reef+Briefing.JPG",
+        "type": "image/jpeg"
+      },
+      "Small blenny coming out of his hole": {
+        "key": "July 29/1 - Rays Reef/Small blenny coming out of his hole.MOV",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/Small+blenny+coming+out+of+his+hole.MOV",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/Small+blenny+coming+out+of+his+hole-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/1+-+Rays+Reef/Small+blenny+coming+out+of+his+hole-hls.MOV",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/1-RaysReef/Smallblennycomingoutofhishole-dash.mpd"
+      }
+    },
+    "2 - Barracuda Shoals": {
+      "01 - Close-up with an angel fish": {
+        "key": "July 29/2 - Barracuda Shoals/01 - Close-up with an angel fish.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/01+-+Close-up+with+an+angel+fish.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/01+-+Close-up+with+an+angel+fish-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/01+-+Close-up+with+an+angel+fish-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/2-BarracudaShoals/01-Close-upwithanangelfish-dash.mpd"
+      },
+      "02 - Colourful reef and fish": {
+        "key": "July 29/2 - Barracuda Shoals/02 - Colourful reef and fish.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/02+-+Colourful+reef+and+fish.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/02+-+Colourful+reef+and+fish-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/02+-+Colourful+reef+and+fish-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/2-BarracudaShoals/02-Colourfulreefandfish-dash.mpd"
+      },
+      "03 - More bright coral": {
+        "key": "July 29/2 - Barracuda Shoals/03 - More bright coral.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/03+-+More+bright+coral.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/03+-+More+bright+coral-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/03+-+More+bright+coral-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/2-BarracudaShoals/03-Morebrightcoral-dash.mpd"
+      },
+      "04 - Small moray eel": {
+        "key": "July 29/2 - Barracuda Shoals/04 - Small moray eel.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/04+-+Small+moray+eel.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/04+-+Small+moray+eel-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/04+-+Small+moray+eel-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/2-BarracudaShoals/04-Smallmorayeel-dash.mpd"
+      },
+      "05 - School of bright blue fish": {
+        "key": "July 29/2 - Barracuda Shoals/05 - School of bright blue fish.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/05+-+School+of+bright+blue+fish.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/05+-+School+of+bright+blue+fish-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/05+-+School+of+bright+blue+fish-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/2-BarracudaShoals/05-Schoolofbrightbluefish-dash.mpd"
+      },
+      "06 - Interesting reef dweller": {
+        "key": "July 29/2 - Barracuda Shoals/06 - Interesting reef dweller.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/06+-+Interesting+reef+dweller.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/06+-+Interesting+reef+dweller-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/06+-+Interesting+reef+dweller-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/2-BarracudaShoals/06-Interestingreefdweller-dash.mpd"
+      },
+      "07 - Investigating the reef": {
+        "key": "July 29/2 - Barracuda Shoals/07 - Investigating the reef.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/07+-+Investigating+the+reef.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/07+-+Investigating+the+reef-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/07+-+Investigating+the+reef-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/2-BarracudaShoals/07-Investigatingthereef-dash.mpd"
+      },
+      "08 - Tiny critter in the coral": {
+        "key": "July 29/2 - Barracuda Shoals/08 - Tiny critter in the coral.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/08+-+Tiny+critter+in+the+coral.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/08+-+Tiny+critter+in+the+coral-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/08+-+Tiny+critter+in+the+coral-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/2-BarracudaShoals/08-Tinycritterinthecoral-dash.mpd"
+      },
+      "P7290054": {
+        "key": "July 29/2 - Barracuda Shoals/P7290054.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290054.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290055": {
+        "key": "July 29/2 - Barracuda Shoals/P7290055.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290055.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290056": {
+        "key": "July 29/2 - Barracuda Shoals/P7290056.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290056.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290057": {
+        "key": "July 29/2 - Barracuda Shoals/P7290057.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290057.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290058": {
+        "key": "July 29/2 - Barracuda Shoals/P7290058.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290058.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290059": {
+        "key": "July 29/2 - Barracuda Shoals/P7290059.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290059.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290060": {
+        "key": "July 29/2 - Barracuda Shoals/P7290060.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290060.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290061": {
+        "key": "July 29/2 - Barracuda Shoals/P7290061.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290061.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290062": {
+        "key": "July 29/2 - Barracuda Shoals/P7290062.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290062.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290063": {
+        "key": "July 29/2 - Barracuda Shoals/P7290063.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290063.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290064": {
+        "key": "July 29/2 - Barracuda Shoals/P7290064.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290064.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290065": {
+        "key": "July 29/2 - Barracuda Shoals/P7290065.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290065.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290066": {
+        "key": "July 29/2 - Barracuda Shoals/P7290066.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290066.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290067": {
+        "key": "July 29/2 - Barracuda Shoals/P7290067.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290067.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290068": {
+        "key": "July 29/2 - Barracuda Shoals/P7290068.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290068.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290069": {
+        "key": "July 29/2 - Barracuda Shoals/P7290069.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290069.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290070": {
+        "key": "July 29/2 - Barracuda Shoals/P7290070.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290070.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290071": {
+        "key": "July 29/2 - Barracuda Shoals/P7290071.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290071.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290072": {
+        "key": "July 29/2 - Barracuda Shoals/P7290072.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290072.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290073": {
+        "key": "July 29/2 - Barracuda Shoals/P7290073.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/2+-+Barracuda+Shoals/P7290073.JPG",
+        "type": "image/jpeg"
+      }
+    },
+    "20180729_063145": {
+      "key": "July 29/20180729_063145.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/20180729_063145.jpg",
+      "type": "image/jpeg"
+    },
+    "20180729_063222": {
+      "key": "July 29/20180729_063222.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/20180729_063222.jpg",
+      "type": "image/jpeg"
+    },
+    "20180729_063308": {
+      "key": "July 29/20180729_063308.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/20180729_063308.jpg",
+      "type": "image/jpeg"
+    },
+    "20180729_063420": {
+      "key": "July 29/20180729_063420.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/20180729_063420.jpg",
+      "type": "image/jpeg"
+    },
+    "20180729_063640": {
+      "key": "July 29/20180729_063640.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/20180729_063640.jpg",
+      "type": "image/jpeg"
+    },
+    "20180729_063657": {
+      "key": "July 29/20180729_063657.jpg",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/20180729_063657.jpg",
+      "type": "image/jpeg"
+    },
+    "3 - Parrotfish Reef": {
+      "01 - Giant barracuda under the boat": {
+        "key": "July 29/3 - Parrotfish Reef/01 - Giant barracuda under the boat.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/01+-+Giant+barracuda+under+the+boat.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/01+-+Giant+barracuda+under+the+boat-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/01+-+Giant+barracuda+under+the+boat-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/3-ParrotfishReef/01-Giantbarracudaundertheboat-dash.mpd"
+      },
+      "02 - Two giant barracuda up close": {
+        "key": "July 29/3 - Parrotfish Reef/02 - Two giant barracuda up close.mp4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/02+-+Two+giant+barracuda+up+close.mp4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/02+-+Two+giant+barracuda+up+close-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/02+-+Two+giant+barracuda+up+close-hls.mp4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/3-ParrotfishReef/02-Twogiantbarracudaupclose-dash.mpd"
+      },
+      "03  - Fish in the reef": {
+        "key": "July 29/3 - Parrotfish Reef/03  - Fish in the reef.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/03++-+Fish+in+the+reef.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/03++-+Fish+in+the+reef-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/03++-+Fish+in+the+reef-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/3-ParrotfishReef/03-Fishinthereef-dash.mpd"
+      },
+      "04 - Spiral reef critter": {
+        "key": "July 29/3 - Parrotfish Reef/04 - Spiral reef critter.MOV",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/04+-+Spiral+reef+critter.MOV",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/04+-+Spiral+reef+critter-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/04+-+Spiral+reef+critter-hls.MOV",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/3-ParrotfishReef/04-Spiralreefcritter-dash.mpd"
+      },
+      "05 - Squirrel fish": {
+        "key": "July 29/3 - Parrotfish Reef/05 - Squirrel fish.MOV",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/05+-+Squirrel+fish.MOV",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/05+-+Squirrel+fish-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/05+-+Squirrel+fish-hls.MOV",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/3-ParrotfishReef/05-Squirrelfish-dash.mpd"
+      },
+      "06 - Yellow sting ray": {
+        "key": "July 29/3 - Parrotfish Reef/06 - Yellow sting ray.MOV",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/06+-+Yellow+sting+ray.MOV",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/06+-+Yellow+sting+ray-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/06+-+Yellow+sting+ray-hls.MOV",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/3-ParrotfishReef/06-Yellowstingray-dash.mpd"
+      },
+      "07 - Trumpet fish": {
+        "key": "July 29/3 - Parrotfish Reef/07 - Trumpet fish.MOV",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/07+-+Trumpet+fish.MOV",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/07+-+Trumpet+fish-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/07+-+Trumpet+fish-hls.MOV",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/3-ParrotfishReef/07-Trumpetfish-dash.mpd"
+      },
+      "P7290074": {
+        "key": "July 29/3 - Parrotfish Reef/P7290074.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290074.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290075": {
+        "key": "July 29/3 - Parrotfish Reef/P7290075.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290075.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290076": {
+        "key": "July 29/3 - Parrotfish Reef/P7290076.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290076.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290077": {
+        "key": "July 29/3 - Parrotfish Reef/P7290077.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290077.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290078": {
+        "key": "July 29/3 - Parrotfish Reef/P7290078.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290078.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290079": {
+        "key": "July 29/3 - Parrotfish Reef/P7290079.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290079.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290080": {
+        "key": "July 29/3 - Parrotfish Reef/P7290080.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290080.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290081": {
+        "key": "July 29/3 - Parrotfish Reef/P7290081.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290081.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290082": {
+        "key": "July 29/3 - Parrotfish Reef/P7290082.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290082.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290083": {
+        "key": "July 29/3 - Parrotfish Reef/P7290083.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290083.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290084": {
+        "key": "July 29/3 - Parrotfish Reef/P7290084.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290084.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290085": {
+        "key": "July 29/3 - Parrotfish Reef/P7290085.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290085.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290086": {
+        "key": "July 29/3 - Parrotfish Reef/P7290086.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290086.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290087": {
+        "key": "July 29/3 - Parrotfish Reef/P7290087.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290087.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290088": {
+        "key": "July 29/3 - Parrotfish Reef/P7290088.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290088.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290089": {
+        "key": "July 29/3 - Parrotfish Reef/P7290089.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290089.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290090": {
+        "key": "July 29/3 - Parrotfish Reef/P7290090.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290090.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290091": {
+        "key": "July 29/3 - Parrotfish Reef/P7290091.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290091.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290092": {
+        "key": "July 29/3 - Parrotfish Reef/P7290092.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290092.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290093": {
+        "key": "July 29/3 - Parrotfish Reef/P7290093.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290093.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290094": {
+        "key": "July 29/3 - Parrotfish Reef/P7290094.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290094.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290095": {
+        "key": "July 29/3 - Parrotfish Reef/P7290095.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290095.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290096": {
+        "key": "July 29/3 - Parrotfish Reef/P7290096.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290096.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290101": {
+        "key": "July 29/3 - Parrotfish Reef/P7290101.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/3+-+Parrotfish+Reef/P7290101.JPG",
+        "type": "image/jpeg"
+      }
+    },
+    "4 - Parrotfish Reef (Night Dive)": {
+      "01 - Sleeping parrot fish": {
+        "key": "July 29/4 - Parrotfish Reef (Night Dive)/01 - Sleeping parrot fish.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/01+-+Sleeping+parrot+fish.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/01+-+Sleeping+parrot+fish-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/01+-+Sleeping+parrot+fish-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/4-ParrotfishReef(NightDive)/01-Sleepingparrotfish-dash.mpd"
+      },
+      "02 - Bloodworms swimming in the camera light": {
+        "key": "July 29/4 - Parrotfish Reef (Night Dive)/02 - Bloodworms swimming in the camera light.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/02+-+Bloodworms+swimming+in+the+camera+light.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/02+-+Bloodworms+swimming+in+the+camera+light-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/02+-+Bloodworms+swimming+in+the+camera+light-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/4-ParrotfishReef(NightDive)/02-Bloodwormsswimminginthecameralight-dash.mpd"
+      },
+      "03 - Fish hiding on the bottom": {
+        "key": "July 29/4 - Parrotfish Reef (Night Dive)/03 - Fish hiding on the bottom.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/03+-+Fish+hiding+on+the+bottom.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/03+-+Fish+hiding+on+the+bottom-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/03+-+Fish+hiding+on+the+bottom-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/4-ParrotfishReef(NightDive)/03-Fishhidingonthebottom-dash.mpd"
+      },
+      "04 - OMG! Bloodworms": {
+        "key": "July 29/4 - Parrotfish Reef (Night Dive)/04 - OMG! Bloodworms.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/04+-+OMG!+Bloodworms.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/04+-+OMG!+Bloodworms-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/04+-+OMG!+Bloodworms-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/4-ParrotfishReef(NightDive)/04-OMG!Bloodworms-dash.mpd"
+      },
+      "05 - Eel hiding in the coral 1": {
+        "key": "July 29/4 - Parrotfish Reef (Night Dive)/05 - Eel hiding in the coral 1.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/05+-+Eel+hiding+in+the+coral+1.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/05+-+Eel+hiding+in+the+coral+1-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/05+-+Eel+hiding+in+the+coral+1-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/4-ParrotfishReef(NightDive)/05-Eelhidinginthecoral1-dash.mpd"
+      },
+      "06 - Eel hiding in the coral 2": {
+        "key": "July 29/4 - Parrotfish Reef (Night Dive)/06 - Eel hiding in the coral 2.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/06+-+Eel+hiding+in+the+coral+2.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/06+-+Eel+hiding+in+the+coral+2-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/06+-+Eel+hiding+in+the+coral+2-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/4-ParrotfishReef(NightDive)/06-Eelhidinginthecoral2-dash.mpd"
+      },
+      "GOPR0494": {
+        "key": "July 29/4 - Parrotfish Reef (Night Dive)/GOPR0494.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/GOPR0494.JPG",
+        "type": "image/jpeg"
+      },
+      "GOPR0497": {
+        "key": "July 29/4 - Parrotfish Reef (Night Dive)/GOPR0497.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/GOPR0497.JPG",
+        "type": "image/jpeg"
+      },
+      "GOPR0499": {
+        "key": "July 29/4 - Parrotfish Reef (Night Dive)/GOPR0499.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/GOPR0499.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290102": {
+        "key": "July 29/4 - Parrotfish Reef (Night Dive)/P7290102.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/P7290102.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290103": {
+        "key": "July 29/4 - Parrotfish Reef (Night Dive)/P7290103.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/P7290103.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290104": {
+        "key": "July 29/4 - Parrotfish Reef (Night Dive)/P7290104.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/P7290104.JPG",
+        "type": "image/jpeg"
+      },
+      "P7290105": {
+        "key": "July 29/4 - Parrotfish Reef (Night Dive)/P7290105.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/4+-+Parrotfish+Reef+(Night+Dive)/P7290105.JPG",
+        "type": "image/jpeg"
+      }
+    },
+    "Onboard the Sea Explorer": {
+      "key": "July 29/Onboard the Sea Explorer.MP4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/Onboard+the+Sea+Explorer.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/Onboard+the+Sea+Explorer-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+29/Onboard+the+Sea+Explorer-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July29/OnboardtheSeaExplorer-dash.mpd"
+    }
+  },
+  "July 30": {
+    "5 - Goombay Reef": {
+      "01 - Swimming with a reef shark": {
+        "key": "July 30/5 - Goombay Reef/01 - Swimming with a reef shark.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/5+-+Goombay+Reef/01+-+Swimming+with+a+reef+shark.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/5+-+Goombay+Reef/01+-+Swimming+with+a+reef+shark-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/5+-+Goombay+Reef/01+-+Swimming+with+a+reef+shark-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/5-GoombayReef/01-Swimmingwithareefshark-dash.mpd"
+      },
+      "02 - Some coral": {
+        "key": "July 30/5 - Goombay Reef/02 - Some coral.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/5+-+Goombay+Reef/02+-+Some+coral.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/5+-+Goombay+Reef/02+-+Some+coral-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/5+-+Goombay+Reef/02+-+Some+coral-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/5-GoombayReef/02-Somecoral-dash.mpd"
+      },
+      "Goombay Reef briefing 1": {
+        "key": "July 30/5 - Goombay Reef/Goombay Reef briefing 1.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/5+-+Goombay+Reef/Goombay+Reef+briefing+1.JPG",
+        "type": "image/jpeg"
+      },
+      "Goombay Reef briefing 2": {
+        "key": "July 30/5 - Goombay Reef/Goombay Reef briefing 2.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/5+-+Goombay+Reef/Goombay+Reef+briefing+2.JPG",
+        "type": "image/jpeg"
+      }
+    },
+    "6 - Danger Reef": {
+      "01 - Descent into the reef with some reef sharks": {
+        "key": "July 30/6 - Danger Reef/01 - Descent into the reef with some reef sharks.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/01+-+Descent+into+the+reef+with+some+reef+sharks.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/01+-+Descent+into+the+reef+with+some+reef+sharks-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/01+-+Descent+into+the+reef+with+some+reef+sharks-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/6-DangerReef/01-Descentintothereefwithsomereefsharks-dash.mpd"
+      },
+      "02 - A big grouper watching over the jacks": {
+        "key": "July 30/6 - Danger Reef/02 - A big grouper watching over the jacks.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/02+-+A+big+grouper+watching+over+the+jacks.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/02+-+A+big+grouper+watching+over+the+jacks-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/02+-+A+big+grouper+watching+over+the+jacks-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/6-DangerReef/02-Abiggrouperwatchingoverthejacks-dash.mpd"
+      },
+      "03 - Mystery fish": {
+        "key": "July 30/6 - Danger Reef/03 - Mystery fish.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/03+-+Mystery+fish.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/03+-+Mystery+fish-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/03+-+Mystery+fish-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/6-DangerReef/03-Mysteryfish-dash.mpd"
+      },
+      "04 - Trumpet fish in the coral": {
+        "key": "July 30/6 - Danger Reef/04 - Trumpet fish in the coral.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/04+-+Trumpet+fish+in+the+coral.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/04+-+Trumpet+fish+in+the+coral-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/04+-+Trumpet+fish+in+the+coral-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/6-DangerReef/04-Trumpetfishinthecoral-dash.mpd"
+      },
+      "05 - Sharks hunting a jack": {
+        "key": "July 30/6 - Danger Reef/05 - Sharks hunting a jack.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/05+-+Sharks+hunting+a+jack.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/05+-+Sharks+hunting+a+jack-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/05+-+Sharks+hunting+a+jack-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/6-DangerReef/05-Sharkshuntingajack-dash.mpd"
+      },
+      "06 - Reef shark on patrol": {
+        "key": "July 30/6 - Danger Reef/06 - Reef shark on patrol.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/06+-+Reef+shark+on+patrol.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/06+-+Reef+shark+on+patrol-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/06+-+Reef+shark+on+patrol-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/6-DangerReef/06-Reefsharkonpatrol-dash.mpd"
+      },
+      "07 - Curious Ramora 1": {
+        "key": "July 30/6 - Danger Reef/07 - Curious Ramora 1.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/07+-+Curious+Ramora+1.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/07+-+Curious+Ramora+1-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/07+-+Curious+Ramora+1-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/6-DangerReef/07-CuriousRamora1-dash.mpd"
+      },
+      "08 - Curious Ramora 2": {
+        "key": "July 30/6 - Danger Reef/08 - Curious Ramora 2.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/08+-+Curious+Ramora+2.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/08+-+Curious+Ramora+2-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/08+-+Curious+Ramora+2-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/6-DangerReef/08-CuriousRamora2-dash.mpd"
+      },
+      "09 - A shark checking out the Dive Family": {
+        "key": "July 30/6 - Danger Reef/09 - A shark checking out the Dive Family.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/09+-+A+shark+checking+out+the+Dive+Family.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/09+-+A+shark+checking+out+the+Dive+Family-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/09+-+A+shark+checking+out+the+Dive+Family-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/6-DangerReef/09-AsharkcheckingouttheDiveFamily-dash.mpd"
+      },
+      "10 - Spotted eagle rays on the safety stop": {
+        "key": "July 30/6 - Danger Reef/10 - Spotted eagle rays on the safety stop.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/10+-+Spotted+eagle+rays+on+the+safety+stop.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/10+-+Spotted+eagle+rays+on+the+safety+stop-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/10+-+Spotted+eagle+rays+on+the+safety+stop-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/6-DangerReef/10-Spottedeagleraysonthesafetystop-dash.mpd"
+      },
+      "11 - Reef shark checking out Oliver": {
+        "key": "July 30/6 - Danger Reef/11 - Reef shark checking out Oliver.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/11+-+Reef+shark+checking+out+Oliver.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/11+-+Reef+shark+checking+out+Oliver-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/11+-+Reef+shark+checking+out+Oliver-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/6-DangerReef/11-ReefsharkcheckingoutOliver-dash.mpd"
+      },
+      "12 - Sharks circling during safety stop": {
+        "key": "July 30/6 - Danger Reef/12 - Sharks circling during safety stop.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/12+-+Sharks+circling+during+safety+stop.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/12+-+Sharks+circling+during+safety+stop-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/12+-+Sharks+circling+during+safety+stop-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/6-DangerReef/12-Sharkscirclingduringsafetystop-dash.mpd"
+      },
+      "Danger Reef briefing": {
+        "key": "July 30/6 - Danger Reef/Danger Reef briefing.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/6+-+Danger+Reef/Danger+Reef+briefing.JPG",
+        "type": "image/jpeg"
+      }
+    },
+    "7 - The Gulch": {
+      "01 - Colourful coral and sponges 1": {
+        "key": "July 30/7 - The Gulch/01 - Colourful coral and sponges 1.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/01+-+Colourful+coral+and+sponges+1.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/01+-+Colourful+coral+and+sponges+1-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/01+-+Colourful+coral+and+sponges+1-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/7-TheGulch/01-Colourfulcoralandsponges1-dash.mpd"
+      },
+      "02 - Colourful coral and sponges 2": {
+        "key": "July 30/7 - The Gulch/02 - Colourful coral and sponges 2.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/02+-+Colourful+coral+and+sponges+2.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/02+-+Colourful+coral+and+sponges+2-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/02+-+Colourful+coral+and+sponges+2-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/7-TheGulch/02-Colourfulcoralandsponges2-dash.mpd"
+      },
+      "03 - Stingray hiding in the sand 1": {
+        "key": "July 30/7 - The Gulch/03 - Stingray hiding in the sand 1.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/03+-+Stingray+hiding+in+the+sand+1.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/03+-+Stingray+hiding+in+the+sand+1-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/03+-+Stingray+hiding+in+the+sand+1-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/7-TheGulch/03-Stingrayhidinginthesand1-dash.mpd"
+      },
+      "04 - Stringray hiding in the sand 2": {
+        "key": "July 30/7 - The Gulch/04 - Stringray hiding in the sand 2.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/04+-+Stringray+hiding+in+the+sand+2.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/04+-+Stringray+hiding+in+the+sand+2-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/04+-+Stringray+hiding+in+the+sand+2-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/7-TheGulch/04-Stringrayhidinginthesand2-dash.mpd"
+      },
+      "05 - Colourful coral and sponges 3": {
+        "key": "July 30/7 - The Gulch/05 - Colourful coral and sponges 3.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/05+-+Colourful+coral+and+sponges+3.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/05+-+Colourful+coral+and+sponges+3-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/05+-+Colourful+coral+and+sponges+3-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/7-TheGulch/05-Colourfulcoralandsponges3-dash.mpd"
+      },
+      "06 - More of those spiral things retreating into the coral": {
+        "key": "July 30/7 - The Gulch/06 - More of those spiral things retreating into the coral.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/06+-+More+of+those+spiral+things+retreating+into+the+coral.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/06+-+More+of+those+spiral+things+retreating+into+the+coral-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/06+-+More+of+those+spiral+things+retreating+into+the+coral-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/7-TheGulch/06-Moreofthosespiralthingsretreatingintothecoral-dash.mpd"
+      },
+      "07 - Stingray gliding over the sand 1": {
+        "key": "July 30/7 - The Gulch/07 - Stingray gliding over the sand 1.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/07+-+Stingray+gliding+over+the+sand+1.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/07+-+Stingray+gliding+over+the+sand+1-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/07+-+Stingray+gliding+over+the+sand+1-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/7-TheGulch/07-Stingrayglidingoverthesand1-dash.mpd"
+      },
+      "08 - Stingray gliding over the sand 2": {
+        "key": "July 30/7 - The Gulch/08 - Stingray gliding over the sand 2.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/08+-+Stingray+gliding+over+the+sand+2.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/08+-+Stingray+gliding+over+the+sand+2-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/08+-+Stingray+gliding+over+the+sand+2-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/7-TheGulch/08-Stingrayglidingoverthesand2-dash.mpd"
+      },
+      "09 - Colourful coral and sponges 4": {
+        "key": "July 30/7 - The Gulch/09 - Colourful coral and sponges 4.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/09+-+Colourful+coral+and+sponges+4.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/09+-+Colourful+coral+and+sponges+4-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/09+-+Colourful+coral+and+sponges+4-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/7-TheGulch/09-Colourfulcoralandsponges4-dash.mpd"
+      },
+      "10 - Colourful coral and sponges 5": {
+        "key": "July 30/7 - The Gulch/10 - Colourful coral and sponges 5.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/10+-+Colourful+coral+and+sponges+5.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/10+-+Colourful+coral+and+sponges+5-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/10+-+Colourful+coral+and+sponges+5-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/7-TheGulch/10-Colourfulcoralandsponges5-dash.mpd"
+      },
+      "Ramora hanging around Daren": {
+        "key": "July 30/7 - The Gulch/Ramora hanging around Daren.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/Ramora+hanging+around+Daren.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/Ramora+hanging+around+Daren-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/Ramora+hanging+around+Daren-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/7-TheGulch/RamorahangingaroundDaren-dash.mpd"
+      },
+      "The Gulch briefing 1": {
+        "key": "July 30/7 - The Gulch/The Gulch briefing 1.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/The+Gulch+briefing+1.JPG",
+        "type": "image/jpeg"
+      },
+      "The Gulch briefing 2": {
+        "key": "July 30/7 - The Gulch/The Gulch briefing 2.JPG",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/7+-+The+Gulch/The+Gulch+briefing+2.JPG",
+        "type": "image/jpeg"
+      }
+    },
+    "Choppy seas": {
+      "key": "July 30/Choppy seas.MOV",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/Choppy+seas.MOV",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/Choppy+seas-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/Choppy+seas-hls.MOV",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/Choppyseas-dash.mpd"
+    },
+    "Lowering the sail": {
+      "key": "July 30/Lowering the sail.MOV",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/Lowering+the+sail.MOV",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/Lowering+the+sail-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/Lowering+the+sail-hls.MOV",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/Loweringthesail-dash.mpd"
+    },
+    "More sailing over turquoise water": {
+      "key": "July 30/More sailing over turquoise water.MP4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/More+sailing+over+turquoise+water.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/More+sailing+over+turquoise+water-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/More+sailing+over+turquoise+water-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/Moresailingoverturquoisewater-dash.mpd"
+    },
+    "P7300113": {
+      "key": "July 30/P7300113.JPG",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/P7300113.JPG",
+      "type": "image/jpeg"
+    },
+    "P7300114": {
+      "key": "July 30/P7300114.JPG",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/P7300114.JPG",
+      "type": "image/jpeg"
+    },
+    "P7300116": {
+      "key": "July 30/P7300116.JPG",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/P7300116.JPG",
+      "type": "image/jpeg"
+    },
+    "P7300117": {
+      "key": "July 30/P7300117.JPG",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/P7300117.JPG",
+      "type": "image/jpeg"
+    },
+    "P7300118": {
+      "key": "July 30/P7300118.JPG",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/P7300118.JPG",
+      "type": "image/jpeg"
+    },
+    "Sailing the Bahamas": {
+      "key": "July 30/Sailing the Bahamas.MP4",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/Sailing+the+Bahamas.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/Sailing+the+Bahamas-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/Sailing+the+Bahamas-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July30/SailingtheBahamas-dash.mpd"
+    },
+    "Sails up": {
+      "key": "July 30/Sails up.JPG",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/Sails+up.JPG",
+      "type": "image/jpeg"
+    },
+    "The map": {
+      "key": "July 30/The map.JPG",
+      "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+30/The+map.JPG",
+      "type": "image/jpeg"
+    }
+  },
+  "July 31": {
+    "10 - The Smuggler's Plane": {
+      "01 - Approaching the wreck and admiring all the fish": {
+        "key": "July 31/10 - The Smuggler's Plane/01 - Approaching the wreck and admiring all the fish.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/01+-+Approaching+the+wreck+and+admiring+all+the+fish.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/01+-+Approaching+the+wreck+and+admiring+all+the+fish-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/01+-+Approaching+the+wreck+and+admiring+all+the+fish-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/01-Approachingthewreckandadmiringallthefish-dash.mpd"
+      },
+      "02 - Floating above the wreck": {
+        "key": "July 31/10 - The Smuggler's Plane/02 - Floating above the wreck.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/02+-+Floating+above+the+wreck.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/02+-+Floating+above+the+wreck-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/02+-+Floating+above+the+wreck-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/02-Floatingabovethewreck-dash.mpd"
+      },
+      "03 - Visiting barracuda and close up of wreckage": {
+        "key": "July 31/10 - The Smuggler's Plane/03 - Visiting barracuda and close up of wreckage.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/03+-+Visiting+barracuda+and+close+up+of+wreckage.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/03+-+Visiting+barracuda+and+close+up+of+wreckage-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/03+-+Visiting+barracuda+and+close+up+of+wreckage-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/03-Visitingbarracudaandcloseupofwreckage-dash.mpd"
+      },
+      "04 - Small anemone": {
+        "key": "July 31/10 - The Smuggler's Plane/04 - Small anemone.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/04+-+Small+anemone.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/04+-+Small+anemone-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/04+-+Small+anemone-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/04-Smallanemone-dash.mpd"
+      },
+      "05 - Small sting ray hiding in the sand": {
+        "key": "July 31/10 - The Smuggler's Plane/05 - Small sting ray hiding in the sand.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/05+-+Small+sting+ray+hiding+in+the+sand.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/05+-+Small+sting+ray+hiding+in+the+sand-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/05+-+Small+sting+ray+hiding+in+the+sand-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/05-Smallstingrayhidinginthesand-dash.mpd"
+      },
+      "06 - Two yellow sting rays": {
+        "key": "July 31/10 - The Smuggler's Plane/06 - Two yellow sting rays.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/06+-+Two+yellow+sting+rays.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/06+-+Two+yellow+sting+rays-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/06+-+Two+yellow+sting+rays-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/06-Twoyellowstingrays-dash.mpd"
+      },
+      "07 - Sting ray gliding over the wing": {
+        "key": "July 31/10 - The Smuggler's Plane/07 - Sting ray gliding over the wing.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/07+-+Sting+ray+gliding+over+the+wing.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/07+-+Sting+ray+gliding+over+the+wing-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/07+-+Sting+ray+gliding+over+the+wing-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/07-Stingrayglidingoverthewing-dash.mpd"
+      },
+      "08 - Fish schooling in the wreckage": {
+        "key": "July 31/10 - The Smuggler's Plane/08 - Fish schooling in the wreckage.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/08+-+Fish+schooling+in+the+wreckage.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/08+-+Fish+schooling+in+the+wreckage-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/08+-+Fish+schooling+in+the+wreckage-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/08-Fishschoolinginthewreckage-dash.mpd"
+      },
+      "09 - Sea star, conchs, a ray, and a trigger fish": {
+        "key": "July 31/10 - The Smuggler's Plane/09 - Sea star, conchs, a ray, and a trigger fish.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/09+-+Sea+star,+conchs,+a+ray,+and+a+trigger+fish.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/09+-+Sea+star,+conchs,+a+ray,+and+a+trigger+fish-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/09+-+Sea+star,+conchs,+a+ray,+and+a+trigger+fish-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/09-Seastar,conchs,aray,andatriggerfish-dash.mpd"
+      },
+      "10 - Small fish checking out wreckage in the sand": {
+        "key": "July 31/10 - The Smuggler's Plane/10 - Small fish checking out wreckage in the sand.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/10+-+Small+fish+checking+out+wreckage+in+the+sand.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/10+-+Small+fish+checking+out+wreckage+in+the+sand-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/10+-+Small+fish+checking+out+wreckage+in+the+sand-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/10-Smallfishcheckingoutwreckageinthesand-dash.mpd"
+      },
+      "11 - Fish hiding in the wing": {
+        "key": "July 31/10 - The Smuggler's Plane/11 - Fish hiding in the wing.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/11+-+Fish+hiding+in+the+wing.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/11+-+Fish+hiding+in+the+wing-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/11+-+Fish+hiding+in+the+wing-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/11-Fishhidinginthewing-dash.mpd"
+      },
+      "12 - Checking out the engine and under the wing": {
+        "key": "July 31/10 - The Smuggler's Plane/12 - Checking out the engine and under the wing.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/12+-+Checking+out+the+engine+and+under+the+wing.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/12+-+Checking+out+the+engine+and+under+the+wing-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/12+-+Checking+out+the+engine+and+under+the+wing-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/12-Checkingouttheengineandunderthewing-dash.mpd"
+      },
+      "13 - Fish hiding in all the small spaces": {
+        "key": "July 31/10 - The Smuggler's Plane/13 - Fish hiding in all the small spaces.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/13+-+Fish+hiding+in+all+the+small+spaces.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/13+-+Fish+hiding+in+all+the+small+spaces-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/13+-+Fish+hiding+in+all+the+small+spaces-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/13-Fishhidinginallthesmallspaces-dash.mpd"
+      },
+      "14 - Coral growth on the wreck": {
+        "key": "July 31/10 - The Smuggler's Plane/14 - Coral growth on the wreck.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/14+-+Coral+growth+on+the+wreck.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/14+-+Coral+growth+on+the+wreck-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/14+-+Coral+growth+on+the+wreck-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/14-Coralgrowthonthewreck-dash.mpd"
+      },
+      "15 - Conch in the sand": {
+        "key": "July 31/10 - The Smuggler's Plane/15 - Conch in the sand.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/15+-+Conch+in+the+sand.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/15+-+Conch+in+the+sand-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/15+-+Conch+in+the+sand-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/15-Conchinthesand-dash.mpd"
+      },
+      "16 - Sting ray swimming nearby": {
+        "key": "July 31/10 - The Smuggler's Plane/16 - Sting ray swimming nearby.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/16+-+Sting+ray+swimming+nearby.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/16+-+Sting+ray+swimming+nearby-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/16+-+Sting+ray+swimming+nearby-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/16-Stingrayswimmingnearby-dash.mpd"
+      },
+      "17 - Yellow sting ray hiding in the grass": {
+        "key": "July 31/10 - The Smuggler's Plane/17 - Yellow sting ray hiding in the grass.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/17+-+Yellow+sting+ray+hiding+in+the+grass.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/17+-+Yellow+sting+ray+hiding+in+the+grass-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/17+-+Yellow+sting+ray+hiding+in+the+grass-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/17-Yellowstingrayhidinginthegrass-dash.mpd"
+      },
+      "18 - Sand": {
+        "key": "July 31/10 - The Smuggler's Plane/18 - Sand.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/18+-+Sand.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/18+-+Sand-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/18+-+Sand-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/18-Sand-dash.mpd"
+      },
+      "19 - Interesting plant life": {
+        "key": "July 31/10 - The Smuggler's Plane/19 - Interesting plant life.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/19+-+Interesting+plant+life.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/19+-+Interesting+plant+life-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/19+-+Interesting+plant+life-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/19-Interestingplantlife-dash.mpd"
+      },
+      "20 - Great big anemone": {
+        "key": "July 31/10 - The Smuggler's Plane/20 - Great big anemone.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/20+-+Great+big+anemone.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/20+-+Great+big+anemone-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/10+-+The+Smuggler's+Plane/20+-+Great+big+anemone-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/10-TheSmuggler'sPlane/20-Greatbiganemone-dash.mpd"
+      }
+    },
+    "8 - Three Sheets to the Wind (Drift Dive)": {
+      "01 - Drifting over the reef 1": {
+        "key": "July 31/8 - Three Sheets to the Wind (Drift Dive)/01 - Drifting over the reef 1.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/8+-+Three+Sheets+to+the+Wind+(Drift+Dive)/01+-+Drifting+over+the+reef+1.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/8+-+Three+Sheets+to+the+Wind+(Drift+Dive)/01+-+Drifting+over+the+reef+1-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/8+-+Three+Sheets+to+the+Wind+(Drift+Dive)/01+-+Drifting+over+the+reef+1-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/8-ThreeSheetstotheWind(DriftDive)/01-Driftingoverthereef1-dash.mpd"
+      },
+      "02 - Drifting over the reef 2": {
+        "key": "July 31/8 - Three Sheets to the Wind (Drift Dive)/02 - Drifting over the reef 2.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/8+-+Three+Sheets+to+the+Wind+(Drift+Dive)/02+-+Drifting+over+the+reef+2.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/8+-+Three+Sheets+to+the+Wind+(Drift+Dive)/02+-+Drifting+over+the+reef+2-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/8+-+Three+Sheets+to+the+Wind+(Drift+Dive)/02+-+Drifting+over+the+reef+2-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/8-ThreeSheetstotheWind(DriftDive)/02-Driftingoverthereef2-dash.mpd"
+      },
+      "03 - Drifting over the reef 3": {
+        "key": "July 31/8 - Three Sheets to the Wind (Drift Dive)/03 - Drifting over the reef 3.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/8+-+Three+Sheets+to+the+Wind+(Drift+Dive)/03+-+Drifting+over+the+reef+3.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/8+-+Three+Sheets+to+the+Wind+(Drift+Dive)/03+-+Drifting+over+the+reef+3-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/8+-+Three+Sheets+to+the+Wind+(Drift+Dive)/03+-+Drifting+over+the+reef+3-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/8-ThreeSheetstotheWind(DriftDive)/03-Driftingoverthereef3-dash.mpd"
+      },
+      "04 - Drifting over the reef 4": {
+        "key": "July 31/8 - Three Sheets to the Wind (Drift Dive)/04 - Drifting over the reef 4.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/8+-+Three+Sheets+to+the+Wind+(Drift+Dive)/04+-+Drifting+over+the+reef+4.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/8+-+Three+Sheets+to+the+Wind+(Drift+Dive)/04+-+Drifting+over+the+reef+4-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/8+-+Three+Sheets+to+the+Wind+(Drift+Dive)/04+-+Drifting+over+the+reef+4-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/8-ThreeSheetstotheWind(DriftDive)/04-Driftingoverthereef4-dash.mpd"
+      }
+    },
+    "9 - Lobster, No Lobster": {
+      "01 - Dive briefing": {
+        "key": "July 31/9 - Lobster, No Lobster/01 - Dive briefing.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/01+-+Dive+briefing.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/01+-+Dive+briefing-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/01+-+Dive+briefing-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/9-Lobster,NoLobster/01-Divebriefing-dash.mpd"
+      },
+      "02 - Chris jumping in": {
+        "key": "July 31/9 - Lobster, No Lobster/02 - Chris jumping in.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/02+-+Chris+jumping+in.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/02+-+Chris+jumping+in-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/02+-+Chris+jumping+in-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/9-Lobster,NoLobster/02-Chrisjumpingin-dash.mpd"
+      },
+      "03 - Exploring the reef": {
+        "key": "July 31/9 - Lobster, No Lobster/03 - Exploring the reef.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/03+-+Exploring+the+reef.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/03+-+Exploring+the+reef-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/03+-+Exploring+the+reef-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/9-Lobster,NoLobster/03-Exploringthereef-dash.mpd"
+      },
+      "04 - Giant sea cucumber": {
+        "key": "July 31/9 - Lobster, No Lobster/04 - Giant sea cucumber.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/04+-+Giant+sea+cucumber.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/04+-+Giant+sea+cucumber-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/04+-+Giant+sea+cucumber-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/9-Lobster,NoLobster/04-Giantseacucumber-dash.mpd"
+      },
+      "05 - School of fish on the reef": {
+        "key": "July 31/9 - Lobster, No Lobster/05 - School of fish on the reef.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/05+-+School+of+fish+on+the+reef.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/05+-+School+of+fish+on+the+reef-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/05+-+School+of+fish+on+the+reef-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/9-Lobster,NoLobster/05-Schooloffishonthereef-dash.mpd"
+      },
+      "06 - Trumpet fish": {
+        "key": "July 31/9 - Lobster, No Lobster/06 - Trumpet fish.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/06+-+Trumpet+fish.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/06+-+Trumpet+fish-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/06+-+Trumpet+fish-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/9-Lobster,NoLobster/06-Trumpetfish-dash.mpd"
+      },
+      "07 - Shark": {
+        "key": "July 31/9 - Lobster, No Lobster/07 - Shark.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/07+-+Shark.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/07+-+Shark-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/07+-+Shark-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/9-Lobster,NoLobster/07-Shark-dash.mpd"
+      },
+      "08 - Barracuda": {
+        "key": "July 31/9 - Lobster, No Lobster/08 - Barracuda.MP4",
+        "url": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/08+-+Barracuda.MP4",
+        "type": "video/mp4",
+        "thumbnailUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/08+-+Barracuda-00001.png",
+        "hlsUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July+31/9+-+Lobster,+No+Lobster/08+-+Barracuda-hls.MP4",
+        "dashUrl": "https://s3.amazonaws.com/2018-bahamas-trip/July31/9-Lobster,NoLobster/08-Barracuda-dash.mpd"
+      }
+    }
+  }
+};

@@ -1,0 +1,3077 @@
+module.exports = {
+  "01 - Columbia Ladrillo": {
+    "GOPR0007 - Drifting among the coral": {
+      "key": "01 - Columbia Ladrillo/GOPR0007 - Drifting among the coral.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/01+-+Columbia+Ladrillo/GOPR0007+-+Drifting+among+the+coral.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/01+-+Columbia+Ladrillo/GOPR0007+-+Drifting+among+the+coral-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/01+-+Columbia+Ladrillo/GOPR0007+-+Drifting+among+the+coral-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/01-ColumbiaLadrillo/GOPR0007-Driftingamongthecoral-dash.mpd"
+    },
+    "GOPR0008 - Eagle Ray + More Sweet Drifting": {
+      "key": "01 - Columbia Ladrillo/GOPR0008 - Eagle Ray + More Sweet Drifting.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/01+-+Columbia+Ladrillo/GOPR0008+-+Eagle+Ray+++More+Sweet+Drifting.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/01+-+Columbia+Ladrillo/GOPR0008+-+Eagle+Ray+++More+Sweet+Drifting-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/01+-+Columbia+Ladrillo/GOPR0008+-+Eagle+Ray+++More+Sweet+Drifting-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/01-ColumbiaLadrillo/GOPR0008-EagleRay+MoreSweetDrifting-dash.mpd"
+    },
+    "GOPR0009 - More drifting": {
+      "key": "01 - Columbia Ladrillo/GOPR0009 - More drifting.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/01+-+Columbia+Ladrillo/GOPR0009+-+More+drifting.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/01+-+Columbia+Ladrillo/GOPR0009+-+More+drifting-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/01+-+Columbia+Ladrillo/GOPR0009+-+More+drifting-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/01-ColumbiaLadrillo/GOPR0009-Moredrifting-dash.mpd"
+    },
+    "GOPR0010 - More drifting": {
+      "key": "01 - Columbia Ladrillo/GOPR0010 - More drifting.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/01+-+Columbia+Ladrillo/GOPR0010+-+More+drifting.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/01+-+Columbia+Ladrillo/GOPR0010+-+More+drifting-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/01+-+Columbia+Ladrillo/GOPR0010+-+More+drifting-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/01-ColumbiaLadrillo/GOPR0010-Moredrifting-dash.mpd"
+    },
+    "GOPR0011 - Parrot fish": {
+      "key": "01 - Columbia Ladrillo/GOPR0011 - Parrot fish.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/01+-+Columbia+Ladrillo/GOPR0011+-+Parrot+fish.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/01+-+Columbia+Ladrillo/GOPR0011+-+Parrot+fish-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/01+-+Columbia+Ladrillo/GOPR0011+-+Parrot+fish-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/01-ColumbiaLadrillo/GOPR0011-Parrotfish-dash.mpd"
+    },
+    "GOPR0012 - Triggerfish": {
+      "key": "01 - Columbia Ladrillo/GOPR0012 - Triggerfish.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/01+-+Columbia+Ladrillo/GOPR0012+-+Triggerfish.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/01+-+Columbia+Ladrillo/GOPR0012+-+Triggerfish-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/01+-+Columbia+Ladrillo/GOPR0012+-+Triggerfish-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/01-ColumbiaLadrillo/GOPR0012-Triggerfish-dash.mpd"
+    }
+  },
+  "02 - Chak Mool Cenote": {
+    "G0010015": {
+      "key": "02 - Chak Mool Cenote/G0010015.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0010015.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020025": {
+      "key": "02 - Chak Mool Cenote/G0020025.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020025.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020026": {
+      "key": "02 - Chak Mool Cenote/G0020026.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020026.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020027": {
+      "key": "02 - Chak Mool Cenote/G0020027.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020027.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020028": {
+      "key": "02 - Chak Mool Cenote/G0020028.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020028.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020029": {
+      "key": "02 - Chak Mool Cenote/G0020029.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020029.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020030": {
+      "key": "02 - Chak Mool Cenote/G0020030.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020030.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020031": {
+      "key": "02 - Chak Mool Cenote/G0020031.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020031.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020032": {
+      "key": "02 - Chak Mool Cenote/G0020032.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020032.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020033": {
+      "key": "02 - Chak Mool Cenote/G0020033.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020033.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020034": {
+      "key": "02 - Chak Mool Cenote/G0020034.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020034.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020035": {
+      "key": "02 - Chak Mool Cenote/G0020035.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020035.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020036": {
+      "key": "02 - Chak Mool Cenote/G0020036.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020036.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020037": {
+      "key": "02 - Chak Mool Cenote/G0020037.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020037.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020038": {
+      "key": "02 - Chak Mool Cenote/G0020038.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020038.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020039": {
+      "key": "02 - Chak Mool Cenote/G0020039.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020039.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020040": {
+      "key": "02 - Chak Mool Cenote/G0020040.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020040.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020041": {
+      "key": "02 - Chak Mool Cenote/G0020041.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020041.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020042": {
+      "key": "02 - Chak Mool Cenote/G0020042.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020042.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020043": {
+      "key": "02 - Chak Mool Cenote/G0020043.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020043.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020044": {
+      "key": "02 - Chak Mool Cenote/G0020044.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020044.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020045": {
+      "key": "02 - Chak Mool Cenote/G0020045.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020045.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020046": {
+      "key": "02 - Chak Mool Cenote/G0020046.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020046.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020047": {
+      "key": "02 - Chak Mool Cenote/G0020047.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020047.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020048": {
+      "key": "02 - Chak Mool Cenote/G0020048.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020048.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020049": {
+      "key": "02 - Chak Mool Cenote/G0020049.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020049.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020050": {
+      "key": "02 - Chak Mool Cenote/G0020050.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020050.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020051": {
+      "key": "02 - Chak Mool Cenote/G0020051.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020051.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020052": {
+      "key": "02 - Chak Mool Cenote/G0020052.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020052.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020053": {
+      "key": "02 - Chak Mool Cenote/G0020053.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020053.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020054": {
+      "key": "02 - Chak Mool Cenote/G0020054.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0020054.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030059": {
+      "key": "02 - Chak Mool Cenote/G0030059.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030059.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030060": {
+      "key": "02 - Chak Mool Cenote/G0030060.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030060.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030061": {
+      "key": "02 - Chak Mool Cenote/G0030061.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030061.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030062": {
+      "key": "02 - Chak Mool Cenote/G0030062.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030062.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030063": {
+      "key": "02 - Chak Mool Cenote/G0030063.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030063.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030064": {
+      "key": "02 - Chak Mool Cenote/G0030064.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030064.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030065": {
+      "key": "02 - Chak Mool Cenote/G0030065.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030065.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030066": {
+      "key": "02 - Chak Mool Cenote/G0030066.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030066.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030067": {
+      "key": "02 - Chak Mool Cenote/G0030067.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030067.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030068": {
+      "key": "02 - Chak Mool Cenote/G0030068.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030068.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030069": {
+      "key": "02 - Chak Mool Cenote/G0030069.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030069.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030070": {
+      "key": "02 - Chak Mool Cenote/G0030070.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030070.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030071": {
+      "key": "02 - Chak Mool Cenote/G0030071.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030071.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030072": {
+      "key": "02 - Chak Mool Cenote/G0030072.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030072.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030073": {
+      "key": "02 - Chak Mool Cenote/G0030073.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030073.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030074": {
+      "key": "02 - Chak Mool Cenote/G0030074.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030074.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030075": {
+      "key": "02 - Chak Mool Cenote/G0030075.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030075.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030076": {
+      "key": "02 - Chak Mool Cenote/G0030076.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030076.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030077": {
+      "key": "02 - Chak Mool Cenote/G0030077.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030077.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030078": {
+      "key": "02 - Chak Mool Cenote/G0030078.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030078.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030079": {
+      "key": "02 - Chak Mool Cenote/G0030079.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030079.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030080": {
+      "key": "02 - Chak Mool Cenote/G0030080.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030080.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030081": {
+      "key": "02 - Chak Mool Cenote/G0030081.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030081.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030082": {
+      "key": "02 - Chak Mool Cenote/G0030082.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030082.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030083": {
+      "key": "02 - Chak Mool Cenote/G0030083.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030083.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030084": {
+      "key": "02 - Chak Mool Cenote/G0030084.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030084.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030085": {
+      "key": "02 - Chak Mool Cenote/G0030085.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030085.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030086": {
+      "key": "02 - Chak Mool Cenote/G0030086.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030086.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030087": {
+      "key": "02 - Chak Mool Cenote/G0030087.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030087.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030088": {
+      "key": "02 - Chak Mool Cenote/G0030088.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/G0030088.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0014 - Into the dark": {
+      "key": "02 - Chak Mool Cenote/GOPR0014 - Into the dark.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0014+-+Into+the+dark.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0014+-+Into+the+dark-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0014+-+Into+the+dark-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/02-ChakMoolCenote/GOPR0014-Intothedark-dash.mpd"
+    },
+    "GOPR0016": {
+      "key": "02 - Chak Mool Cenote/GOPR0016.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0016.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0017": {
+      "key": "02 - Chak Mool Cenote/GOPR0017.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0017.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0018": {
+      "key": "02 - Chak Mool Cenote/GOPR0018.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0018.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0019": {
+      "key": "02 - Chak Mool Cenote/GOPR0019.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0019.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0020": {
+      "key": "02 - Chak Mool Cenote/GOPR0020.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0020.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0021": {
+      "key": "02 - Chak Mool Cenote/GOPR0021.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0021.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0022 - Sunken rowboat": {
+      "key": "02 - Chak Mool Cenote/GOPR0022 - Sunken rowboat.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0022+-+Sunken+rowboat.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0022+-+Sunken+rowboat-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0022+-+Sunken+rowboat-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/02-ChakMoolCenote/GOPR0022-Sunkenrowboat-dash.mpd"
+    },
+    "GOPR0023": {
+      "key": "02 - Chak Mool Cenote/GOPR0023.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0023.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0024": {
+      "key": "02 - Chak Mool Cenote/GOPR0024.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0024.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0055 - Cave formations": {
+      "key": "02 - Chak Mool Cenote/GOPR0055 - Cave formations.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0055+-+Cave+formations.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0055+-+Cave+formations-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0055+-+Cave+formations-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/02-ChakMoolCenote/GOPR0055-Caveformations-dash.mpd"
+    },
+    "GOPR0056": {
+      "key": "02 - Chak Mool Cenote/GOPR0056.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0056.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0057": {
+      "key": "02 - Chak Mool Cenote/GOPR0057.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0057.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0058": {
+      "key": "02 - Chak Mool Cenote/GOPR0058.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0058.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0089 - Air pocket": {
+      "key": "02 - Chak Mool Cenote/GOPR0089 - Air pocket.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0089+-+Air+pocket.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0089+-+Air+pocket-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GOPR0089+-+Air+pocket-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/02-ChakMoolCenote/GOPR0089-Airpocket-dash.mpd"
+    },
+    "GP010014 - Back to the Surface": {
+      "key": "02 - Chak Mool Cenote/GP010014 - Back to the Surface.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GP010014+-+Back+to+the+Surface.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GP010014+-+Back+to+the+Surface-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/GP010014+-+Back+to+the+Surface-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/02-ChakMoolCenote/GP010014-BacktotheSurface-dash.mpd"
+    },
+    "Naza": {
+      ".DS_Store": {
+        "key": "02 - Chak Mool Cenote/Naza/.DS_Store",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/.DS_Store",
+        "type": "image/jpeg"
+      },
+      "._": {
+        "key": "02 - Chak Mool Cenote/Naza/._.DS_Store",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/._.DS_Store",
+        "type": "image/jpeg"
+      },
+      "P1190225": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190225.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190225.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190228": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190228.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190228.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190229": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190229.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190229.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190230": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190230.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190230.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190232": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190232.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190232.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190233": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190233.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190233.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190234": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190234.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190234.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190235": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190235.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190235.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190236": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190236.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190236.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190237": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190237.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190237.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190238": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190238.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190238.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190239": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190239.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190239.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190241": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190241.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190241.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190242": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190242.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190242.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190243": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190243.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190243.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190245": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190245.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190245.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190247": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190247.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190247.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190248": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190248.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190248.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190250": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190250.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190250.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190252": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190252.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190252.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190253": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190253.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190253.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190254": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190254.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190254.JPG",
+        "type": "image/jpeg"
+      },
+      "P1190255": {
+        "key": "02 - Chak Mool Cenote/Naza/P1190255.JPG",
+        "url": "https://s3.amazonaws.com/2017-cozumel-trip/02+-+Chak+Mool+Cenote/Naza/P1190255.JPG",
+        "type": "image/jpeg"
+      }
+    }
+  },
+  "03 - Cedral Wall": {
+    "G0010099": {
+      "key": "03 - Cedral Wall/G0010099.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/G0010099.JPG",
+      "type": "image/jpeg"
+    },
+    "G0020101": {
+      "key": "03 - Cedral Wall/G0020101.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/G0020101.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0092": {
+      "key": "03 - Cedral Wall/GOPR0092.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0092.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0093": {
+      "key": "03 - Cedral Wall/GOPR0093.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0093.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0094": {
+      "key": "03 - Cedral Wall/GOPR0094.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0094.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0095": {
+      "key": "03 - Cedral Wall/GOPR0095.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0095.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0096": {
+      "key": "03 - Cedral Wall/GOPR0096.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0096.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0097 - Drifting along; Sandy bottom + fish": {
+      "key": "03 - Cedral Wall/GOPR0097 - Drifting along; Sandy bottom + fish.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0097+-+Drifting+along;+Sandy+bottom+++fish.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0097+-+Drifting+along;+Sandy+bottom+++fish-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0097+-+Drifting+along;+Sandy+bottom+++fish-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03-CedralWall/GOPR0097-Driftingalong;Sandybottom+fish-dash.mpd"
+    },
+    "GOPR0098 - Eagle ray": {
+      "key": "03 - Cedral Wall/GOPR0098 - Eagle ray.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0098+-+Eagle+ray.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0098+-+Eagle+ray-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0098+-+Eagle+ray-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03-CedralWall/GOPR0098-Eagleray-dash.mpd"
+    },
+    "GOPR0100 - Bright coral, Chris swimming": {
+      "key": "03 - Cedral Wall/GOPR0100 - Bright coral, Chris swimming.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0100+-+Bright+coral,+Chris+swimming.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0100+-+Bright+coral,+Chris+swimming-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0100+-+Bright+coral,+Chris+swimming-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03-CedralWall/GOPR0100-Brightcoral,Chrisswimming-dash.mpd"
+    },
+    "GOPR0102 - Cowfish, more coral": {
+      "key": "03 - Cedral Wall/GOPR0102 - Cowfish, more coral.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0102+-+Cowfish,+more+coral.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0102+-+Cowfish,+more+coral-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0102+-+Cowfish,+more+coral-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03-CedralWall/GOPR0102-Cowfish,morecoral-dash.mpd"
+    },
+    "GOPR0103 - Resting turtle": {
+      "key": "03 - Cedral Wall/GOPR0103 - Resting turtle.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0103+-+Resting+turtle.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0103+-+Resting+turtle-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0103+-+Resting+turtle-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03-CedralWall/GOPR0103-Restingturtle-dash.mpd"
+    },
+    "GOPR0104": {
+      "key": "03 - Cedral Wall/GOPR0104.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0104.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0105 - Drifting, view of the surface": {
+      "key": "03 - Cedral Wall/GOPR0105 - Drifting, view of the surface.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0105+-+Drifting,+view+of+the+surface.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0105+-+Drifting,+view+of+the+surface-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0105+-+Drifting,+view+of+the+surface-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03-CedralWall/GOPR0105-Drifting,viewofthesurface-dash.mpd"
+    },
+    "GOPR0106": {
+      "key": "03 - Cedral Wall/GOPR0106.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0106.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0106-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0106-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03-CedralWall/GOPR0106-dash.mpd"
+    },
+    "GOPR0107 - Colourful fish": {
+      "key": "03 - Cedral Wall/GOPR0107 - Colourful fish.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0107+-+Colourful+fish.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0107+-+Colourful+fish-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0107+-+Colourful+fish-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03-CedralWall/GOPR0107-Colourfulfish-dash.mpd"
+    },
+    "GOPR0108": {
+      "key": "03 - Cedral Wall/GOPR0108.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0108.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0109": {
+      "key": "03 - Cedral Wall/GOPR0109.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0109.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0110": {
+      "key": "03 - Cedral Wall/GOPR0110.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0110.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0111": {
+      "key": "03 - Cedral Wall/GOPR0111.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0111.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0112": {
+      "key": "03 - Cedral Wall/GOPR0112.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0112.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0113": {
+      "key": "03 - Cedral Wall/GOPR0113.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0113.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0114": {
+      "key": "03 - Cedral Wall/GOPR0114.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0114.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0115": {
+      "key": "03 - Cedral Wall/GOPR0115.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0115.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0116": {
+      "key": "03 - Cedral Wall/GOPR0116.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0116.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0117 - School of yellow fish": {
+      "key": "03 - Cedral Wall/GOPR0117 - School of yellow fish.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0117+-+School+of+yellow+fish.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0117+-+School+of+yellow+fish-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0117+-+School+of+yellow+fish-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03-CedralWall/GOPR0117-Schoolofyellowfish-dash.mpd"
+    },
+    "GOPR0118 - Giant sponge": {
+      "key": "03 - Cedral Wall/GOPR0118 - Giant sponge.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0118+-+Giant+sponge.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0118+-+Giant+sponge-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0118+-+Giant+sponge-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03-CedralWall/GOPR0118-Giantsponge-dash.mpd"
+    },
+    "GOPR0119 - Just drifting": {
+      "key": "03 - Cedral Wall/GOPR0119 - Just drifting.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0119+-+Just+drifting.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0119+-+Just+drifting-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0119+-+Just+drifting-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03-CedralWall/GOPR0119-Justdrifting-dash.mpd"
+    },
+    "GOPR0120 - Interesting fish": {
+      "key": "03 - Cedral Wall/GOPR0120 - Interesting fish.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0120+-+Interesting+fish.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0120+-+Interesting+fish-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0120+-+Interesting+fish-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03-CedralWall/GOPR0120-Interestingfish-dash.mpd"
+    },
+    "GOPR0121 - Filefish": {
+      "key": "03 - Cedral Wall/GOPR0121 - Filefish.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0121+-+Filefish.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0121+-+Filefish-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0121+-+Filefish-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03-CedralWall/GOPR0121-Filefish-dash.mpd"
+    },
+    "GOPR0122 - Honeycomb cowfish": {
+      "key": "03 - Cedral Wall/GOPR0122 - Honeycomb cowfish.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0122+-+Honeycomb+cowfish.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0122+-+Honeycomb+cowfish-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0122+-+Honeycomb+cowfish-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03-CedralWall/GOPR0122-Honeycombcowfish-dash.mpd"
+    },
+    "GOPR0123 - Honeycomb cowfish II": {
+      "key": "03 - Cedral Wall/GOPR0123 - Honeycomb cowfish II.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0123+-+Honeycomb+cowfish+II.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0123+-+Honeycomb+cowfish+II-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0123+-+Honeycomb+cowfish+II-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03-CedralWall/GOPR0123-HoneycombcowfishII-dash.mpd"
+    },
+    "GOPR0124 - Nurse shark swim-by": {
+      "key": "03 - Cedral Wall/GOPR0124 - Nurse shark swim-by.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0124+-+Nurse+shark+swim-by.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0124+-+Nurse+shark+swim-by-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0124+-+Nurse+shark+swim-by-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03-CedralWall/GOPR0124-Nursesharkswim-by-dash.mpd"
+    },
+    "GOPR0125 - Swimming turtle": {
+      "key": "03 - Cedral Wall/GOPR0125 - Swimming turtle.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0125+-+Swimming+turtle.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0125+-+Swimming+turtle-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0125+-+Swimming+turtle-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/03-CedralWall/GOPR0125-Swimmingturtle-dash.mpd"
+    },
+    "GOPR0126": {
+      "key": "03 - Cedral Wall/GOPR0126.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/03+-+Cedral+Wall/GOPR0126.JPG",
+      "type": "image/jpeg"
+    }
+  },
+  "04 - San Francisco Reef": {
+    "G0030130": {
+      "key": "04 - San Francisco Reef/G0030130.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030130.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030131": {
+      "key": "04 - San Francisco Reef/G0030131.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030131.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030132": {
+      "key": "04 - San Francisco Reef/G0030132.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030132.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030133": {
+      "key": "04 - San Francisco Reef/G0030133.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030133.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030134": {
+      "key": "04 - San Francisco Reef/G0030134.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030134.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030135": {
+      "key": "04 - San Francisco Reef/G0030135.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030135.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030136": {
+      "key": "04 - San Francisco Reef/G0030136.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030136.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030137": {
+      "key": "04 - San Francisco Reef/G0030137.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030137.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030138": {
+      "key": "04 - San Francisco Reef/G0030138.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030138.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030139": {
+      "key": "04 - San Francisco Reef/G0030139.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030139.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030140": {
+      "key": "04 - San Francisco Reef/G0030140.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030140.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030141": {
+      "key": "04 - San Francisco Reef/G0030141.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030141.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030142": {
+      "key": "04 - San Francisco Reef/G0030142.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030142.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030143": {
+      "key": "04 - San Francisco Reef/G0030143.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030143.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030144": {
+      "key": "04 - San Francisco Reef/G0030144.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030144.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030145": {
+      "key": "04 - San Francisco Reef/G0030145.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030145.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030146": {
+      "key": "04 - San Francisco Reef/G0030146.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030146.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030147": {
+      "key": "04 - San Francisco Reef/G0030147.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030147.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030148": {
+      "key": "04 - San Francisco Reef/G0030148.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030148.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030149": {
+      "key": "04 - San Francisco Reef/G0030149.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030149.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030150": {
+      "key": "04 - San Francisco Reef/G0030150.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030150.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030151": {
+      "key": "04 - San Francisco Reef/G0030151.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030151.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030152": {
+      "key": "04 - San Francisco Reef/G0030152.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030152.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030153": {
+      "key": "04 - San Francisco Reef/G0030153.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030153.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030154": {
+      "key": "04 - San Francisco Reef/G0030154.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030154.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030155": {
+      "key": "04 - San Francisco Reef/G0030155.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030155.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030156": {
+      "key": "04 - San Francisco Reef/G0030156.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030156.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030157": {
+      "key": "04 - San Francisco Reef/G0030157.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030157.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030158": {
+      "key": "04 - San Francisco Reef/G0030158.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030158.JPG",
+      "type": "image/jpeg"
+    },
+    "G0030159": {
+      "key": "04 - San Francisco Reef/G0030159.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/G0030159.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0127 - Confusing": {
+      "key": "04 - San Francisco Reef/GOPR0127 - Confusing.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/GOPR0127+-+Confusing.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/GOPR0127+-+Confusing-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/GOPR0127+-+Confusing-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/04-SanFranciscoReef/GOPR0127-Confusing-dash.mpd"
+    },
+    "GOPR0128 - Looking over the wall + turtle": {
+      "key": "04 - San Francisco Reef/GOPR0128 - Looking over the wall + turtle.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/GOPR0128+-+Looking+over+the+wall+++turtle.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/GOPR0128+-+Looking+over+the+wall+++turtle-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/GOPR0128+-+Looking+over+the+wall+++turtle-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/04-SanFranciscoReef/GOPR0128-Lookingoverthewall+turtle-dash.mpd"
+    },
+    "GOPR0129": {
+      "key": "04 - San Francisco Reef/GOPR0129.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/GOPR0129.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0160 - Scorpion fish": {
+      "key": "04 - San Francisco Reef/GOPR0160 - Scorpion fish.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/GOPR0160+-+Scorpion+fish.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/GOPR0160+-+Scorpion+fish-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/GOPR0160+-+Scorpion+fish-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/04-SanFranciscoReef/GOPR0160-Scorpionfish-dash.mpd"
+    },
+    "GOPR0161 - Seashell": {
+      "key": "04 - San Francisco Reef/GOPR0161 - Seashell.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/GOPR0161+-+Seashell.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/GOPR0161+-+Seashell-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/04+-+San+Francisco+Reef/GOPR0161+-+Seashell-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/04-SanFranciscoReef/GOPR0161-Seashell-dash.mpd"
+    }
+  },
+  "05 - Palancar Horseshoe": {
+    "G0040168": {
+      "key": "05 - Palancar Horseshoe/G0040168.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040168.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040169": {
+      "key": "05 - Palancar Horseshoe/G0040169.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040169.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040170": {
+      "key": "05 - Palancar Horseshoe/G0040170.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040170.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040171": {
+      "key": "05 - Palancar Horseshoe/G0040171.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040171.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040172": {
+      "key": "05 - Palancar Horseshoe/G0040172.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040172.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040173": {
+      "key": "05 - Palancar Horseshoe/G0040173.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040173.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040174": {
+      "key": "05 - Palancar Horseshoe/G0040174.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040174.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040175": {
+      "key": "05 - Palancar Horseshoe/G0040175.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040175.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040176": {
+      "key": "05 - Palancar Horseshoe/G0040176.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040176.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040177": {
+      "key": "05 - Palancar Horseshoe/G0040177.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040177.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040178": {
+      "key": "05 - Palancar Horseshoe/G0040178.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040178.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040179": {
+      "key": "05 - Palancar Horseshoe/G0040179.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040179.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040180": {
+      "key": "05 - Palancar Horseshoe/G0040180.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040180.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040181": {
+      "key": "05 - Palancar Horseshoe/G0040181.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040181.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040182": {
+      "key": "05 - Palancar Horseshoe/G0040182.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040182.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040183": {
+      "key": "05 - Palancar Horseshoe/G0040183.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040183.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040184": {
+      "key": "05 - Palancar Horseshoe/G0040184.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040184.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040185": {
+      "key": "05 - Palancar Horseshoe/G0040185.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040185.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040186": {
+      "key": "05 - Palancar Horseshoe/G0040186.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040186.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040187": {
+      "key": "05 - Palancar Horseshoe/G0040187.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040187.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040188": {
+      "key": "05 - Palancar Horseshoe/G0040188.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040188.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040189": {
+      "key": "05 - Palancar Horseshoe/G0040189.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040189.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040190": {
+      "key": "05 - Palancar Horseshoe/G0040190.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040190.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040191": {
+      "key": "05 - Palancar Horseshoe/G0040191.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040191.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040192": {
+      "key": "05 - Palancar Horseshoe/G0040192.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040192.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040193": {
+      "key": "05 - Palancar Horseshoe/G0040193.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040193.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040194": {
+      "key": "05 - Palancar Horseshoe/G0040194.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040194.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040195": {
+      "key": "05 - Palancar Horseshoe/G0040195.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040195.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040196": {
+      "key": "05 - Palancar Horseshoe/G0040196.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040196.JPG",
+      "type": "image/jpeg"
+    },
+    "G0040197": {
+      "key": "05 - Palancar Horseshoe/G0040197.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0040197.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050204": {
+      "key": "05 - Palancar Horseshoe/G0050204.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050204.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050205": {
+      "key": "05 - Palancar Horseshoe/G0050205.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050205.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050206": {
+      "key": "05 - Palancar Horseshoe/G0050206.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050206.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050207": {
+      "key": "05 - Palancar Horseshoe/G0050207.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050207.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050208": {
+      "key": "05 - Palancar Horseshoe/G0050208.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050208.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050209": {
+      "key": "05 - Palancar Horseshoe/G0050209.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050209.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050210": {
+      "key": "05 - Palancar Horseshoe/G0050210.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050210.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050211": {
+      "key": "05 - Palancar Horseshoe/G0050211.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050211.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050212": {
+      "key": "05 - Palancar Horseshoe/G0050212.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050212.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050213": {
+      "key": "05 - Palancar Horseshoe/G0050213.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050213.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050214": {
+      "key": "05 - Palancar Horseshoe/G0050214.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050214.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050215": {
+      "key": "05 - Palancar Horseshoe/G0050215.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050215.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050216": {
+      "key": "05 - Palancar Horseshoe/G0050216.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050216.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050217": {
+      "key": "05 - Palancar Horseshoe/G0050217.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050217.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050218": {
+      "key": "05 - Palancar Horseshoe/G0050218.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050218.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050219": {
+      "key": "05 - Palancar Horseshoe/G0050219.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050219.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050220": {
+      "key": "05 - Palancar Horseshoe/G0050220.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050220.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050221": {
+      "key": "05 - Palancar Horseshoe/G0050221.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050221.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050222": {
+      "key": "05 - Palancar Horseshoe/G0050222.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050222.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050223": {
+      "key": "05 - Palancar Horseshoe/G0050223.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050223.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050224": {
+      "key": "05 - Palancar Horseshoe/G0050224.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050224.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050225": {
+      "key": "05 - Palancar Horseshoe/G0050225.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050225.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050226": {
+      "key": "05 - Palancar Horseshoe/G0050226.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050226.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050227": {
+      "key": "05 - Palancar Horseshoe/G0050227.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050227.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050228": {
+      "key": "05 - Palancar Horseshoe/G0050228.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050228.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050229": {
+      "key": "05 - Palancar Horseshoe/G0050229.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050229.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050230": {
+      "key": "05 - Palancar Horseshoe/G0050230.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050230.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050231": {
+      "key": "05 - Palancar Horseshoe/G0050231.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050231.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050232": {
+      "key": "05 - Palancar Horseshoe/G0050232.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050232.JPG",
+      "type": "image/jpeg"
+    },
+    "G0050233": {
+      "key": "05 - Palancar Horseshoe/G0050233.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/G0050233.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0165 - Smile for the camera + establishing shot": {
+      "key": "05 - Palancar Horseshoe/GOPR0165 - Smile for the camera + establishing shot.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0165+-+Smile+for+the+camera+++establishing+shot.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0165+-+Smile+for+the+camera+++establishing+shot-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0165+-+Smile+for+the+camera+++establishing+shot-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05-PalancarHorseshoe/GOPR0165-Smileforthecamera+establishingshot-dash.mpd"
+    },
+    "GOPR0166 - Into the maze": {
+      "key": "05 - Palancar Horseshoe/GOPR0166 - Into the maze.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0166+-+Into+the+maze.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0166+-+Into+the+maze-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0166+-+Into+the+maze-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05-PalancarHorseshoe/GOPR0166-Intothemaze-dash.mpd"
+    },
+    "GOPR0167": {
+      "key": "05 - Palancar Horseshoe/GOPR0167.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0167.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0198 - First swim-thru": {
+      "key": "05 - Palancar Horseshoe/GOPR0198 - First swim-thru.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0198+-+First+swim-thru.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0198+-+First+swim-thru-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0198+-+First+swim-thru-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05-PalancarHorseshoe/GOPR0198-Firstswim-thru-dash.mpd"
+    },
+    "GOPR0200 - The pillar": {
+      "key": "05 - Palancar Horseshoe/GOPR0200 - The pillar.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0200+-+The+pillar.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0200+-+The+pillar-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0200+-+The+pillar-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05-PalancarHorseshoe/GOPR0200-Thepillar-dash.mpd"
+    },
+    "GOPR0201": {
+      "key": "05 - Palancar Horseshoe/GOPR0201.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0201.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0202": {
+      "key": "05 - Palancar Horseshoe/GOPR0202.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0202.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0203": {
+      "key": "05 - Palancar Horseshoe/GOPR0203.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0203.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0234 - The big swim-thru": {
+      "key": "05 - Palancar Horseshoe/GOPR0234 - The big swim-thru.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0234+-+The+big+swim-thru.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0234+-+The+big+swim-thru-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0234+-+The+big+swim-thru-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05-PalancarHorseshoe/GOPR0234-Thebigswim-thru-dash.mpd"
+    },
+    "GOPR0235 - N00bs at the surface": {
+      "key": "05 - Palancar Horseshoe/GOPR0235 - N00bs at the surface.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0235+-+N00bs+at+the+surface.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0235+-+N00bs+at+the+surface-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0235+-+N00bs+at+the+surface-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05-PalancarHorseshoe/GOPR0235-N00bsatthesurface-dash.mpd"
+    },
+    "GOPR0236 - Some coral": {
+      "key": "05 - Palancar Horseshoe/GOPR0236 - Some coral.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0236+-+Some+coral.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0236+-+Some+coral-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0236+-+Some+coral-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05-PalancarHorseshoe/GOPR0236-Somecoral-dash.mpd"
+    },
+    "GOPR0237 - Colourful safety stop + peekaboo fish": {
+      "key": "05 - Palancar Horseshoe/GOPR0237 - Colourful safety stop + peekaboo fish.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0237+-+Colourful+safety+stop+++peekaboo+fish.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0237+-+Colourful+safety+stop+++peekaboo+fish-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0237+-+Colourful+safety+stop+++peekaboo+fish-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05-PalancarHorseshoe/GOPR0237-Colourfulsafetystop+peekaboofish-dash.mpd"
+    },
+    "GOPR0238 - Safety stop": {
+      "key": "05 - Palancar Horseshoe/GOPR0238 - Safety stop.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0238+-+Safety+stop.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0238+-+Safety+stop-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0238+-+Safety+stop-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05-PalancarHorseshoe/GOPR0238-Safetystop-dash.mpd"
+    },
+    "GOPR0239 - At the summit": {
+      "key": "05 - Palancar Horseshoe/GOPR0239 - At the summit.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0239+-+At+the+summit.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0239+-+At+the+summit-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05+-+Palancar+Horseshoe/GOPR0239+-+At+the+summit-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/05-PalancarHorseshoe/GOPR0239-Atthesummit-dash.mpd"
+    }
+  },
+  "06 - Pasa de Cedral": {
+    "GOPR0240": {
+      "key": "06 - Pasa de Cedral/GOPR0240.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0240.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0241": {
+      "key": "06 - Pasa de Cedral/GOPR0241.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0241.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0242 - Drifting with parrot fish": {
+      "key": "06 - Pasa de Cedral/GOPR0242 - Drifting with parrot fish.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0242+-+Drifting+with+parrot+fish.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0242+-+Drifting+with+parrot+fish-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0242+-+Drifting+with+parrot+fish-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06-PasadeCedral/GOPR0242-Driftingwithparrotfish-dash.mpd"
+    },
+    "GOPR0243 - Exotic fish and colourful coral": {
+      "key": "06 - Pasa de Cedral/GOPR0243 - Exotic fish and colourful coral.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0243+-+Exotic+fish+and+colourful+coral.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0243+-+Exotic+fish+and+colourful+coral-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0243+-+Exotic+fish+and+colourful+coral-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06-PasadeCedral/GOPR0243-Exoticfishandcolourfulcoral-dash.mpd"
+    },
+    "GOPR0244 - Forgot the camera was on": {
+      "key": "06 - Pasa de Cedral/GOPR0244 - Forgot the camera was on.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0244+-+Forgot+the+camera+was+on.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0244+-+Forgot+the+camera+was+on-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0244+-+Forgot+the+camera+was+on-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06-PasadeCedral/GOPR0244-Forgotthecamerawason-dash.mpd"
+    },
+    "GOPR0245 - Fish among the sponges": {
+      "key": "06 - Pasa de Cedral/GOPR0245 - Fish among the sponges.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0245+-+Fish+among+the+sponges.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0245+-+Fish+among+the+sponges-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0245+-+Fish+among+the+sponges-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06-PasadeCedral/GOPR0245-Fishamongthesponges-dash.mpd"
+    },
+    "GOPR0246 - Seahorse?": {
+      "key": "06 - Pasa de Cedral/GOPR0246 - Seahorse?.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0246+-+Seahorse?.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0246+-+Seahorse?-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0246+-+Seahorse?-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06-PasadeCedral/GOPR0246-Seahorse?-dash.mpd"
+    },
+    "GOPR0248 - N00b harrassing a turtle": {
+      "key": "06 - Pasa de Cedral/GOPR0248 - N00b harrassing a turtle.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0248+-+N00b+harrassing+a+turtle.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0248+-+N00b+harrassing+a+turtle-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0248+-+N00b+harrassing+a+turtle-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06-PasadeCedral/GOPR0248-N00bharrassingaturtle-dash.mpd"
+    },
+    "GOPR0249 - School of yellow fish": {
+      "key": "06 - Pasa de Cedral/GOPR0249 - School of yellow fish.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0249+-+School+of+yellow+fish.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0249+-+School+of+yellow+fish-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0249+-+School+of+yellow+fish-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06-PasadeCedral/GOPR0249-Schoolofyellowfish-dash.mpd"
+    },
+    "GOPR0250 - Swimming nurse shark": {
+      "key": "06 - Pasa de Cedral/GOPR0250 - Swimming nurse shark.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0250+-+Swimming+nurse+shark.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0250+-+Swimming+nurse+shark-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0250+-+Swimming+nurse+shark-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06-PasadeCedral/GOPR0250-Swimmingnurseshark-dash.mpd"
+    },
+    "GOPR0251 - Honeycomb cowfish": {
+      "key": "06 - Pasa de Cedral/GOPR0251 - Honeycomb cowfish.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0251+-+Honeycomb+cowfish.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0251+-+Honeycomb+cowfish-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0251+-+Honeycomb+cowfish-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06-PasadeCedral/GOPR0251-Honeycombcowfish-dash.mpd"
+    },
+    "GOPR0252": {
+      "key": "06 - Pasa de Cedral/GOPR0252.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0252.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0253": {
+      "key": "06 - Pasa de Cedral/GOPR0253.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0253.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0254 - Sleeping nurse shark": {
+      "key": "06 - Pasa de Cedral/GOPR0254 - Sleeping nurse shark.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0254+-+Sleeping+nurse+shark.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0254+-+Sleeping+nurse+shark-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06+-+Pasa+de+Cedral/GOPR0254+-+Sleeping+nurse+shark-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/06-PasadeCedral/GOPR0254-Sleepingnurseshark-dash.mpd"
+    }
+  },
+  "07 - Punta Dalila (Night Dive)": {
+    "GOPR0255 - Turtle?": {
+      "key": "07 - Punta Dalila (Night Dive)/GOPR0255 - Turtle?.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/07+-+Punta+Dalila+(Night+Dive)/GOPR0255+-+Turtle?.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/07+-+Punta+Dalila+(Night+Dive)/GOPR0255+-+Turtle?-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/07+-+Punta+Dalila+(Night+Dive)/GOPR0255+-+Turtle?-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/07-PuntaDalila(NightDive)/GOPR0255-Turtle?-dash.mpd"
+    },
+    "GOPR0257 - Turtle + crab": {
+      "key": "07 - Punta Dalila (Night Dive)/GOPR0257 - Turtle + crab.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/07+-+Punta+Dalila+(Night+Dive)/GOPR0257+-+Turtle+++crab.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/07+-+Punta+Dalila+(Night+Dive)/GOPR0257+-+Turtle+++crab-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/07+-+Punta+Dalila+(Night+Dive)/GOPR0257+-+Turtle+++crab-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/07-PuntaDalila(NightDive)/GOPR0257-Turtle+crab-dash.mpd"
+    },
+    "GOPR0258 - Flounder, lobster": {
+      "key": "07 - Punta Dalila (Night Dive)/GOPR0258 - Flounder, lobster.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/07+-+Punta+Dalila+(Night+Dive)/GOPR0258+-+Flounder,+lobster.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/07+-+Punta+Dalila+(Night+Dive)/GOPR0258+-+Flounder,+lobster-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/07+-+Punta+Dalila+(Night+Dive)/GOPR0258+-+Flounder,+lobster-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/07-PuntaDalila(NightDive)/GOPR0258-Flounder,lobster-dash.mpd"
+    },
+    "GOPR0259 - Turtle, jump scare, and octopus": {
+      "key": "07 - Punta Dalila (Night Dive)/GOPR0259 - Turtle, jump scare, and octopus.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/07+-+Punta+Dalila+(Night+Dive)/GOPR0259+-+Turtle,+jump+scare,+and+octopus.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/07+-+Punta+Dalila+(Night+Dive)/GOPR0259+-+Turtle,+jump+scare,+and+octopus-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/07+-+Punta+Dalila+(Night+Dive)/GOPR0259+-+Turtle,+jump+scare,+and+octopus-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/07-PuntaDalila(NightDive)/GOPR0259-Turtle,jumpscare,andoctopus-dash.mpd"
+    },
+    "GOPR0260 - Octopus I": {
+      "key": "07 - Punta Dalila (Night Dive)/GOPR0260 - Octopus I.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/07+-+Punta+Dalila+(Night+Dive)/GOPR0260+-+Octopus+I.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/07+-+Punta+Dalila+(Night+Dive)/GOPR0260+-+Octopus+I-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/07+-+Punta+Dalila+(Night+Dive)/GOPR0260+-+Octopus+I-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/07-PuntaDalila(NightDive)/GOPR0260-OctopusI-dash.mpd"
+    },
+    "GOPR0261 - Octopus II": {
+      "key": "07 - Punta Dalila (Night Dive)/GOPR0261 - Octopus II.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/07+-+Punta+Dalila+(Night+Dive)/GOPR0261+-+Octopus+II.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/07+-+Punta+Dalila+(Night+Dive)/GOPR0261+-+Octopus+II-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/07+-+Punta+Dalila+(Night+Dive)/GOPR0261+-+Octopus+II-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/07-PuntaDalila(NightDive)/GOPR0261-OctopusII-dash.mpd"
+    }
+  },
+  "08 - Shark Dive!!": {
+    "G0070269": {
+      "key": "08 - Shark Dive!!/G0070269.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070269.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070270": {
+      "key": "08 - Shark Dive!!/G0070270.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070270.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070271": {
+      "key": "08 - Shark Dive!!/G0070271.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070271.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070272": {
+      "key": "08 - Shark Dive!!/G0070272.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070272.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070273": {
+      "key": "08 - Shark Dive!!/G0070273.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070273.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070274": {
+      "key": "08 - Shark Dive!!/G0070274.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070274.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070275": {
+      "key": "08 - Shark Dive!!/G0070275.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070275.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070276": {
+      "key": "08 - Shark Dive!!/G0070276.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070276.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070277": {
+      "key": "08 - Shark Dive!!/G0070277.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070277.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070278": {
+      "key": "08 - Shark Dive!!/G0070278.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070278.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070279": {
+      "key": "08 - Shark Dive!!/G0070279.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070279.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070280": {
+      "key": "08 - Shark Dive!!/G0070280.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070280.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070281": {
+      "key": "08 - Shark Dive!!/G0070281.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070281.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070282": {
+      "key": "08 - Shark Dive!!/G0070282.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070282.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070283": {
+      "key": "08 - Shark Dive!!/G0070283.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070283.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070284": {
+      "key": "08 - Shark Dive!!/G0070284.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070284.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070285": {
+      "key": "08 - Shark Dive!!/G0070285.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070285.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070286": {
+      "key": "08 - Shark Dive!!/G0070286.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070286.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070287": {
+      "key": "08 - Shark Dive!!/G0070287.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070287.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070288": {
+      "key": "08 - Shark Dive!!/G0070288.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070288.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070289": {
+      "key": "08 - Shark Dive!!/G0070289.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070289.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070290": {
+      "key": "08 - Shark Dive!!/G0070290.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070290.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070291": {
+      "key": "08 - Shark Dive!!/G0070291.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070291.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070292": {
+      "key": "08 - Shark Dive!!/G0070292.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070292.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070293": {
+      "key": "08 - Shark Dive!!/G0070293.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070293.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070294": {
+      "key": "08 - Shark Dive!!/G0070294.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070294.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070295": {
+      "key": "08 - Shark Dive!!/G0070295.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070295.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070296": {
+      "key": "08 - Shark Dive!!/G0070296.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070296.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070297": {
+      "key": "08 - Shark Dive!!/G0070297.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070297.JPG",
+      "type": "image/jpeg"
+    },
+    "G0070298": {
+      "key": "08 - Shark Dive!!/G0070298.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0070298.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080299": {
+      "key": "08 - Shark Dive!!/G0080299.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080299.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080300": {
+      "key": "08 - Shark Dive!!/G0080300.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080300.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080301": {
+      "key": "08 - Shark Dive!!/G0080301.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080301.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080302": {
+      "key": "08 - Shark Dive!!/G0080302.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080302.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080303": {
+      "key": "08 - Shark Dive!!/G0080303.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080303.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080304": {
+      "key": "08 - Shark Dive!!/G0080304.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080304.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080305": {
+      "key": "08 - Shark Dive!!/G0080305.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080305.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080306": {
+      "key": "08 - Shark Dive!!/G0080306.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080306.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080307": {
+      "key": "08 - Shark Dive!!/G0080307.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080307.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080308": {
+      "key": "08 - Shark Dive!!/G0080308.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080308.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080309": {
+      "key": "08 - Shark Dive!!/G0080309.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080309.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080310": {
+      "key": "08 - Shark Dive!!/G0080310.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080310.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080311": {
+      "key": "08 - Shark Dive!!/G0080311.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080311.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080312": {
+      "key": "08 - Shark Dive!!/G0080312.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080312.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080313": {
+      "key": "08 - Shark Dive!!/G0080313.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080313.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080314": {
+      "key": "08 - Shark Dive!!/G0080314.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080314.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080315": {
+      "key": "08 - Shark Dive!!/G0080315.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080315.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080316": {
+      "key": "08 - Shark Dive!!/G0080316.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080316.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080317": {
+      "key": "08 - Shark Dive!!/G0080317.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080317.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080318": {
+      "key": "08 - Shark Dive!!/G0080318.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080318.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080319": {
+      "key": "08 - Shark Dive!!/G0080319.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080319.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080320": {
+      "key": "08 - Shark Dive!!/G0080320.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080320.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080321": {
+      "key": "08 - Shark Dive!!/G0080321.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080321.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080322": {
+      "key": "08 - Shark Dive!!/G0080322.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080322.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080323": {
+      "key": "08 - Shark Dive!!/G0080323.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080323.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080324": {
+      "key": "08 - Shark Dive!!/G0080324.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080324.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080325": {
+      "key": "08 - Shark Dive!!/G0080325.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080325.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080326": {
+      "key": "08 - Shark Dive!!/G0080326.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080326.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080327": {
+      "key": "08 - Shark Dive!!/G0080327.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080327.JPG",
+      "type": "image/jpeg"
+    },
+    "G0080328": {
+      "key": "08 - Shark Dive!!/G0080328.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0080328.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090345": {
+      "key": "08 - Shark Dive!!/G0090345.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090345.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090346": {
+      "key": "08 - Shark Dive!!/G0090346.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090346.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090347": {
+      "key": "08 - Shark Dive!!/G0090347.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090347.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090348": {
+      "key": "08 - Shark Dive!!/G0090348.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090348.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090349": {
+      "key": "08 - Shark Dive!!/G0090349.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090349.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090350": {
+      "key": "08 - Shark Dive!!/G0090350.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090350.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090351": {
+      "key": "08 - Shark Dive!!/G0090351.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090351.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090352": {
+      "key": "08 - Shark Dive!!/G0090352.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090352.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090353": {
+      "key": "08 - Shark Dive!!/G0090353.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090353.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090354": {
+      "key": "08 - Shark Dive!!/G0090354.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090354.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090355": {
+      "key": "08 - Shark Dive!!/G0090355.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090355.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090356": {
+      "key": "08 - Shark Dive!!/G0090356.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090356.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090357": {
+      "key": "08 - Shark Dive!!/G0090357.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090357.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090358": {
+      "key": "08 - Shark Dive!!/G0090358.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090358.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090359": {
+      "key": "08 - Shark Dive!!/G0090359.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090359.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090360": {
+      "key": "08 - Shark Dive!!/G0090360.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090360.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090361": {
+      "key": "08 - Shark Dive!!/G0090361.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090361.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090362": {
+      "key": "08 - Shark Dive!!/G0090362.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090362.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090363": {
+      "key": "08 - Shark Dive!!/G0090363.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090363.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090364": {
+      "key": "08 - Shark Dive!!/G0090364.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090364.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090365": {
+      "key": "08 - Shark Dive!!/G0090365.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090365.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090366": {
+      "key": "08 - Shark Dive!!/G0090366.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090366.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090367": {
+      "key": "08 - Shark Dive!!/G0090367.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090367.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090368": {
+      "key": "08 - Shark Dive!!/G0090368.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090368.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090369": {
+      "key": "08 - Shark Dive!!/G0090369.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090369.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090370": {
+      "key": "08 - Shark Dive!!/G0090370.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090370.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090371": {
+      "key": "08 - Shark Dive!!/G0090371.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090371.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090372": {
+      "key": "08 - Shark Dive!!/G0090372.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090372.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090373": {
+      "key": "08 - Shark Dive!!/G0090373.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090373.JPG",
+      "type": "image/jpeg"
+    },
+    "G0090374": {
+      "key": "08 - Shark Dive!!/G0090374.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/G0090374.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0265": {
+      "key": "08 - Shark Dive!!/GOPR0265.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0265.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0266 - Chris with Sharks": {
+      "key": "08 - Shark Dive!!/GOPR0266 - Chris with Sharks.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0266+-+Chris+with+Sharks.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0266+-+Chris+with+Sharks-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0266+-+Chris+with+Sharks-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08-SharkDive!!/GOPR0266-ChriswithSharks-dash.mpd"
+    },
+    "GOPR0267 - The group with sharks and ramoras": {
+      "key": "08 - Shark Dive!!/GOPR0267 - The group with sharks and ramoras.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0267+-+The+group+with+sharks+and+ramoras.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0267+-+The+group+with+sharks+and+ramoras-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0267+-+The+group+with+sharks+and+ramoras-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08-SharkDive!!/GOPR0267-Thegroupwithsharksandramoras-dash.mpd"
+    },
+    "GOPR0268": {
+      "key": "08 - Shark Dive!!/GOPR0268.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0268.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0329 - Divemaster with shark": {
+      "key": "08 - Shark Dive!!/GOPR0329 - Divemaster with shark.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0329+-+Divemaster+with+shark.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0329+-+Divemaster+with+shark-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0329+-+Divemaster+with+shark-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08-SharkDive!!/GOPR0329-Divemasterwithshark-dash.mpd"
+    },
+    "GOPR0330 - Bill balancing on a knee": {
+      "key": "08 - Shark Dive!!/GOPR0330 - Bill balancing on a knee.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0330+-+Bill+balancing+on+a+knee.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0330+-+Bill+balancing+on+a+knee-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0330+-+Bill+balancing+on+a+knee-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08-SharkDive!!/GOPR0330-Billbalancingonaknee-dash.mpd"
+    },
+    "GOPR0331 - A shark sneaking behind Chris": {
+      "key": "08 - Shark Dive!!/GOPR0331 - A shark sneaking behind Chris.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0331+-+A+shark+sneaking+behind+Chris.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0331+-+A+shark+sneaking+behind+Chris-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0331+-+A+shark+sneaking+behind+Chris-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08-SharkDive!!/GOPR0331-AsharksneakingbehindChris-dash.mpd"
+    },
+    "GOPR0332 - Swimming to new spot": {
+      "key": "08 - Shark Dive!!/GOPR0332 - Swimming to new spot.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0332+-+Swimming+to+new+spot.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0332+-+Swimming+to+new+spot-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0332+-+Swimming+to+new+spot-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08-SharkDive!!/GOPR0332-Swimmingtonewspot-dash.mpd"
+    },
+    "GOPR0333 - Moar swimming": {
+      "key": "08 - Shark Dive!!/GOPR0333 - Moar swimming.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0333+-+Moar+swimming.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0333+-+Moar+swimming-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0333+-+Moar+swimming-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08-SharkDive!!/GOPR0333-Moarswimming-dash.mpd"
+    },
+    "GOPR0334 - Close-up shark chased by ramoras": {
+      "key": "08 - Shark Dive!!/GOPR0334 - Close-up shark chased by ramoras.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0334+-+Close-up+shark+chased+by+ramoras.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0334+-+Close-up+shark+chased+by+ramoras-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0334+-+Close-up+shark+chased+by+ramoras-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08-SharkDive!!/GOPR0334-Close-upsharkchasedbyramoras-dash.mpd"
+    },
+    "GOPR0335 - Shark circling our new spot": {
+      "key": "08 - Shark Dive!!/GOPR0335 - Shark circling our new spot.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0335+-+Shark+circling+our+new+spot.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0335+-+Shark+circling+our+new+spot-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0335+-+Shark+circling+our+new+spot-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08-SharkDive!!/GOPR0335-Sharkcirclingournewspot-dash.mpd"
+    },
+    "GOPR0336 - Two big sharks up close": {
+      "key": "08 - Shark Dive!!/GOPR0336 - Two big sharks up close.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0336+-+Two+big+sharks+up+close.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0336+-+Two+big+sharks+up+close-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0336+-+Two+big+sharks+up+close-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08-SharkDive!!/GOPR0336-Twobigsharksupclose-dash.mpd"
+    },
+    "GOPR0338 - Sharks in the current": {
+      "key": "08 - Shark Dive!!/GOPR0338 - Sharks in the current.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0338+-+Sharks+in+the+current.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0338+-+Sharks+in+the+current-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0338+-+Sharks+in+the+current-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08-SharkDive!!/GOPR0338-Sharksinthecurrent-dash.mpd"
+    },
+    "GOPR0339 - Shark swimming with ramora": {
+      "key": "08 - Shark Dive!!/GOPR0339 - Shark swimming with ramora.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0339+-+Shark+swimming+with+ramora.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0339+-+Shark+swimming+with+ramora-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0339+-+Shark+swimming+with+ramora-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08-SharkDive!!/GOPR0339-Sharkswimmingwithramora-dash.mpd"
+    },
+    "GOPR0340 - Meh": {
+      "key": "08 - Shark Dive!!/GOPR0340 - Meh.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0340+-+Meh.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0340+-+Meh-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0340+-+Meh-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08-SharkDive!!/GOPR0340-Meh-dash.mpd"
+    },
+    "GOPR0342 - Shark close to Sheena": {
+      "key": "08 - Shark Dive!!/GOPR0342 - Shark close to Sheena.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0342+-+Shark+close+to+Sheena.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0342+-+Shark+close+to+Sheena-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0342+-+Shark+close+to+Sheena-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08-SharkDive!!/GOPR0342-SharkclosetoSheena-dash.mpd"
+    },
+    "GOPR0343": {
+      "key": "08 - Shark Dive!!/GOPR0343.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0343.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0344": {
+      "key": "08 - Shark Dive!!/GOPR0344.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0344.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0375 - Shark lurking in the distance with ramora up clsoe": {
+      "key": "08 - Shark Dive!!/GOPR0375 - Shark lurking in the distance with ramora up clsoe.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0375+-+Shark+lurking+in+the+distance+with+ramora+up+clsoe.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0375+-+Shark+lurking+in+the+distance+with+ramora+up+clsoe-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0375+-+Shark+lurking+in+the+distance+with+ramora+up+clsoe-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08-SharkDive!!/GOPR0375-Sharklurkinginthedistancewithramoraupclsoe-dash.mpd"
+    },
+    "GOPR0376 - Chris watching sharks on his belly": {
+      "key": "08 - Shark Dive!!/GOPR0376 - Chris watching sharks on his belly.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0376+-+Chris+watching+sharks+on+his+belly.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0376+-+Chris+watching+sharks+on+his+belly-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08+-+Shark+Dive!!/GOPR0376+-+Chris+watching+sharks+on+his+belly-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/08-SharkDive!!/GOPR0376-Chriswatchingsharksonhisbelly-dash.mpd"
+    }
+  },
+  "09 - Barricuda Reef": {
+    "GOPR0377": {
+      "key": "09 - Barricuda Reef/GOPR0377.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0377.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0378 - Drifting along the sand": {
+      "key": "09 - Barricuda Reef/GOPR0378 - Drifting along the sand.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0378+-+Drifting+along+the+sand.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0378+-+Drifting+along+the+sand-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0378+-+Drifting+along+the+sand-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09-BarricudaReef/GOPR0378-Driftingalongthesand-dash.mpd"
+    },
+    "GOPR0379 - Drifting under the overhang": {
+      "key": "09 - Barricuda Reef/GOPR0379 - Drifting under the overhang.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0379+-+Drifting+under+the+overhang.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0379+-+Drifting+under+the+overhang-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0379+-+Drifting+under+the+overhang-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09-BarricudaReef/GOPR0379-Driftingundertheoverhang-dash.mpd"
+    },
+    "GOPR0380 - School of fish hiding in the overhang": {
+      "key": "09 - Barricuda Reef/GOPR0380 - School of fish hiding in the overhang.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0380+-+School+of+fish+hiding+in+the+overhang.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0380+-+School+of+fish+hiding+in+the+overhang-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0380+-+School+of+fish+hiding+in+the+overhang-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09-BarricudaReef/GOPR0380-Schooloffishhidingintheoverhang-dash.mpd"
+    },
+    "GOPR0381 - Coral": {
+      "key": "09 - Barricuda Reef/GOPR0381 - Coral.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0381+-+Coral.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0381+-+Coral-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0381+-+Coral-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09-BarricudaReef/GOPR0381-Coral-dash.mpd"
+    },
+    "GOPR0382 - Flounders in the sand": {
+      "key": "09 - Barricuda Reef/GOPR0382 - Flounders in the sand.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0382+-+Flounders+in+the+sand.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0382+-+Flounders+in+the+sand-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0382+-+Flounders+in+the+sand-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09-BarricudaReef/GOPR0382-Floundersinthesand-dash.mpd"
+    },
+    "GOPR0383 - School of blue tangs": {
+      "key": "09 - Barricuda Reef/GOPR0383 - School of blue tangs.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0383+-+School+of+blue+tangs.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0383+-+School+of+blue+tangs-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0383+-+School+of+blue+tangs-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09-BarricudaReef/GOPR0383-Schoolofbluetangs-dash.mpd"
+    },
+    "GOPR0385 - Drifting thru the valley": {
+      "key": "09 - Barricuda Reef/GOPR0385 - Drifting thru the valley.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0385+-+Drifting+thru+the+valley.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0385+-+Drifting+thru+the+valley-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0385+-+Drifting+thru+the+valley-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09-BarricudaReef/GOPR0385-Driftingthruthevalley-dash.mpd"
+    },
+    "GOPR0386 - Sea star": {
+      "key": "09 - Barricuda Reef/GOPR0386 - Sea star.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0386+-+Sea+star.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0386+-+Sea+star-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0386+-+Sea+star-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09-BarricudaReef/GOPR0386-Seastar-dash.mpd"
+    },
+    "GOPR0387 - Crab? hiding in a school of fish": {
+      "key": "09 - Barricuda Reef/GOPR0387 - Crab? hiding in a school of fish.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0387+-+Crab?+hiding+in+a+school+of+fish.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0387+-+Crab?+hiding+in+a+school+of+fish-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0387+-+Crab?+hiding+in+a+school+of+fish-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09-BarricudaReef/GOPR0387-Crab?hidinginaschooloffish-dash.mpd"
+    },
+    "GOPR0388 - Just drifting": {
+      "key": "09 - Barricuda Reef/GOPR0388 - Just drifting.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0388+-+Just+drifting.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0388+-+Just+drifting-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0388+-+Just+drifting-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09-BarricudaReef/GOPR0388-Justdrifting-dash.mpd"
+    },
+    "GOPR0389 - Some fish and coral": {
+      "key": "09 - Barricuda Reef/GOPR0389 - Some fish and coral.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0389+-+Some+fish+and+coral.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0389+-+Some+fish+and+coral-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0389+-+Some+fish+and+coral-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09-BarricudaReef/GOPR0389-Somefishandcoral-dash.mpd"
+    },
+    "GOPR0390 - A tight school bobbing with the current": {
+      "key": "09 - Barricuda Reef/GOPR0390 - A tight school bobbing with the current.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0390+-+A+tight+school+bobbing+with+the+current.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0390+-+A+tight+school+bobbing+with+the+current-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0390+-+A+tight+school+bobbing+with+the+current-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09-BarricudaReef/GOPR0390-Atightschoolbobbingwiththecurrent-dash.mpd"
+    },
+    "GOPR0391 - Puffer fish and four rays in the sand": {
+      "key": "09 - Barricuda Reef/GOPR0391 - Puffer fish and four rays in the sand.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0391+-+Puffer+fish+and+four+rays+in+the+sand.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0391+-+Puffer+fish+and+four+rays+in+the+sand-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0391+-+Puffer+fish+and+four+rays+in+the+sand-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09-BarricudaReef/GOPR0391-Pufferfishandfourraysinthesand-dash.mpd"
+    },
+    "GOPR0393": {
+      "key": "09 - Barricuda Reef/GOPR0393.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0393.JPG",
+      "type": "image/jpeg"
+    },
+    "GOPR0394 - Bull shark?": {
+      "key": "09 - Barricuda Reef/GOPR0394 - Bull shark?.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0394+-+Bull+shark?.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0394+-+Bull+shark?-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0394+-+Bull+shark?-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09-BarricudaReef/GOPR0394-Bullshark?-dash.mpd"
+    },
+    "GOPR0395 - Several large schools": {
+      "key": "09 - Barricuda Reef/GOPR0395 - Several large schools.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0395+-+Several+large+schools.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0395+-+Several+large+schools-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0395+-+Several+large+schools-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09-BarricudaReef/GOPR0395-Severallargeschools-dash.mpd"
+    },
+    "GOPR0396 - School of needlefish": {
+      "key": "09 - Barricuda Reef/GOPR0396 - School of needlefish.MP4",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0396+-+School+of+needlefish.MP4",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0396+-+School+of+needlefish-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09+-+Barricuda+Reef/GOPR0396+-+School+of+needlefish-hls.MP4",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/09-BarricudaReef/GOPR0396-Schoolofneedlefish-dash.mpd"
+    }
+  },
+  "100OLYMP": {
+    "P1280001": {
+      "key": "100OLYMP/P1280001.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280001.JPG",
+      "type": "image/jpeg"
+    },
+    "P1280002": {
+      "key": "100OLYMP/P1280002.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280002.JPG",
+      "type": "image/jpeg"
+    },
+    "P1280003": {
+      "key": "100OLYMP/P1280003.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280003.JPG",
+      "type": "image/jpeg"
+    },
+    "P1280004": {
+      "key": "100OLYMP/P1280004.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280004.JPG",
+      "type": "image/jpeg"
+    },
+    "P1280005": {
+      "key": "100OLYMP/P1280005.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280005.JPG",
+      "type": "image/jpeg"
+    },
+    "P1280006": {
+      "key": "100OLYMP/P1280006.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280006.JPG",
+      "type": "image/jpeg"
+    },
+    "P1280008": {
+      "key": "100OLYMP/P1280008.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280008.JPG",
+      "type": "image/jpeg"
+    },
+    "P1280009": {
+      "key": "100OLYMP/P1280009.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280009.JPG",
+      "type": "image/jpeg"
+    },
+    "P1280010": {
+      "key": "100OLYMP/P1280010.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280010.JPG",
+      "type": "image/jpeg"
+    },
+    "P1280011": {
+      "key": "100OLYMP/P1280011.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280011.JPG",
+      "type": "image/jpeg"
+    },
+    "P1280012": {
+      "key": "100OLYMP/P1280012.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280012.JPG",
+      "type": "image/jpeg"
+    },
+    "P1280013": {
+      "key": "100OLYMP/P1280013.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280013.JPG",
+      "type": "image/jpeg"
+    },
+    "P1280015": {
+      "key": "100OLYMP/P1280015.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280015.JPG",
+      "type": "image/jpeg"
+    },
+    "P1280016": {
+      "key": "100OLYMP/P1280016.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280016.JPG",
+      "type": "image/jpeg"
+    },
+    "P1280017": {
+      "key": "100OLYMP/P1280017.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280017.JPG",
+      "type": "image/jpeg"
+    },
+    "P1280018": {
+      "key": "100OLYMP/P1280018.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280018.JPG",
+      "type": "image/jpeg"
+    },
+    "P1280019": {
+      "key": "100OLYMP/P1280019.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280019.JPG",
+      "type": "image/jpeg"
+    },
+    "P1280020": {
+      "key": "100OLYMP/P1280020.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280020.JPG",
+      "type": "image/jpeg"
+    },
+    "P1280021": {
+      "key": "100OLYMP/P1280021.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280021.JPG",
+      "type": "image/jpeg"
+    },
+    "P1280023": {
+      "key": "100OLYMP/P1280023.MOV",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280023.MOV",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280023-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280023-hls.MOV",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280023-dash.mpd"
+    },
+    "P1280024": {
+      "key": "100OLYMP/P1280024.MOV",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280024.MOV",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280024-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280024-hls.MOV",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280024-dash.mpd"
+    },
+    "P1280025": {
+      "key": "100OLYMP/P1280025.MOV",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280025.MOV",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280025-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280025-hls.MOV",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280025-dash.mpd"
+    },
+    "P1280026": {
+      "key": "100OLYMP/P1280026.MOV",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280026.MOV",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280026-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280026-hls.MOV",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1280026-dash.mpd"
+    },
+    "P1290027": {
+      "key": "100OLYMP/P1290027.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290027.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290028": {
+      "key": "100OLYMP/P1290028.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290028.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290029": {
+      "key": "100OLYMP/P1290029.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290029.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290030": {
+      "key": "100OLYMP/P1290030.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290030.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290031": {
+      "key": "100OLYMP/P1290031.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290031.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290032": {
+      "key": "100OLYMP/P1290032.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290032.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290033": {
+      "key": "100OLYMP/P1290033.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290033.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290034": {
+      "key": "100OLYMP/P1290034.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290034.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290035": {
+      "key": "100OLYMP/P1290035.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290035.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290036": {
+      "key": "100OLYMP/P1290036.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290036.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290037": {
+      "key": "100OLYMP/P1290037.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290037.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290038": {
+      "key": "100OLYMP/P1290038.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290038.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290039": {
+      "key": "100OLYMP/P1290039.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290039.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290040": {
+      "key": "100OLYMP/P1290040.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290040.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290041": {
+      "key": "100OLYMP/P1290041.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290041.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290042": {
+      "key": "100OLYMP/P1290042.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290042.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290043": {
+      "key": "100OLYMP/P1290043.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290043.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290044": {
+      "key": "100OLYMP/P1290044.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290044.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290045": {
+      "key": "100OLYMP/P1290045.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290045.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290046": {
+      "key": "100OLYMP/P1290046.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290046.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290047": {
+      "key": "100OLYMP/P1290047.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290047.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290048": {
+      "key": "100OLYMP/P1290048.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290048.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290049": {
+      "key": "100OLYMP/P1290049.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290049.JPG",
+      "type": "image/jpeg"
+    },
+    "P1290050": {
+      "key": "100OLYMP/P1290050.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1290050.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310051": {
+      "key": "100OLYMP/P1310051.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310051.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310052": {
+      "key": "100OLYMP/P1310052.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310052.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310053": {
+      "key": "100OLYMP/P1310053.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310053.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310054": {
+      "key": "100OLYMP/P1310054.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310054.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310055": {
+      "key": "100OLYMP/P1310055.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310055.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310056": {
+      "key": "100OLYMP/P1310056.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310056.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310057": {
+      "key": "100OLYMP/P1310057.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310057.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310058": {
+      "key": "100OLYMP/P1310058.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310058.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310059": {
+      "key": "100OLYMP/P1310059.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310059.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310060": {
+      "key": "100OLYMP/P1310060.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310060.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310061": {
+      "key": "100OLYMP/P1310061.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310061.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310062": {
+      "key": "100OLYMP/P1310062.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310062.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310063": {
+      "key": "100OLYMP/P1310063.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310063.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310064": {
+      "key": "100OLYMP/P1310064.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310064.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310065": {
+      "key": "100OLYMP/P1310065.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310065.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310066": {
+      "key": "100OLYMP/P1310066.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310066.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310067": {
+      "key": "100OLYMP/P1310067.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310067.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310068": {
+      "key": "100OLYMP/P1310068.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310068.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310070": {
+      "key": "100OLYMP/P1310070.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310070.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310071": {
+      "key": "100OLYMP/P1310071.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310071.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310072": {
+      "key": "100OLYMP/P1310072.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310072.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310073": {
+      "key": "100OLYMP/P1310073.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310073.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310074": {
+      "key": "100OLYMP/P1310074.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310074.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310075": {
+      "key": "100OLYMP/P1310075.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310075.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310076": {
+      "key": "100OLYMP/P1310076.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310076.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310077": {
+      "key": "100OLYMP/P1310077.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310077.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310078": {
+      "key": "100OLYMP/P1310078.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310078.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310079": {
+      "key": "100OLYMP/P1310079.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310079.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310080": {
+      "key": "100OLYMP/P1310080.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310080.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310081": {
+      "key": "100OLYMP/P1310081.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310081.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310082": {
+      "key": "100OLYMP/P1310082.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310082.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310083": {
+      "key": "100OLYMP/P1310083.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310083.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310084": {
+      "key": "100OLYMP/P1310084.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310084.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310085": {
+      "key": "100OLYMP/P1310085.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310085.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310086": {
+      "key": "100OLYMP/P1310086.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310086.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310087": {
+      "key": "100OLYMP/P1310087.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310087.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310088": {
+      "key": "100OLYMP/P1310088.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310088.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310089": {
+      "key": "100OLYMP/P1310089.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310089.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310090": {
+      "key": "100OLYMP/P1310090.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310090.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310091": {
+      "key": "100OLYMP/P1310091.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310091.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310093": {
+      "key": "100OLYMP/P1310093.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310093.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310094": {
+      "key": "100OLYMP/P1310094.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310094.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310095": {
+      "key": "100OLYMP/P1310095.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310095.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310096": {
+      "key": "100OLYMP/P1310096.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310096.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310097": {
+      "key": "100OLYMP/P1310097.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310097.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310098": {
+      "key": "100OLYMP/P1310098.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310098.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310099": {
+      "key": "100OLYMP/P1310099.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310099.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310101": {
+      "key": "100OLYMP/P1310101.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310101.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310102": {
+      "key": "100OLYMP/P1310102.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310102.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310103": {
+      "key": "100OLYMP/P1310103.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310103.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310105": {
+      "key": "100OLYMP/P1310105.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310105.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310106": {
+      "key": "100OLYMP/P1310106.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310106.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310107": {
+      "key": "100OLYMP/P1310107.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310107.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310108": {
+      "key": "100OLYMP/P1310108.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310108.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310109": {
+      "key": "100OLYMP/P1310109.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310109.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310110": {
+      "key": "100OLYMP/P1310110.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310110.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310111": {
+      "key": "100OLYMP/P1310111.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310111.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310113": {
+      "key": "100OLYMP/P1310113.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310113.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310114": {
+      "key": "100OLYMP/P1310114.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310114.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310115": {
+      "key": "100OLYMP/P1310115.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310115.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310116": {
+      "key": "100OLYMP/P1310116.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310116.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310118": {
+      "key": "100OLYMP/P1310118.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310118.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310120": {
+      "key": "100OLYMP/P1310120.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310120.JPG",
+      "type": "image/jpeg"
+    },
+    "P1310121": {
+      "key": "100OLYMP/P1310121.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P1310121.JPG",
+      "type": "image/jpeg"
+    },
+    "P2010122": {
+      "key": "100OLYMP/P2010122.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2010122.JPG",
+      "type": "image/jpeg"
+    },
+    "P2010123": {
+      "key": "100OLYMP/P2010123.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2010123.JPG",
+      "type": "image/jpeg"
+    },
+    "P2010124": {
+      "key": "100OLYMP/P2010124.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2010124.JPG",
+      "type": "image/jpeg"
+    },
+    "P2010125": {
+      "key": "100OLYMP/P2010125.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2010125.JPG",
+      "type": "image/jpeg"
+    },
+    "P2010126": {
+      "key": "100OLYMP/P2010126.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2010126.JPG",
+      "type": "image/jpeg"
+    },
+    "P2010127": {
+      "key": "100OLYMP/P2010127.MOV",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2010127.MOV",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2010127-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2010127-hls.MOV",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2010127-dash.mpd"
+    },
+    "P2010128": {
+      "key": "100OLYMP/P2010128.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2010128.JPG",
+      "type": "image/jpeg"
+    },
+    "P2010129": {
+      "key": "100OLYMP/P2010129.MOV",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2010129.MOV",
+      "type": "video/mp4",
+      "thumbnailUrl": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2010129-00001.png",
+      "hlsUrl": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2010129-hls.MOV",
+      "dashUrl": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2010129-dash.mpd"
+    },
+    "P2010130": {
+      "key": "100OLYMP/P2010130.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2010130.JPG",
+      "type": "image/jpeg"
+    },
+    "P2010131": {
+      "key": "100OLYMP/P2010131.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2010131.JPG",
+      "type": "image/jpeg"
+    },
+    "P2010132": {
+      "key": "100OLYMP/P2010132.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2010132.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020133": {
+      "key": "100OLYMP/P2020133.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020133.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020134": {
+      "key": "100OLYMP/P2020134.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020134.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020135": {
+      "key": "100OLYMP/P2020135.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020135.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020136": {
+      "key": "100OLYMP/P2020136.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020136.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020137": {
+      "key": "100OLYMP/P2020137.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020137.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020138": {
+      "key": "100OLYMP/P2020138.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020138.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020139": {
+      "key": "100OLYMP/P2020139.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020139.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020140": {
+      "key": "100OLYMP/P2020140.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020140.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020141": {
+      "key": "100OLYMP/P2020141.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020141.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020142": {
+      "key": "100OLYMP/P2020142.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020142.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020143": {
+      "key": "100OLYMP/P2020143.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020143.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020144": {
+      "key": "100OLYMP/P2020144.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020144.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020145": {
+      "key": "100OLYMP/P2020145.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020145.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020146": {
+      "key": "100OLYMP/P2020146.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020146.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020147": {
+      "key": "100OLYMP/P2020147.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020147.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020148": {
+      "key": "100OLYMP/P2020148.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020148.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020149": {
+      "key": "100OLYMP/P2020149.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020149.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020150": {
+      "key": "100OLYMP/P2020150.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020150.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020151": {
+      "key": "100OLYMP/P2020151.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020151.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020152": {
+      "key": "100OLYMP/P2020152.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020152.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020153": {
+      "key": "100OLYMP/P2020153.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020153.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020154": {
+      "key": "100OLYMP/P2020154.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020154.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020155": {
+      "key": "100OLYMP/P2020155.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020155.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020156": {
+      "key": "100OLYMP/P2020156.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020156.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020157": {
+      "key": "100OLYMP/P2020157.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020157.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020158": {
+      "key": "100OLYMP/P2020158.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020158.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020159": {
+      "key": "100OLYMP/P2020159.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020159.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020160": {
+      "key": "100OLYMP/P2020160.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020160.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020161": {
+      "key": "100OLYMP/P2020161.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020161.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020162": {
+      "key": "100OLYMP/P2020162.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020162.JPG",
+      "type": "image/jpeg"
+    },
+    "P2020163": {
+      "key": "100OLYMP/P2020163.JPG",
+      "url": "https://s3.amazonaws.com/2017-cozumel-trip/100OLYMP/P2020163.JPG",
+      "type": "image/jpeg"
+    }
+  }
+};
