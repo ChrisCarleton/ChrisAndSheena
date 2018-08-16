@@ -12,6 +12,7 @@
     "aws-sdk": "^2.292.0",
     "babel-register": "^6.26.0",
     "bluebird": "^3.5.1",
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.10",
+    "speakingurl": "^14.0.1"
   }
 }

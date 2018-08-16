@@ -1,6 +1,7 @@
 import _ from 'lodash';
 import AWS from 'aws-sdk';
 import Bluebird from 'bluebird';
+import getSlug from 'speakingurl';
 import path from 'path';
 
 const S3 = new AWS.S3();
@@ -11,7 +12,13 @@ if (!process.argv[2]) {
 	process.exit(1);
 }
 
+if (!process.argv[3]) {
+	console.error('C\'mon man, you have to give a screen-friendly name for this collection. :(');
+	process.exit(1);
+}
+
 const BUCKET_NAME = process.argv[2];
+const FRIENDLY_NAME = process.argv[3];
 
 function urlify(bucket, key, removeWhitespace) {
 	return `https://s3.amazonaws.com/${bucket}/${key.replace(/ /g, removeWhitespace ? '' : '+')}`;
@@ -49,41 +56,63 @@ function listAllTheFiles(bucketName) {
 
 listAllTheFiles(BUCKET_NAME)
 	.then(data => {
-		const manifest = {};
+		const manifest = {
+			Info: {
+				Name: FRIENDLY_NAME,
+				Bucket: BUCKET_NAME,
+				Slugs: {}
+			},
+			Contents: {}
+		};
 
 		for (var i = 0; i < data.length; i++) {
 			const parsed = path.parse(data[i].Key);
 			const split = parsed.dir.split('/');
 
 			var node = manifest;
+			var slugNode = manifest.Info.Slugs;
 			for (var j = 0; j < split.length; j++) {
-				if (!node[split[j]]) {
-					node[split[j]] = {};
+				const slug = getSlug(split[j]);
+
+				if (!node.Contents[split[j]]) {
+					node.Contents[split[j]] = {
+						Slug: slug,
+						Contents: {}
+					};
 				}
-				node = node[split[j]];
+
+				if (!slugNode[slug]) {
+					slugNode[slug] = {
+						_Key: split[j]
+					}
+				}
+
+				node = node.Contents[split[j]];
+				slugNode = slugNode[slug];
 			}
 
-			node[parsed.name] = {
-				key: data[i].Key,
-				url: urlify(BUCKET_NAME, data[i].Key)
+			node.Contents[parsed.name] = {
+				Key: data[i].Key,
+				Url: urlify(BUCKET_NAME, data[i].Key),
+				Slug: getSlug(parsed.name)
 			};
 
 			if (/(\.mp4|\.mov)$/i.test(parsed.ext)) {
-				node[parsed.name].type = 'video/mp4';
-				node[parsed.name].thumbnailUrl = urlify(
+				node.Contents[parsed.name].Type = 'video/mp4';
+				node.Contents[parsed.name].ThumbnailUrl = urlify(
 					BUCKET_NAME,
 					`${parsed.dir}/${parsed.name}-00001.png`);
-				node[parsed.name].hlsUrl = urlify(
+				node.Contents[parsed.name].HlsUrl = urlify(
 					BUCKET_NAME,
 					`${parsed.dir}/${parsed.name}-hls${parsed.ext}`);
-				node[parsed.name].dashUrl = urlify(
+				node.Contents[parsed.name].DashUrl = urlify(
 					BUCKET_NAME,
 					`${parsed.dir}/${parsed.name}-dash.mpd`,
 					true);
 			}
 
 			else if (/(\.jpg||\.jpeg)$/i.test(parsed.ext)) {
-				node[parsed.name].type = 'image/jpeg';
+				node.Contents[parsed.name].Type = 'image/jpeg';
 			}
 
 			else {
