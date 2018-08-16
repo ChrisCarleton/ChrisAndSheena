@@ -29,7 +29,7 @@ class DivePage extends React.Component {
 	renderSection(root, path, section) {
 		var routes = [];
 
-		routes.push(<Route key={path} path={path} exact component={ FolderView } />);
+		routes.push(<Route key={path} path={path} exact strict component={ FolderView } />);
 		
 		const keys = Object.keys(section.Contents);
 		keys.forEach(key => {
