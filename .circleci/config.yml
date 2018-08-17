@@ -57,7 +57,7 @@ jobs:
     steps:
       - checkout
 
-      - run: pip install awscli --upgrade --user
+      - run: sudo pip install awscli --upgrade
 
       - attach_workspace:
           at: dist
