@@ -63,5 +63,6 @@ jobs:
           at: dist
       
       # deploy!
+      - run: echo "Using $AWS_ACCESS_KEY_ID"
       - run: aws s3 sync dist/prod/ s3://chrisandsheena-dot-com/ --delete
       - run: aws cloudfront create-invalidation --distribution-id EAG77K766NM9Y --invalidation-batch file://.circleci/cf-invalidation.json
