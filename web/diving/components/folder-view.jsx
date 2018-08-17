@@ -2,9 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 import {
-	Breadcrumb,
 	Col,
-	Glyphicon,
 	Grid,
 	Image,
 	Media,
@@ -13,9 +11,10 @@ import {
 	Tabs
 } from 'react-bootstrap';
 
-import { LinkContainer } from 'react-router-bootstrap';
-
 import { Link, withRouter } from 'react-router-dom';
+import Breadcrumbs from './breadcrumbs';
+import SubFoldersList from './sub-folders-list';
+import ThumbnailsView from './thumbnails-view';
 
 class FolderView extends React.Component {
 	constructor(props) {
@@ -58,79 +57,6 @@ class FolderView extends React.Component {
 		};
 	}
 
-	renderBreadcrumbs() {
-		const split = this.props.match.url.split('/');
-		const items = [];
-
-		items.push(
-			<LinkContainer key="home" to="/">
-				<Breadcrumb.Item>Home</Breadcrumb.Item>
-			</LinkContainer>);
-		
-		if (split.length <= 3) {
-			items.push(
-				<Breadcrumb.Item key={this.state.currentKey}>
-					{ this.state.currentKey }
-				</Breadcrumb.Item>);
-		} else {
-			items.push(
-				<LinkContainer key={split[2]} to={`/diving/${split[2]}`}>
-					<Breadcrumb.Item>
-						{ this.state.tripName }
-					</Breadcrumb.Item>
-				</LinkContainer>);
-
-			var path = `/diving/${split[2]}`;
-			var slugMap = this.state.slugMap;
-			for (var i = 3; i < split.length; i++) {
-				path = `${path}/${split[i]}`;
-				slugMap = slugMap[split[i]];
-
-				if (i === (split.length - 1)) {
-					items.push(
-						<Breadcrumb.Item key={slugMap._Key}>
-							{slugMap._Key}
-						</Breadcrumb.Item>);
-				} else {
-				items.push(
-					<LinkContainer key={slugMap._Key} to={path}>
-						<Breadcrumb.Item>
-							{slugMap._Key}
-						</Breadcrumb.Item>
-					</LinkContainer>);
-				}
-			}
-		}
-
-		return <Breadcrumb>{ items }</Breadcrumb>;
-	}
-
-	renderSubFolders() {
-		if (!this.state.currentFolder.Contents || this.state.currentFolder.Contents.length === 0) {
-			return null;
-		}
-
-		const subFolders = [];
-
-		Object.keys(this.state.currentFolder.Contents).forEach(key => {
-			if (!this.state.currentFolder.Contents[key].Type) {
-				subFolders.push(
-					<Media.ListItem>
-						<Media.Left>
-							<Glyphicon glyph="folder-open" />
-						</Media.Left>
-						<Media.Body>
-							<Link to={`${this.props.match.url}/${this.state.currentFolder.Contents[key].Slug}`}>
-								{key}
-							</Link>
-						</Media.Body>
-					</Media.ListItem>);
-			}
-		});
-
-		return <Media.List>{ subFolders }</Media.List>;
-	}
-
 	renderDefaultView() {
 		const videoThumbnails = [];
 		const contents = this.state.currentFolder.Contents;
@@ -155,7 +81,7 @@ class FolderView extends React.Component {
 		});
 
 		return (
-			<div>
+			<Col xs={9}>
 
 				<h1>{this.state.currentKey}</h1>
 
@@ -172,21 +98,22 @@ class FolderView extends React.Component {
 
 					</Tab>
 				</Tabs>
-			</div>);
+			</Col>);
 	}
 
 	render() {
 		return (
 			<div>
-				{ this.renderBreadcrumbs() }
+				<Breadcrumbs
+					currentKey={ this.state.currentKey }
+					tripName={ this.state.tripName }
+					slugMap={ this.state.slugMap } />
 				<Grid>
 					<Row>
-						<Col xs={3}>
-							{ this.renderSubFolders() }
-						</Col>
-						<Col xs={9}>
-							{ this.renderDefaultView() }
-						</Col>
+						<SubFoldersList folderContents={ this.state.currentFolder.Contents } />
+						<ThumbnailsView
+							currentKey={ this.state.currentKey }
+							folderContents={ this.state.currentFolder.Contents } />
 					</Row>
 				</Grid>
 			</div>);
