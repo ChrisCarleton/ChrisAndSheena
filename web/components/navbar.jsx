@@ -10,7 +10,7 @@ class SiteNavbar extends React.Component {
 			<Navbar inverse>
 				<Navbar.Header>
 					<Navbar.Brand>
-						<Link to="/">ChrisAndSheena.ca</Link>
+						<Link to="/">Chris And Sheena <small>(dot com)</small></Link>
 					</Navbar.Brand>
 					<Navbar.Toggle />
 				</Navbar.Header>
