@@ -2,16 +2,19 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 import {
-	Breadcrumb,
 	Col,
-	Glyphicon,
 	Grid,
-	ListGroup,
-	Row
+	Image,
+	Media,
+	Row,
+	Tab,
+	Tabs
 } from 'react-bootstrap';
-import { LinkContainer } from 'react-router-bootstrap';
 
 import { Link, withRouter } from 'react-router-dom';
+import Breadcrumbs from './breadcrumbs';
+import SubFoldersList from './sub-folders-list';
+import ThumbnailsView from './thumbnails-view';
 
 class FolderView extends React.Component {
 	constructor(props) {
@@ -54,100 +57,63 @@ class FolderView extends React.Component {
 		};
 	}
 
-	renderBreadcrumbs() {
-		const split = this.props.match.url.split('/');
-		const items = [];
+	renderDefaultView() {
+		const videoThumbnails = [];
+		const contents = this.state.currentFolder.Contents;
 
-		items.push(
-			<LinkContainer key="home" to="/">
-				<Breadcrumb.Item>Home</Breadcrumb.Item>
-			</LinkContainer>);
-		
-		if (split.length <= 3) {
-			items.push(
-				<Breadcrumb.Item key={this.state.currentKey}>
-					{ this.state.currentKey }
-				</Breadcrumb.Item>);
-		} else {
-			items.push(
-				<LinkContainer key={split[2]} to={`/diving/${split[2]}`}>
-					<Breadcrumb.Item>
-						{ this.state.tripName }
-					</Breadcrumb.Item>
-				</LinkContainer>);
+		Object.keys(contents).forEach(key => {
+			const item = contents[key];
+			const split = key.split('/');
 
-			var path = `/diving/${split[2]}`;
-			var slugMap = this.state.slugMap;
-			for (var i = 3; i < split.length; i++) {
-				path = `${path}/${split[i]}`;
-				slugMap = slugMap[split[i]];
-
-				if (i === (split.length - 1)) {
-					items.push(
-						<Breadcrumb.Item key={slugMap._Key}>
-							{slugMap._Key}
-						</Breadcrumb.Item>);
-				} else {
-				items.push(
-					<LinkContainer key={slugMap._Key} to={path}>
-						<Breadcrumb.Item>
-							{slugMap._Key}
-						</Breadcrumb.Item>
-					</LinkContainer>);
-				}
-			}
-		}
-
-		return <Breadcrumb>{ items }</Breadcrumb>;
-	}
-
-	renderSubFolders() {
-		if (!this.state.currentFolder.Contents || this.state.currentFolder.Contents.length === 0) {
-			return null;
-		}
-
-		const subFolders = [];
-
-		Object.keys(this.state.currentFolder.Contents).forEach(key => {
-			if (!this.state.currentFolder.Contents[key].Type) {
-				subFolders.push(
-					<li className="list-group-item" key={key}>
-						<Glyphicon glyph="folder-open" />
-						&nbsp;&nbsp;
-						<Link to={`${this.props.match.url}/${this.state.currentFolder.Contents[key].Slug}`}>
-							{key}
-						</Link>
-					</li>);
+			if (item.Type === 'video/mp4') {
+				videoThumbnails.push(
+					<Media.ListItem key={key}>
+						<Media.Left>
+							<Image rounded src={item.ThumbnailUrl} alt={split[split.length - 1]} />
+						</Media.Left>
+						<Media.Body align="middle">
+							<Link to={`${this.props.match.url}/${item.Slug}`}>
+								<Media.Heading>{split[split.length - 1]}</Media.Heading>
+							</Link>
+						</Media.Body>
+					</Media.ListItem>);
 			}
 		});
 
-		return <ListGroup componentClass="ul">{ subFolders }</ListGroup>;
-	}
-
-	renderDefaultView() {
 		return (
-			<div>
+			<Col xs={9}>
 
 				<h1>{this.state.currentKey}</h1>
 
-				<p>
-					You are at: { this.props.match.url }
-				</p>
-			</div>);
+				<Tabs defaultActiveKey={0} animation id="folder-contents">
+					<Tab eventKey={0} title="Videos">
+						<p>
+							Here are some videos.
+						</p>
+						<Media.List>
+							{ videoThumbnails }
+						</Media.List>
+					</Tab>
+					<Tab eventKey={1} title="Pictures">
+
+					</Tab>
+				</Tabs>
+			</Col>);
 	}
 
 	render() {
 		return (
 			<div>
-				{ this.renderBreadcrumbs() }
+				<Breadcrumbs
+					currentKey={ this.state.currentKey }
+					tripName={ this.state.tripName }
+					slugMap={ this.state.slugMap } />
 				<Grid>
 					<Row>
-						<Col xs={3}>
-							{ this.renderSubFolders() }
-						</Col>
-						<Col xs={9}>
-							{ this.renderDefaultView() }
-						</Col>
+						<SubFoldersList folderContents={ this.state.currentFolder.Contents } />
+						<ThumbnailsView
+							currentKey={ this.state.currentKey }
+							folderContents={ this.state.currentFolder.Contents } />
 					</Row>
 				</Grid>
 			</div>);
