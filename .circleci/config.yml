@@ -46,9 +46,9 @@ jobs:
       - run: gulp test
       - run: gulp package-prod
       - persist_to_workspace:
-          root: dist/prod
+          root: dist
           paths:
-            - dist-path
+            - prod
 
   deploy:
     docker:
