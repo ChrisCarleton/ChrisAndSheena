@@ -21,7 +21,7 @@ const BUCKET_NAME = process.argv[2];
 const FRIENDLY_NAME = process.argv[3];
 
 function urlify(bucket, key, removeWhitespace) {
-	return `https://s3.amazonaws.com/${bucket}/${key.replace(/ /g, removeWhitespace ? '' : '+')}`;
+	return `https://${bucket}.chrisandsheena.com/${key.replace(/ /g, removeWhitespace ? '' : '+')}`;
 }
 
 function listAllTheFiles(bucketName) {
