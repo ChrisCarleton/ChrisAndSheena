@@ -6,9 +6,13 @@ import {
 	Col,
 	Glyphicon,
 	Grid,
-	ListGroup,
-	Row
+	Image,
+	Media,
+	Row,
+	Tab,
+	Tabs
 } from 'react-bootstrap';
+
 import { LinkContainer } from 'react-router-bootstrap';
 
 import { Link, withRouter } from 'react-router-dom';
@@ -111,28 +115,63 @@ class FolderView extends React.Component {
 		Object.keys(this.state.currentFolder.Contents).forEach(key => {
 			if (!this.state.currentFolder.Contents[key].Type) {
 				subFolders.push(
-					<li className="list-group-item" key={key}>
-						<Glyphicon glyph="folder-open" />
-						&nbsp;&nbsp;
-						<Link to={`${this.props.match.url}/${this.state.currentFolder.Contents[key].Slug}`}>
-							{key}
-						</Link>
-					</li>);
+					<Media.ListItem>
+						<Media.Left>
+							<Glyphicon glyph="folder-open" />
+						</Media.Left>
+						<Media.Body>
+							<Link to={`${this.props.match.url}/${this.state.currentFolder.Contents[key].Slug}`}>
+								{key}
+							</Link>
+						</Media.Body>
+					</Media.ListItem>);
 			}
 		});
 
-		return <ListGroup componentClass="ul">{ subFolders }</ListGroup>;
+		return <Media.List>{ subFolders }</Media.List>;
 	}
 
 	renderDefaultView() {
+		const videoThumbnails = [];
+		const contents = this.state.currentFolder.Contents;
+
+		Object.keys(contents).forEach(key => {
+			const item = contents[key];
+			const split = key.split('/');
+
+			if (item.Type === 'video/mp4') {
+				videoThumbnails.push(
+					<Media.ListItem key={key}>
+						<Media.Left>
+							<Image rounded src={item.ThumbnailUrl} alt={split[split.length - 1]} />
+						</Media.Left>
+						<Media.Body align="middle">
+							<Link to={`${this.props.match.url}/${item.Slug}`}>
+								<Media.Heading>{split[split.length - 1]}</Media.Heading>
+							</Link>
+						</Media.Body>
+					</Media.ListItem>);
+			}
+		});
+
 		return (
 			<div>
 
 				<h1>{this.state.currentKey}</h1>
 
-				<p>
-					You are at: { this.props.match.url }
-				</p>
+				<Tabs defaultActiveKey={0} animation id="folder-contents">
+					<Tab eventKey={0} title="Videos">
+						<p>
+							Here are some videos.
+						</p>
+						<Media.List>
+							{ videoThumbnails }
+						</Media.List>
+					</Tab>
+					<Tab eventKey={1} title="Pictures">
+
+					</Tab>
+				</Tabs>
 			</div>);
 	}
 
