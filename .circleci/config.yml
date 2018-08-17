@@ -72,7 +72,6 @@ jobs:
 
       # deploy!
       - run: aws configure set default.s3.signature_version s3v4
-      - run: aws configure set default.region ca-central-1
       - run: aws configure set preview.cloudfront true
       - run: aws configure set preview.create-invalidation true
       - run: aws s3 sync dist/prod/ s3://chris-and-sheena-dot-com/ --delete
