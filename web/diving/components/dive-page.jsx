@@ -4,8 +4,8 @@ import { withRouter } from 'react-router-dom';
 
 import { Switch, Route } from 'react-router-dom';
 
-//import DivePhoto from './dive-photo';
 import FolderView from './folder-view';
+import MediaView from './media-view';
 import NotFound from '../../components/not-found';
 
 const cozumel = require('../manifests/cozumel2017');
@@ -46,10 +46,21 @@ class DivePage extends React.Component {
 						section.Contents[key]));
 			}
 
-			// else if (section[key].type === 'image/jpeg') {
-			// 	const imageSlug = getSlug(`${path}/${section[key].key}`);
-			// 	routes.push(<Route key={imageSlug} path={imageSlug} exact component={ DivePhoto } />);
-			// }
+			else if (section.Contents[key].Type === 'image/jpeg') {
+				routes.push(<Route 
+					key={section.Contents[key].Key}
+					path={`${path}/${section.Contents[key].Slug}`}
+					exact
+					component={ MediaView } />);
+			}
+
+			else if (section.Contents[key].Type === 'video/mp4') {
+				routes.push(<Route 
+					key={section.Contents[key].Key}
+					path={`${path}/${section.Contents[key].Slug}`}
+					exact
+					component={ MediaView } />);
+			}
 		});
 
 		return routes;
