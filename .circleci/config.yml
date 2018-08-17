@@ -67,4 +67,4 @@ jobs:
       - run: aws configure set preview.cloudfront true
       - run: aws configure set preview.create-invalidation true
       - run: aws s3 sync dist/prod/ s3://chrisandsheena-dot-com/ --delete
-      - run: aws cloudfront create-invalidation --distribution-id EAG77K766NM9Y --invalidation-batch file://.circleci/cf-invalidation.json
+      - run: aws cloudfront create-invalidation --distribution-id EAG77K766NM9Y --paths /
