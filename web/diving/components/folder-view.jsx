@@ -1,5 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import getLocationInfo from '../util/location';
 
 import {
 	Col,
@@ -19,46 +20,12 @@ import ThumbnailsView from './thumbnails-view';
 class FolderView extends React.Component {
 	constructor(props) {
 		super(props);
-		const split = this.props.match.url.split('/');
-
-		var manifest;
-		var currentPosition;
-		var currentKey;
-		var slugMap;
-
-		switch (split[2]) {
-			case 'cozumel2017':
-				manifest = require('../manifests/cozumel2017');
-				break;
-
-			case 'bahamas2018':
-				manifest = require('../manifests/bahamas2018');
-				break;
-
-			default:
-				throw `Unknown vacation: ${split[2]}`;
-		}
-
-		slugMap = manifest.Info.Slugs;
-		currentPosition = manifest;
-		currentKey = manifest.Info.Name;
-
-		for (var i = 3; i < split.length; i++) {
-			slugMap = slugMap[split[i]];
-			currentPosition = currentPosition.Contents[slugMap._Key];
-			currentKey = slugMap._Key;
-		}
-
-		this.state = {
-			tripName: manifest.Info.Name,
-			slugMap: manifest.Info.Slugs,
-			currentFolder: currentPosition,
-			currentKey: currentKey
-		};
+		this.state = getLocationInfo(this.props.match.url);
 	}
 
 	renderDefaultView() {
 		const videoThumbnails = [];
+		const imageThumbnails = [];
 		const contents = this.state.currentFolder.Contents;
 
 		Object.keys(contents).forEach(key => {
@@ -67,6 +34,20 @@ class FolderView extends React.Component {
 
 			if (item.Type === 'video/mp4') {
 				videoThumbnails.push(
+					<Media.ListItem key={key}>
+						<Media.Left>
+							<Image rounded src={item.ThumbnailUrl} alt={split[split.length - 1]} />
+						</Media.Left>
+						<Media.Body align="middle">
+							<Link to={`${this.props.match.url}/${item.Slug}`}>
+								<Media.Heading>{split[split.length - 1]}</Media.Heading>
+							</Link>
+						</Media.Body>
+					</Media.ListItem>);
+			}
+
+			else if (item.Type === 'image/jpeg') {
+				imageThumbnails.push(
 					<Media.ListItem key={key}>
 						<Media.Left>
 							<Image rounded src={item.ThumbnailUrl} alt={split[split.length - 1]} />
@@ -95,6 +76,12 @@ class FolderView extends React.Component {
 						</Media.List>
 					</Tab>
 					<Tab eventKey={1} title="Pictures">
+						<p>
+							Here are some pictures.
+						</p>
+						<Media.List>
+							{ imageThumbnails }
+						</Media.List>
 
 					</Tab>
 				</Tabs>
