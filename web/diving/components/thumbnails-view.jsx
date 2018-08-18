@@ -13,6 +13,7 @@ import {
 class ThumbnailsView extends React.Component {
 	render() {
 		const videoThumbnails = [];
+		const imageThumbnails = [];
 		const contents = this.props.folderContents;
 
 		Object.keys(contents).forEach(key => {
@@ -32,6 +33,21 @@ class ThumbnailsView extends React.Component {
 						</Media.Body>
 					</Media.ListItem>);
 			}
+			
+			else if (item.Type === 'image/jpeg') {
+				imageThumbnails.push(
+					<Media.ListItem key={key}>
+						<Media.Left>
+							<Image rounded src={item.ThumbnailUrl} alt={split[split.length - 1]} />
+						</Media.Left>
+						<Media.Body align="middle">
+							<Link to={`${this.props.match.url}/${item.Slug}`}>
+								<Media.Heading>{split[split.length - 1]}</Media.Heading>
+							</Link>
+						</Media.Body>
+					</Media.ListItem>);
+			}
+
 		});
 
 		return (
@@ -49,7 +65,12 @@ class ThumbnailsView extends React.Component {
 						</Media.List>
 					</Tab>
 					<Tab eventKey={1} title="Pictures">
-
+						<p>
+							Here are some pictures!
+						</p>
+						<Media.List>
+							{ imageThumbnails }
+						</Media.List>
 					</Tab>
 				</Tabs>
 			</Col>);

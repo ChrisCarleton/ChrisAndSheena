@@ -113,6 +113,9 @@ listAllTheFiles(BUCKET_NAME)
 
 			else if (/(\.jpg||\.jpeg)$/i.test(parsed.ext)) {
 				node.Contents[parsed.name].Type = 'image/jpeg';
+				node.Contents[parsed.name].ThumbnailUrl = urlify(
+					BUCKET_NAME,
+					`${parsed.dir}/${parsed.name}-thumb${parsed.ext}`);
 			}
 
 			else {

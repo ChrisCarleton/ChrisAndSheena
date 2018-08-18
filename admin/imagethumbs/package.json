@@ -1,0 +1,17 @@
+{
+  "name": "imagethumbs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Carleton",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.296.0",
+    "babel-register": "^6.26.0",
+    "bluebird": "^3.5.1",
+    "lodash": "^4.17.10"
+  }
+}

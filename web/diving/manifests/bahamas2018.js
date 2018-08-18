@@ -553,115 +553,134 @@ module.exports = {
           "Key": "August 1/20180801_114811.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_114811.jpg",
           "Slug": "20180801_114811",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_114811-thumb.jpg"
         },
         "20180801_114838": {
           "Key": "August 1/20180801_114838.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_114838.jpg",
           "Slug": "20180801_114838",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_114838-thumb.jpg"
         },
         "20180801_114905": {
           "Key": "August 1/20180801_114905.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_114905.jpg",
           "Slug": "20180801_114905",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_114905-thumb.jpg"
         },
         "20180801_114957": {
           "Key": "August 1/20180801_114957.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_114957.jpg",
           "Slug": "20180801_114957",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_114957-thumb.jpg"
         },
         "20180801_115135": {
           "Key": "August 1/20180801_115135.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_115135.jpg",
           "Slug": "20180801_115135",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_115135-thumb.jpg"
         },
         "20180801_115155": {
           "Key": "August 1/20180801_115155.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_115155.jpg",
           "Slug": "20180801_115155",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_115155-thumb.jpg"
         },
         "20180801_115223": {
           "Key": "August 1/20180801_115223.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_115223.jpg",
           "Slug": "20180801_115223",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_115223-thumb.jpg"
         },
         "20180801_115317": {
           "Key": "August 1/20180801_115317.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_115317.jpg",
           "Slug": "20180801_115317",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_115317-thumb.jpg"
         },
         "20180801_115323": {
           "Key": "August 1/20180801_115323.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_115323.jpg",
           "Slug": "20180801_115323",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_115323-thumb.jpg"
         },
         "20180801_115353": {
           "Key": "August 1/20180801_115353.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_115353.jpg",
           "Slug": "20180801_115353",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_115353-thumb.jpg"
         },
         "20180801_120446": {
           "Key": "August 1/20180801_120446.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_120446.jpg",
           "Slug": "20180801_120446",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_120446-thumb.jpg"
         },
         "20180801_120459": {
           "Key": "August 1/20180801_120459.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_120459.jpg",
           "Slug": "20180801_120459",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_120459-thumb.jpg"
         },
         "20180801_120522": {
           "Key": "August 1/20180801_120522.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_120522.jpg",
           "Slug": "20180801_120522",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_120522-thumb.jpg"
         },
         "20180801_122951": {
           "Key": "August 1/20180801_122951.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_122951.jpg",
           "Slug": "20180801_122951",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_122951-thumb.jpg"
         },
         "20180801_122957": {
           "Key": "August 1/20180801_122957.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_122957.jpg",
           "Slug": "20180801_122957",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_122957-thumb.jpg"
         },
         "20180801_123002": {
           "Key": "August 1/20180801_123002.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_123002.jpg",
           "Slug": "20180801_123002",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_123002-thumb.jpg"
         },
         "20180801_132616": {
           "Key": "August 1/20180801_132616.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_132616.jpg",
           "Slug": "20180801_132616",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_132616-thumb.jpg"
         },
         "20180801_134347": {
           "Key": "August 1/20180801_134347.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_134347.jpg",
           "Slug": "20180801_134347",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_134347-thumb.jpg"
         },
         "20180801_134356": {
           "Key": "August 1/20180801_134356.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_134356.jpg",
           "Slug": "20180801_134356",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+1/20180801_134356-thumb.jpg"
         },
         "Early morning sailing": {
           "Key": "August 1/Early morning sailing.MP4",
@@ -821,145 +840,169 @@ module.exports = {
           "Key": "August 2/20180802_103519.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_103519.jpg",
           "Slug": "20180802_103519",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_103519-thumb.jpg"
         },
         "20180802_103546": {
           "Key": "August 2/20180802_103546.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_103546.jpg",
           "Slug": "20180802_103546",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_103546-thumb.jpg"
         },
         "20180802_103718": {
           "Key": "August 2/20180802_103718.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_103718.jpg",
           "Slug": "20180802_103718",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_103718-thumb.jpg"
         },
         "20180802_103920": {
           "Key": "August 2/20180802_103920.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_103920.jpg",
           "Slug": "20180802_103920",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_103920-thumb.jpg"
         },
         "20180802_134838": {
           "Key": "August 2/20180802_134838.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_134838.jpg",
           "Slug": "20180802_134838",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_134838-thumb.jpg"
         },
         "20180802_134843": {
           "Key": "August 2/20180802_134843.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_134843.jpg",
           "Slug": "20180802_134843",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_134843-thumb.jpg"
         },
         "20180802_134846": {
           "Key": "August 2/20180802_134846.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_134846.jpg",
           "Slug": "20180802_134846",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_134846-thumb.jpg"
         },
         "20180802_134855": {
           "Key": "August 2/20180802_134855.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_134855.jpg",
           "Slug": "20180802_134855",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_134855-thumb.jpg"
         },
         "20180802_135906": {
           "Key": "August 2/20180802_135906.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_135906.jpg",
           "Slug": "20180802_135906",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_135906-thumb.jpg"
         },
         "20180802_135909": {
           "Key": "August 2/20180802_135909.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_135909.jpg",
           "Slug": "20180802_135909",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_135909-thumb.jpg"
         },
         "20180802_135911": {
           "Key": "August 2/20180802_135911.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_135911.jpg",
           "Slug": "20180802_135911",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_135911-thumb.jpg"
         },
         "20180802_152408": {
           "Key": "August 2/20180802_152408.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_152408.jpg",
           "Slug": "20180802_152408",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_152408-thumb.jpg"
         },
         "20180802_152410": {
           "Key": "August 2/20180802_152410.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_152410.jpg",
           "Slug": "20180802_152410",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_152410-thumb.jpg"
         },
         "20180802_152413": {
           "Key": "August 2/20180802_152413.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_152413.jpg",
           "Slug": "20180802_152413",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_152413-thumb.jpg"
         },
         "20180802_152416": {
           "Key": "August 2/20180802_152416.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_152416.jpg",
           "Slug": "20180802_152416",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_152416-thumb.jpg"
         },
         "20180802_152417": {
           "Key": "August 2/20180802_152417.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_152417.jpg",
           "Slug": "20180802_152417",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_152417-thumb.jpg"
         },
         "20180802_152419": {
           "Key": "August 2/20180802_152419.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_152419.jpg",
           "Slug": "20180802_152419",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_152419-thumb.jpg"
         },
         "20180802_205227": {
           "Key": "August 2/20180802_205227.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_205227.jpg",
           "Slug": "20180802_205227",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_205227-thumb.jpg"
         },
         "20180802_205232": {
           "Key": "August 2/20180802_205232.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_205232.jpg",
           "Slug": "20180802_205232",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_205232-thumb.jpg"
         },
         "20180802_205248": {
           "Key": "August 2/20180802_205248.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_205248.jpg",
           "Slug": "20180802_205248",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_205248-thumb.jpg"
         },
         "20180802_205255": {
           "Key": "August 2/20180802_205255.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_205255.jpg",
           "Slug": "20180802_205255",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_205255-thumb.jpg"
         },
         "20180802_210101": {
           "Key": "August 2/20180802_210101.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_210101.jpg",
           "Slug": "20180802_210101",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_210101-thumb.jpg"
         },
         "20180802_210102": {
           "Key": "August 2/20180802_210102.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_210102.jpg",
           "Slug": "20180802_210102",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_210102-thumb.jpg"
         },
         "20180802_210147": {
           "Key": "August 2/20180802_210147.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_210147.jpg",
           "Slug": "20180802_210147",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+2/20180802_210147-thumb.jpg"
         },
         "Chris filming Sheena, filming Chris": {
           "Key": "August 2/Chris filming Sheena, filming Chris.mp4",
@@ -1033,373 +1076,435 @@ module.exports = {
           "Key": "August 3/20180803_004242.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_004242.jpg",
           "Slug": "20180803_004242",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_004242-thumb.jpg"
         },
         "20180803_005145": {
           "Key": "August 3/20180803_005145.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_005145.jpg",
           "Slug": "20180803_005145",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_005145-thumb.jpg"
         },
         "20180803_073527": {
           "Key": "August 3/20180803_073527.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_073527.jpg",
           "Slug": "20180803_073527",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_073527-thumb.jpg"
         },
         "20180803_075705": {
           "Key": "August 3/20180803_075705.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_075705.jpg",
           "Slug": "20180803_075705",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_075705-thumb.jpg"
         },
         "20180803_075713": {
           "Key": "August 3/20180803_075713.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_075713.jpg",
           "Slug": "20180803_075713",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_075713-thumb.jpg"
         },
         "20180803_075734": {
           "Key": "August 3/20180803_075734.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_075734.jpg",
           "Slug": "20180803_075734",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_075734-thumb.jpg"
         },
         "20180803_075741": {
           "Key": "August 3/20180803_075741.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_075741.jpg",
           "Slug": "20180803_075741",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_075741-thumb.jpg"
         },
         "20180803_095718": {
           "Key": "August 3/20180803_095718.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_095718.jpg",
           "Slug": "20180803_095718",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_095718-thumb.jpg"
         },
         "20180803_095745": {
           "Key": "August 3/20180803_095745.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_095745.jpg",
           "Slug": "20180803_095745",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_095745-thumb.jpg"
         },
         "20180803_095752": {
           "Key": "August 3/20180803_095752.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_095752.jpg",
           "Slug": "20180803_095752",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_095752-thumb.jpg"
         },
         "20180803_095756": {
           "Key": "August 3/20180803_095756.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_095756.jpg",
           "Slug": "20180803_095756",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_095756-thumb.jpg"
         },
         "20180803_095801": {
           "Key": "August 3/20180803_095801.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_095801.jpg",
           "Slug": "20180803_095801",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_095801-thumb.jpg"
         },
         "20180803_095832": {
           "Key": "August 3/20180803_095832.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_095832.jpg",
           "Slug": "20180803_095832",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_095832-thumb.jpg"
         },
         "20180803_113718": {
           "Key": "August 3/20180803_113718.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_113718.jpg",
           "Slug": "20180803_113718",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_113718-thumb.jpg"
         },
         "20180803_120244": {
           "Key": "August 3/20180803_120244.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_120244.jpg",
           "Slug": "20180803_120244",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_120244-thumb.jpg"
         },
         "20180803_120807": {
           "Key": "August 3/20180803_120807.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_120807.jpg",
           "Slug": "20180803_120807",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_120807-thumb.jpg"
         },
         "20180803_120908": {
           "Key": "August 3/20180803_120908.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_120908.jpg",
           "Slug": "20180803_120908",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_120908-thumb.jpg"
         },
         "20180803_120913": {
           "Key": "August 3/20180803_120913.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_120913.jpg",
           "Slug": "20180803_120913",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_120913-thumb.jpg"
         },
         "20180803_120932": {
           "Key": "August 3/20180803_120932.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_120932.jpg",
           "Slug": "20180803_120932",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_120932-thumb.jpg"
         },
         "20180803_121428": {
           "Key": "August 3/20180803_121428.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_121428.jpg",
           "Slug": "20180803_121428",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_121428-thumb.jpg"
         },
         "20180803_121453": {
           "Key": "August 3/20180803_121453.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_121453.jpg",
           "Slug": "20180803_121453",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_121453-thumb.jpg"
         },
         "20180803_121514": {
           "Key": "August 3/20180803_121514.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_121514.jpg",
           "Slug": "20180803_121514",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_121514-thumb.jpg"
         },
         "20180803_121622": {
           "Key": "August 3/20180803_121622.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_121622.jpg",
           "Slug": "20180803_121622",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_121622-thumb.jpg"
         },
         "20180803_121629": {
           "Key": "August 3/20180803_121629.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_121629.jpg",
           "Slug": "20180803_121629",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_121629-thumb.jpg"
         },
         "20180803_121636": {
           "Key": "August 3/20180803_121636.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_121636.jpg",
           "Slug": "20180803_121636",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_121636-thumb.jpg"
         },
         "20180803_121743": {
           "Key": "August 3/20180803_121743.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_121743.jpg",
           "Slug": "20180803_121743",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_121743-thumb.jpg"
         },
         "20180803_121748": {
           "Key": "August 3/20180803_121748.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_121748.jpg",
           "Slug": "20180803_121748",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_121748-thumb.jpg"
         },
         "20180803_122216": {
           "Key": "August 3/20180803_122216.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_122216.jpg",
           "Slug": "20180803_122216",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_122216-thumb.jpg"
         },
         "20180803_122219": {
           "Key": "August 3/20180803_122219.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_122219.jpg",
           "Slug": "20180803_122219",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_122219-thumb.jpg"
         },
         "20180803_122353": {
           "Key": "August 3/20180803_122353.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_122353.jpg",
           "Slug": "20180803_122353",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_122353-thumb.jpg"
         },
         "20180803_122410": {
           "Key": "August 3/20180803_122410.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_122410.jpg",
           "Slug": "20180803_122410",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_122410-thumb.jpg"
         },
         "20180803_122703": {
           "Key": "August 3/20180803_122703.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_122703.jpg",
           "Slug": "20180803_122703",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_122703-thumb.jpg"
         },
         "20180803_122743": {
           "Key": "August 3/20180803_122743.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_122743.jpg",
           "Slug": "20180803_122743",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_122743-thumb.jpg"
         },
         "20180803_134823": {
           "Key": "August 3/20180803_134823.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_134823.jpg",
           "Slug": "20180803_134823",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_134823-thumb.jpg"
         },
         "20180803_134940": {
           "Key": "August 3/20180803_134940.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_134940.jpg",
           "Slug": "20180803_134940",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_134940-thumb.jpg"
         },
         "20180803_135000": {
           "Key": "August 3/20180803_135000.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_135000.jpg",
           "Slug": "20180803_135000",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_135000-thumb.jpg"
         },
         "20180803_142153": {
           "Key": "August 3/20180803_142153.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_142153.jpg",
           "Slug": "20180803_142153",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_142153-thumb.jpg"
         },
         "20180803_163617": {
           "Key": "August 3/20180803_163617.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_163617.jpg",
           "Slug": "20180803_163617",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_163617-thumb.jpg"
         },
         "20180803_163623": {
           "Key": "August 3/20180803_163623.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_163623.jpg",
           "Slug": "20180803_163623",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_163623-thumb.jpg"
         },
         "20180803_171343": {
           "Key": "August 3/20180803_171343.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_171343.jpg",
           "Slug": "20180803_171343",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_171343-thumb.jpg"
         },
         "20180803_174621": {
           "Key": "August 3/20180803_174621.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_174621.jpg",
           "Slug": "20180803_174621",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_174621-thumb.jpg"
         },
         "20180803_174709": {
           "Key": "August 3/20180803_174709.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_174709.jpg",
           "Slug": "20180803_174709",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_174709-thumb.jpg"
         },
         "20180803_175310": {
           "Key": "August 3/20180803_175310.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_175310.jpg",
           "Slug": "20180803_175310",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_175310-thumb.jpg"
         },
         "20180803_175313": {
           "Key": "August 3/20180803_175313.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_175313.jpg",
           "Slug": "20180803_175313",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_175313-thumb.jpg"
         },
         "20180803_175318": {
           "Key": "August 3/20180803_175318.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_175318.jpg",
           "Slug": "20180803_175318",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_175318-thumb.jpg"
         },
         "20180803_180733": {
           "Key": "August 3/20180803_180733.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_180733.jpg",
           "Slug": "20180803_180733",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_180733-thumb.jpg"
         },
         "20180803_180739": {
           "Key": "August 3/20180803_180739.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_180739.jpg",
           "Slug": "20180803_180739",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_180739-thumb.jpg"
         },
         "20180803_183001": {
           "Key": "August 3/20180803_183001.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_183001.jpg",
           "Slug": "20180803_183001",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_183001-thumb.jpg"
         },
         "20180803_183028": {
           "Key": "August 3/20180803_183028.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_183028.jpg",
           "Slug": "20180803_183028",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_183028-thumb.jpg"
         },
         "20180803_212119": {
           "Key": "August 3/20180803_212119.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_212119.jpg",
           "Slug": "20180803_212119",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_212119-thumb.jpg"
         },
         "20180803_212128": {
           "Key": "August 3/20180803_212128.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_212128.jpg",
           "Slug": "20180803_212128",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_212128-thumb.jpg"
         },
         "20180803_212142": {
           "Key": "August 3/20180803_212142.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_212142.jpg",
           "Slug": "20180803_212142",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_212142-thumb.jpg"
         },
         "20180803_212750": {
           "Key": "August 3/20180803_212750.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_212750.jpg",
           "Slug": "20180803_212750",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_212750-thumb.jpg"
         },
         "20180803_212757": {
           "Key": "August 3/20180803_212757.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_212757.jpg",
           "Slug": "20180803_212757",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_212757-thumb.jpg"
         },
         "20180803_212809": {
           "Key": "August 3/20180803_212809.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_212809.jpg",
           "Slug": "20180803_212809",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_212809-thumb.jpg"
         },
         "20180803_212823": {
           "Key": "August 3/20180803_212823.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_212823.jpg",
           "Slug": "20180803_212823",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_212823-thumb.jpg"
         },
         "20180803_212835": {
           "Key": "August 3/20180803_212835.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_212835.jpg",
           "Slug": "20180803_212835",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_212835-thumb.jpg"
         },
         "20180803_213155": {
           "Key": "August 3/20180803_213155.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_213155.jpg",
           "Slug": "20180803_213155",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_213155-thumb.jpg"
         },
         "20180803_213210": {
           "Key": "August 3/20180803_213210.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_213210.jpg",
           "Slug": "20180803_213210",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_213210-thumb.jpg"
         },
         "20180803_213236": {
           "Key": "August 3/20180803_213236.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_213236.jpg",
           "Slug": "20180803_213236",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_213236-thumb.jpg"
         },
         "20180803_213443": {
           "Key": "August 3/20180803_213443.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_213443.jpg",
           "Slug": "20180803_213443",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_213443-thumb.jpg"
         },
         "20180803_214834": {
           "Key": "August 3/20180803_214834.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_214834.jpg",
           "Slug": "20180803_214834",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+3/20180803_214834-thumb.jpg"
         },
         "Bahamian band": {
           "Key": "August 3/Bahamian band.mp4",
@@ -1509,313 +1614,365 @@ module.exports = {
           "Key": "August 4/20180804_074245.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_074245.jpg",
           "Slug": "20180804_074245",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_074245-thumb.jpg"
         },
         "20180804_074311": {
           "Key": "August 4/20180804_074311.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_074311.jpg",
           "Slug": "20180804_074311",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_074311-thumb.jpg"
         },
         "20180804_074359": {
           "Key": "August 4/20180804_074359.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_074359.jpg",
           "Slug": "20180804_074359",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_074359-thumb.jpg"
         },
         "20180804_080602": {
           "Key": "August 4/20180804_080602.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_080602.jpg",
           "Slug": "20180804_080602",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_080602-thumb.jpg"
         },
         "20180804_080607": {
           "Key": "August 4/20180804_080607.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_080607.jpg",
           "Slug": "20180804_080607",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_080607-thumb.jpg"
         },
         "20180804_093400": {
           "Key": "August 4/20180804_093400.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_093400.jpg",
           "Slug": "20180804_093400",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_093400-thumb.jpg"
         },
         "20180804_093414": {
           "Key": "August 4/20180804_093414.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_093414.jpg",
           "Slug": "20180804_093414",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_093414-thumb.jpg"
         },
         "20180804_093436": {
           "Key": "August 4/20180804_093436.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_093436.jpg",
           "Slug": "20180804_093436",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_093436-thumb.jpg"
         },
         "20180804_093453": {
           "Key": "August 4/20180804_093453.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_093453.jpg",
           "Slug": "20180804_093453",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_093453-thumb.jpg"
         },
         "20180804_093458": {
           "Key": "August 4/20180804_093458.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_093458.jpg",
           "Slug": "20180804_093458",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_093458-thumb.jpg"
         },
         "20180804_094153": {
           "Key": "August 4/20180804_094153.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_094153.jpg",
           "Slug": "20180804_094153",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_094153-thumb.jpg"
         },
         "20180804_095809": {
           "Key": "August 4/20180804_095809.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_095809.jpg",
           "Slug": "20180804_095809",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_095809-thumb.jpg"
         },
         "20180804_100250": {
           "Key": "August 4/20180804_100250.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_100250.jpg",
           "Slug": "20180804_100250",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_100250-thumb.jpg"
         },
         "20180804_100309": {
           "Key": "August 4/20180804_100309.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_100309.jpg",
           "Slug": "20180804_100309",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_100309-thumb.jpg"
         },
         "20180804_100351": {
           "Key": "August 4/20180804_100351.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_100351.jpg",
           "Slug": "20180804_100351",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_100351-thumb.jpg"
         },
         "20180804_132218": {
           "Key": "August 4/20180804_132218.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_132218.jpg",
           "Slug": "20180804_132218",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_132218-thumb.jpg"
         },
         "20180804_133544": {
           "Key": "August 4/20180804_133544.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_133544.jpg",
           "Slug": "20180804_133544",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_133544-thumb.jpg"
         },
         "20180804_133615": {
           "Key": "August 4/20180804_133615.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_133615.jpg",
           "Slug": "20180804_133615",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_133615-thumb.jpg"
         },
         "20180804_133940": {
           "Key": "August 4/20180804_133940.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_133940.jpg",
           "Slug": "20180804_133940",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_133940-thumb.jpg"
         },
         "20180804_134014": {
           "Key": "August 4/20180804_134014.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134014.jpg",
           "Slug": "20180804_134014",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134014-thumb.jpg"
         },
         "20180804_134027": {
           "Key": "August 4/20180804_134027.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134027.jpg",
           "Slug": "20180804_134027",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134027-thumb.jpg"
         },
         "20180804_134057": {
           "Key": "August 4/20180804_134057.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134057.jpg",
           "Slug": "20180804_134057",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134057-thumb.jpg"
         },
         "20180804_134109": {
           "Key": "August 4/20180804_134109.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134109.jpg",
           "Slug": "20180804_134109",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134109-thumb.jpg"
         },
         "20180804_134146": {
           "Key": "August 4/20180804_134146.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134146.jpg",
           "Slug": "20180804_134146",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134146-thumb.jpg"
         },
         "20180804_134152": {
           "Key": "August 4/20180804_134152.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134152.jpg",
           "Slug": "20180804_134152",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134152-thumb.jpg"
         },
         "20180804_134211": {
           "Key": "August 4/20180804_134211.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134211.jpg",
           "Slug": "20180804_134211",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134211-thumb.jpg"
         },
         "20180804_134443": {
           "Key": "August 4/20180804_134443.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134443.jpg",
           "Slug": "20180804_134443",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134443-thumb.jpg"
         },
         "20180804_134631": {
           "Key": "August 4/20180804_134631.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134631.jpg",
           "Slug": "20180804_134631",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134631-thumb.jpg"
         },
         "20180804_134711": {
           "Key": "August 4/20180804_134711.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134711.jpg",
           "Slug": "20180804_134711",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_134711-thumb.jpg"
         },
         "20180804_135251": {
           "Key": "August 4/20180804_135251.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_135251.jpg",
           "Slug": "20180804_135251",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_135251-thumb.jpg"
         },
         "20180804_135420": {
           "Key": "August 4/20180804_135420.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_135420.jpg",
           "Slug": "20180804_135420",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_135420-thumb.jpg"
         },
         "20180804_135644": {
           "Key": "August 4/20180804_135644.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_135644.jpg",
           "Slug": "20180804_135644",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_135644-thumb.jpg"
         },
         "20180804_145258": {
           "Key": "August 4/20180804_145258.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_145258.jpg",
           "Slug": "20180804_145258",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_145258-thumb.jpg"
         },
         "20180804_145343": {
           "Key": "August 4/20180804_145343.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_145343.jpg",
           "Slug": "20180804_145343",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_145343-thumb.jpg"
         },
         "20180804_151459": {
           "Key": "August 4/20180804_151459.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_151459.jpg",
           "Slug": "20180804_151459",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_151459-thumb.jpg"
         },
         "20180804_160407": {
           "Key": "August 4/20180804_160407.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_160407.jpg",
           "Slug": "20180804_160407",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_160407-thumb.jpg"
         },
         "20180804_160445": {
           "Key": "August 4/20180804_160445.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_160445.jpg",
           "Slug": "20180804_160445",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_160445-thumb.jpg"
         },
         "20180804_160633": {
           "Key": "August 4/20180804_160633.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_160633.jpg",
           "Slug": "20180804_160633",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_160633-thumb.jpg"
         },
         "20180804_160646": {
           "Key": "August 4/20180804_160646.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_160646.jpg",
           "Slug": "20180804_160646",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_160646-thumb.jpg"
         },
         "20180804_160655": {
           "Key": "August 4/20180804_160655.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_160655.jpg",
           "Slug": "20180804_160655",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_160655-thumb.jpg"
         },
         "20180804_160715": {
           "Key": "August 4/20180804_160715.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_160715.jpg",
           "Slug": "20180804_160715",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_160715-thumb.jpg"
         },
         "20180804_160827": {
           "Key": "August 4/20180804_160827.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_160827.jpg",
           "Slug": "20180804_160827",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_160827-thumb.jpg"
         },
         "20180804_161134": {
           "Key": "August 4/20180804_161134.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_161134.jpg",
           "Slug": "20180804_161134",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_161134-thumb.jpg"
         },
         "20180804_161145": {
           "Key": "August 4/20180804_161145.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_161145.jpg",
           "Slug": "20180804_161145",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_161145-thumb.jpg"
         },
         "20180804_161231": {
           "Key": "August 4/20180804_161231.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_161231.jpg",
           "Slug": "20180804_161231",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_161231-thumb.jpg"
         },
         "20180804_161455": {
           "Key": "August 4/20180804_161455.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_161455.jpg",
           "Slug": "20180804_161455",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_161455-thumb.jpg"
         },
         "20180804_161612": {
           "Key": "August 4/20180804_161612.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_161612.jpg",
           "Slug": "20180804_161612",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_161612-thumb.jpg"
         },
         "20180804_161619": {
           "Key": "August 4/20180804_161619.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_161619.jpg",
           "Slug": "20180804_161619",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_161619-thumb.jpg"
         },
         "20180804_161629": {
           "Key": "August 4/20180804_161629.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_161629.jpg",
           "Slug": "20180804_161629",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_161629-thumb.jpg"
         },
         "20180804_162234": {
           "Key": "August 4/20180804_162234.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_162234.jpg",
           "Slug": "20180804_162234",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_162234-thumb.jpg"
         },
         "20180804_162307": {
           "Key": "August 4/20180804_162307.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_162307.jpg",
           "Slug": "20180804_162307",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_162307-thumb.jpg"
         },
         "20180804_175324": {
           "Key": "August 4/20180804_175324.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_175324.jpg",
           "Slug": "20180804_175324",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/August+4/20180804_175324-thumb.jpg"
         },
         "A light morning rain at the resort": {
           "Key": "August 4/A light morning rain at the resort.mp4",
@@ -1853,43 +2010,50 @@ module.exports = {
           "Key": "July 28/20180728_125019.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+28/20180728_125019.jpg",
           "Slug": "20180728_125019",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+28/20180728_125019-thumb.jpg"
         },
         "20180728_125022": {
           "Key": "July 28/20180728_125022.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+28/20180728_125022.jpg",
           "Slug": "20180728_125022",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+28/20180728_125022-thumb.jpg"
         },
         "20180728_183517": {
           "Key": "July 28/20180728_183517.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+28/20180728_183517.jpg",
           "Slug": "20180728_183517",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+28/20180728_183517-thumb.jpg"
         },
         "20180728_183530": {
           "Key": "July 28/20180728_183530.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+28/20180728_183530.jpg",
           "Slug": "20180728_183530",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+28/20180728_183530-thumb.jpg"
         },
         "20180728_194947": {
           "Key": "July 28/20180728_194947.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+28/20180728_194947.jpg",
           "Slug": "20180728_194947",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+28/20180728_194947-thumb.jpg"
         },
         "20180728_194950": {
           "Key": "July 28/20180728_194950.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+28/20180728_194950.jpg",
           "Slug": "20180728_194950",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+28/20180728_194950-thumb.jpg"
         },
         "20180728_194951": {
           "Key": "July 28/20180728_194951.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+28/20180728_194951.jpg",
           "Slug": "20180728_194951",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+28/20180728_194951-thumb.jpg"
         }
       }
     },
@@ -1984,115 +2148,134 @@ module.exports = {
               "Key": "July 29/1 - Rays Reef/P7290034.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290034.JPG",
               "Slug": "p7290034",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290034-thumb.JPG"
             },
             "P7290035": {
               "Key": "July 29/1 - Rays Reef/P7290035.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290035.JPG",
               "Slug": "p7290035",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290035-thumb.JPG"
             },
             "P7290036": {
               "Key": "July 29/1 - Rays Reef/P7290036.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290036.JPG",
               "Slug": "p7290036",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290036-thumb.JPG"
             },
             "P7290037": {
               "Key": "July 29/1 - Rays Reef/P7290037.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290037.JPG",
               "Slug": "p7290037",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290037-thumb.JPG"
             },
             "P7290038": {
               "Key": "July 29/1 - Rays Reef/P7290038.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290038.JPG",
               "Slug": "p7290038",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290038-thumb.JPG"
             },
             "P7290039": {
               "Key": "July 29/1 - Rays Reef/P7290039.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290039.JPG",
               "Slug": "p7290039",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290039-thumb.JPG"
             },
             "P7290041": {
               "Key": "July 29/1 - Rays Reef/P7290041.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290041.JPG",
               "Slug": "p7290041",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290041-thumb.JPG"
             },
             "P7290042": {
               "Key": "July 29/1 - Rays Reef/P7290042.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290042.JPG",
               "Slug": "p7290042",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290042-thumb.JPG"
             },
             "P7290043": {
               "Key": "July 29/1 - Rays Reef/P7290043.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290043.JPG",
               "Slug": "p7290043",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290043-thumb.JPG"
             },
             "P7290044": {
               "Key": "July 29/1 - Rays Reef/P7290044.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290044.JPG",
               "Slug": "p7290044",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290044-thumb.JPG"
             },
             "P7290045": {
               "Key": "July 29/1 - Rays Reef/P7290045.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290045.JPG",
               "Slug": "p7290045",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290045-thumb.JPG"
             },
             "P7290046": {
               "Key": "July 29/1 - Rays Reef/P7290046.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290046.JPG",
               "Slug": "p7290046",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290046-thumb.JPG"
             },
             "P7290047": {
               "Key": "July 29/1 - Rays Reef/P7290047.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290047.JPG",
               "Slug": "p7290047",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290047-thumb.JPG"
             },
             "P7290048": {
               "Key": "July 29/1 - Rays Reef/P7290048.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290048.JPG",
               "Slug": "p7290048",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290048-thumb.JPG"
             },
             "P7290049": {
               "Key": "July 29/1 - Rays Reef/P7290049.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290049.JPG",
               "Slug": "p7290049",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290049-thumb.JPG"
             },
             "P7290050": {
               "Key": "July 29/1 - Rays Reef/P7290050.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290050.JPG",
               "Slug": "p7290050",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290050-thumb.JPG"
             },
             "P7290051": {
               "Key": "July 29/1 - Rays Reef/P7290051.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290051.JPG",
               "Slug": "p7290051",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290051-thumb.JPG"
             },
             "P7290052": {
               "Key": "July 29/1 - Rays Reef/P7290052.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290052.JPG",
               "Slug": "p7290052",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/P7290052-thumb.JPG"
             },
             "Rays Reef Briefing": {
               "Key": "July 29/1 - Rays Reef/Rays Reef Briefing.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/Rays+Reef+Briefing.JPG",
               "Slug": "rays-reef-briefing",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/1+-+Rays+Reef/Rays+Reef+Briefing-thumb.JPG"
             },
             "Small blenny coming out of his hole": {
               "Key": "July 29/1 - Rays Reef/Small blenny coming out of his hole.MOV",
@@ -2184,121 +2367,141 @@ module.exports = {
               "Key": "July 29/2 - Barracuda Shoals/P7290054.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290054.JPG",
               "Slug": "p7290054",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290054-thumb.JPG"
             },
             "P7290055": {
               "Key": "July 29/2 - Barracuda Shoals/P7290055.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290055.JPG",
               "Slug": "p7290055",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290055-thumb.JPG"
             },
             "P7290056": {
               "Key": "July 29/2 - Barracuda Shoals/P7290056.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290056.JPG",
               "Slug": "p7290056",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290056-thumb.JPG"
             },
             "P7290057": {
               "Key": "July 29/2 - Barracuda Shoals/P7290057.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290057.JPG",
               "Slug": "p7290057",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290057-thumb.JPG"
             },
             "P7290058": {
               "Key": "July 29/2 - Barracuda Shoals/P7290058.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290058.JPG",
               "Slug": "p7290058",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290058-thumb.JPG"
             },
             "P7290059": {
               "Key": "July 29/2 - Barracuda Shoals/P7290059.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290059.JPG",
               "Slug": "p7290059",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290059-thumb.JPG"
             },
             "P7290060": {
               "Key": "July 29/2 - Barracuda Shoals/P7290060.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290060.JPG",
               "Slug": "p7290060",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290060-thumb.JPG"
             },
             "P7290061": {
               "Key": "July 29/2 - Barracuda Shoals/P7290061.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290061.JPG",
               "Slug": "p7290061",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290061-thumb.JPG"
             },
             "P7290062": {
               "Key": "July 29/2 - Barracuda Shoals/P7290062.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290062.JPG",
               "Slug": "p7290062",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290062-thumb.JPG"
             },
             "P7290063": {
               "Key": "July 29/2 - Barracuda Shoals/P7290063.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290063.JPG",
               "Slug": "p7290063",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290063-thumb.JPG"
             },
             "P7290064": {
               "Key": "July 29/2 - Barracuda Shoals/P7290064.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290064.JPG",
               "Slug": "p7290064",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290064-thumb.JPG"
             },
             "P7290065": {
               "Key": "July 29/2 - Barracuda Shoals/P7290065.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290065.JPG",
               "Slug": "p7290065",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290065-thumb.JPG"
             },
             "P7290066": {
               "Key": "July 29/2 - Barracuda Shoals/P7290066.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290066.JPG",
               "Slug": "p7290066",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290066-thumb.JPG"
             },
             "P7290067": {
               "Key": "July 29/2 - Barracuda Shoals/P7290067.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290067.JPG",
               "Slug": "p7290067",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290067-thumb.JPG"
             },
             "P7290068": {
               "Key": "July 29/2 - Barracuda Shoals/P7290068.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290068.JPG",
               "Slug": "p7290068",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290068-thumb.JPG"
             },
             "P7290069": {
               "Key": "July 29/2 - Barracuda Shoals/P7290069.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290069.JPG",
               "Slug": "p7290069",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290069-thumb.JPG"
             },
             "P7290070": {
               "Key": "July 29/2 - Barracuda Shoals/P7290070.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290070.JPG",
               "Slug": "p7290070",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290070-thumb.JPG"
             },
             "P7290071": {
               "Key": "July 29/2 - Barracuda Shoals/P7290071.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290071.JPG",
               "Slug": "p7290071",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290071-thumb.JPG"
             },
             "P7290072": {
               "Key": "July 29/2 - Barracuda Shoals/P7290072.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290072.JPG",
               "Slug": "p7290072",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290072-thumb.JPG"
             },
             "P7290073": {
               "Key": "July 29/2 - Barracuda Shoals/P7290073.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290073.JPG",
               "Slug": "p7290073",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/2+-+Barracuda+Shoals/P7290073-thumb.JPG"
             }
           }
         },
@@ -2306,37 +2509,43 @@ module.exports = {
           "Key": "July 29/20180729_063145.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/20180729_063145.jpg",
           "Slug": "20180729_063145",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/20180729_063145-thumb.jpg"
         },
         "20180729_063222": {
           "Key": "July 29/20180729_063222.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/20180729_063222.jpg",
           "Slug": "20180729_063222",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/20180729_063222-thumb.jpg"
         },
         "20180729_063308": {
           "Key": "July 29/20180729_063308.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/20180729_063308.jpg",
           "Slug": "20180729_063308",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/20180729_063308-thumb.jpg"
         },
         "20180729_063420": {
           "Key": "July 29/20180729_063420.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/20180729_063420.jpg",
           "Slug": "20180729_063420",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/20180729_063420-thumb.jpg"
         },
         "20180729_063640": {
           "Key": "July 29/20180729_063640.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/20180729_063640.jpg",
           "Slug": "20180729_063640",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/20180729_063640-thumb.jpg"
         },
         "20180729_063657": {
           "Key": "July 29/20180729_063657.jpg",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/20180729_063657.jpg",
           "Slug": "20180729_063657",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/20180729_063657-thumb.jpg"
         },
         "3 - Parrotfish Reef": {
           "Slug": "3-parrotfish-reef",
@@ -2408,145 +2617,169 @@ module.exports = {
               "Key": "July 29/3 - Parrotfish Reef/P7290074.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290074.JPG",
               "Slug": "p7290074",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290074-thumb.JPG"
             },
             "P7290075": {
               "Key": "July 29/3 - Parrotfish Reef/P7290075.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290075.JPG",
               "Slug": "p7290075",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290075-thumb.JPG"
             },
             "P7290076": {
               "Key": "July 29/3 - Parrotfish Reef/P7290076.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290076.JPG",
               "Slug": "p7290076",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290076-thumb.JPG"
             },
             "P7290077": {
               "Key": "July 29/3 - Parrotfish Reef/P7290077.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290077.JPG",
               "Slug": "p7290077",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290077-thumb.JPG"
             },
             "P7290078": {
               "Key": "July 29/3 - Parrotfish Reef/P7290078.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290078.JPG",
               "Slug": "p7290078",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290078-thumb.JPG"
             },
             "P7290079": {
               "Key": "July 29/3 - Parrotfish Reef/P7290079.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290079.JPG",
               "Slug": "p7290079",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290079-thumb.JPG"
             },
             "P7290080": {
               "Key": "July 29/3 - Parrotfish Reef/P7290080.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290080.JPG",
               "Slug": "p7290080",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290080-thumb.JPG"
             },
             "P7290081": {
               "Key": "July 29/3 - Parrotfish Reef/P7290081.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290081.JPG",
               "Slug": "p7290081",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290081-thumb.JPG"
             },
             "P7290082": {
               "Key": "July 29/3 - Parrotfish Reef/P7290082.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290082.JPG",
               "Slug": "p7290082",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290082-thumb.JPG"
             },
             "P7290083": {
               "Key": "July 29/3 - Parrotfish Reef/P7290083.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290083.JPG",
               "Slug": "p7290083",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290083-thumb.JPG"
             },
             "P7290084": {
               "Key": "July 29/3 - Parrotfish Reef/P7290084.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290084.JPG",
               "Slug": "p7290084",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290084-thumb.JPG"
             },
             "P7290085": {
               "Key": "July 29/3 - Parrotfish Reef/P7290085.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290085.JPG",
               "Slug": "p7290085",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290085-thumb.JPG"
             },
             "P7290086": {
               "Key": "July 29/3 - Parrotfish Reef/P7290086.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290086.JPG",
               "Slug": "p7290086",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290086-thumb.JPG"
             },
             "P7290087": {
               "Key": "July 29/3 - Parrotfish Reef/P7290087.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290087.JPG",
               "Slug": "p7290087",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290087-thumb.JPG"
             },
             "P7290088": {
               "Key": "July 29/3 - Parrotfish Reef/P7290088.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290088.JPG",
               "Slug": "p7290088",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290088-thumb.JPG"
             },
             "P7290089": {
               "Key": "July 29/3 - Parrotfish Reef/P7290089.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290089.JPG",
               "Slug": "p7290089",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290089-thumb.JPG"
             },
             "P7290090": {
               "Key": "July 29/3 - Parrotfish Reef/P7290090.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290090.JPG",
               "Slug": "p7290090",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290090-thumb.JPG"
             },
             "P7290091": {
               "Key": "July 29/3 - Parrotfish Reef/P7290091.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290091.JPG",
               "Slug": "p7290091",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290091-thumb.JPG"
             },
             "P7290092": {
               "Key": "July 29/3 - Parrotfish Reef/P7290092.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290092.JPG",
               "Slug": "p7290092",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290092-thumb.JPG"
             },
             "P7290093": {
               "Key": "July 29/3 - Parrotfish Reef/P7290093.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290093.JPG",
               "Slug": "p7290093",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290093-thumb.JPG"
             },
             "P7290094": {
               "Key": "July 29/3 - Parrotfish Reef/P7290094.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290094.JPG",
               "Slug": "p7290094",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290094-thumb.JPG"
             },
             "P7290095": {
               "Key": "July 29/3 - Parrotfish Reef/P7290095.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290095.JPG",
               "Slug": "p7290095",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290095-thumb.JPG"
             },
             "P7290096": {
               "Key": "July 29/3 - Parrotfish Reef/P7290096.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290096.JPG",
               "Slug": "p7290096",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290096-thumb.JPG"
             },
             "P7290101": {
               "Key": "July 29/3 - Parrotfish Reef/P7290101.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290101.JPG",
               "Slug": "p7290101",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/3+-+Parrotfish+Reef/P7290101-thumb.JPG"
             }
           }
         },
@@ -2611,43 +2844,50 @@ module.exports = {
               "Key": "July 29/4 - Parrotfish Reef (Night Dive)/GOPR0494.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/4+-+Parrotfish+Reef+(Night+Dive)/GOPR0494.JPG",
               "Slug": "gopr0494",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/4+-+Parrotfish+Reef+(Night+Dive)/GOPR0494-thumb.JPG"
             },
             "GOPR0497": {
               "Key": "July 29/4 - Parrotfish Reef (Night Dive)/GOPR0497.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/4+-+Parrotfish+Reef+(Night+Dive)/GOPR0497.JPG",
               "Slug": "gopr0497",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/4+-+Parrotfish+Reef+(Night+Dive)/GOPR0497-thumb.JPG"
             },
             "GOPR0499": {
               "Key": "July 29/4 - Parrotfish Reef (Night Dive)/GOPR0499.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/4+-+Parrotfish+Reef+(Night+Dive)/GOPR0499.JPG",
               "Slug": "gopr0499",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/4+-+Parrotfish+Reef+(Night+Dive)/GOPR0499-thumb.JPG"
             },
             "P7290102": {
               "Key": "July 29/4 - Parrotfish Reef (Night Dive)/P7290102.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/4+-+Parrotfish+Reef+(Night+Dive)/P7290102.JPG",
               "Slug": "p7290102",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/4+-+Parrotfish+Reef+(Night+Dive)/P7290102-thumb.JPG"
             },
             "P7290103": {
               "Key": "July 29/4 - Parrotfish Reef (Night Dive)/P7290103.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/4+-+Parrotfish+Reef+(Night+Dive)/P7290103.JPG",
               "Slug": "p7290103",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/4+-+Parrotfish+Reef+(Night+Dive)/P7290103-thumb.JPG"
             },
             "P7290104": {
               "Key": "July 29/4 - Parrotfish Reef (Night Dive)/P7290104.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/4+-+Parrotfish+Reef+(Night+Dive)/P7290104.JPG",
               "Slug": "p7290104",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/4+-+Parrotfish+Reef+(Night+Dive)/P7290104-thumb.JPG"
             },
             "P7290105": {
               "Key": "July 29/4 - Parrotfish Reef (Night Dive)/P7290105.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+29/4+-+Parrotfish+Reef+(Night+Dive)/P7290105.JPG",
               "Slug": "p7290105",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+29/4+-+Parrotfish+Reef+(Night+Dive)/P7290105-thumb.JPG"
             }
           }
         },
@@ -2690,13 +2930,15 @@ module.exports = {
               "Key": "July 30/5 - Goombay Reef/Goombay Reef briefing 1.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+30/5+-+Goombay+Reef/Goombay+Reef+briefing+1.JPG",
               "Slug": "goombay-reef-briefing-1",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+30/5+-+Goombay+Reef/Goombay+Reef+briefing+1-thumb.JPG"
             },
             "Goombay Reef briefing 2": {
               "Key": "July 30/5 - Goombay Reef/Goombay Reef briefing 2.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+30/5+-+Goombay+Reef/Goombay+Reef+briefing+2.JPG",
               "Slug": "goombay-reef-briefing-2",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+30/5+-+Goombay+Reef/Goombay+Reef+briefing+2-thumb.JPG"
             }
           }
         },
@@ -2815,7 +3057,8 @@ module.exports = {
               "Key": "July 30/6 - Danger Reef/Danger Reef briefing.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+30/6+-+Danger+Reef/Danger+Reef+briefing.JPG",
               "Slug": "danger-reef-briefing",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+30/6+-+Danger+Reef/Danger+Reef+briefing-thumb.JPG"
             }
           }
         },
@@ -2925,13 +3168,15 @@ module.exports = {
               "Key": "July 30/7 - The Gulch/The Gulch briefing 1.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+30/7+-+The+Gulch/The+Gulch+briefing+1.JPG",
               "Slug": "the-gulch-briefing-1",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+30/7+-+The+Gulch/The+Gulch+briefing+1-thumb.JPG"
             },
             "The Gulch briefing 2": {
               "Key": "July 30/7 - The Gulch/The Gulch briefing 2.JPG",
               "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+30/7+-+The+Gulch/The+Gulch+briefing+2.JPG",
               "Slug": "the-gulch-briefing-2",
-              "Type": "image/jpeg"
+              "Type": "image/jpeg",
+              "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+30/7+-+The+Gulch/The+Gulch+briefing+2-thumb.JPG"
             }
           }
         },
@@ -2966,31 +3211,36 @@ module.exports = {
           "Key": "July 30/P7300113.JPG",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+30/P7300113.JPG",
           "Slug": "p7300113",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+30/P7300113-thumb.JPG"
         },
         "P7300114": {
           "Key": "July 30/P7300114.JPG",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+30/P7300114.JPG",
           "Slug": "p7300114",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+30/P7300114-thumb.JPG"
         },
         "P7300116": {
           "Key": "July 30/P7300116.JPG",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+30/P7300116.JPG",
           "Slug": "p7300116",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+30/P7300116-thumb.JPG"
         },
         "P7300117": {
           "Key": "July 30/P7300117.JPG",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+30/P7300117.JPG",
           "Slug": "p7300117",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+30/P7300117-thumb.JPG"
         },
         "P7300118": {
           "Key": "July 30/P7300118.JPG",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+30/P7300118.JPG",
           "Slug": "p7300118",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+30/P7300118-thumb.JPG"
         },
         "Sailing the Bahamas": {
           "Key": "July 30/Sailing the Bahamas.MP4",
@@ -3005,13 +3255,15 @@ module.exports = {
           "Key": "July 30/Sails up.JPG",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+30/Sails+up.JPG",
           "Slug": "sails-up",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+30/Sails+up-thumb.JPG"
         },
         "The map": {
           "Key": "July 30/The map.JPG",
           "Url": "https://2018-bahamas-trip.chrisandsheena.com/July+30/The+map.JPG",
           "Slug": "the-map",
-          "Type": "image/jpeg"
+          "Type": "image/jpeg",
+          "ThumbnailUrl": "https://2018-bahamas-trip.chrisandsheena.com/July+30/The+map-thumb.JPG"
         }
       }
     },
