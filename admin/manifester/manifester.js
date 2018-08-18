@@ -92,10 +92,11 @@ listAllTheFiles(BUCKET_NAME)
 			}
 
 			node.Contents[parsed.name] = {
-				Key: data[i].Key,
+				Key: parsed.name,
 				Url: urlify(BUCKET_NAME, data[i].Key),
 				Slug: getSlug(parsed.name)
 			};
+			slugNode[node.Contents[parsed.name].Slug] = { _Key: parsed.name };
 
 			if (/(\.mp4|\.mov)$/i.test(parsed.ext)) {
 				node.Contents[parsed.name].Type = 'video/mp4';
@@ -113,6 +114,9 @@ listAllTheFiles(BUCKET_NAME)
 
 			else if (/(\.jpg||\.jpeg)$/i.test(parsed.ext)) {
 				node.Contents[parsed.name].Type = 'image/jpeg';
+				node.Contents[parsed.name].ThumbnailUrl = urlify(
+					BUCKET_NAME,
+					`${parsed.dir}/${parsed.name}-thumb${parsed.ext}`);
 			}
 
 			else {

@@ -19,7 +19,7 @@ class SubFoldersList extends React.Component {
 		Object.keys(this.props.folderContents).forEach(key => {
 			if (!this.props.folderContents[key].Type) {
 				subFolders.push(
-					<Media.ListItem>
+					<Media.ListItem key={key}>
 						<Media.Left>
 							<Glyphicon glyph="folder-open" />
 						</Media.Left>
