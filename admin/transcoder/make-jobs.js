@@ -1,3 +1,5 @@
+/* eslint "no-console": 0 */
+
 import _ from 'lodash';
 import AWS from 'aws-sdk';
 import Bluebird from 'bluebird';

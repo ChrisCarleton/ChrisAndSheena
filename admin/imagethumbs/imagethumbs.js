@@ -1,10 +1,10 @@
+/* eslint "no-console": 0 */
+
 import _ from 'lodash';
 import AWS from 'aws-sdk';
 import Bluebird from 'bluebird';
-import path from 'path';
 
 const Lambda = new AWS.Lambda({ apiVersion: '2015-03-31', region: 'us-east-1' });
-import { stringify } from 'querystring';
 const S3 = new AWS.S3();
 
 Bluebird.promisifyAll(S3);
