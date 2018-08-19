@@ -13,7 +13,30 @@ import {
 } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
 
+import ThumbnailActions from '../actions/thumbnail-actions';
+import ThumbnailStore from '../stores/thumbnail-store';
+
 class ThumbnailsView extends React.Component {
+	constructor(props) {
+		super(props);
+		this.state = ThumbnailStore.getState();
+
+		this.onTabChange = this.onTabChange.bind(this);
+		ThumbnailStore.listen(this.onTabChange);
+	}
+
+	componentWillUnmount() {
+		ThumbnailStore.unlisten(this.onTabChange);
+	}
+
+	onTabChange() {
+		this.setState(ThumbnailStore.getState());
+	}
+
+	onTabClick(index) {
+		ThumbnailActions.changeTab(index);
+	}
+
 	getClearfix(index) {
 		return <Clearfix
 			key={`cf_${index}`}
@@ -66,7 +89,7 @@ class ThumbnailsView extends React.Component {
 
 				<h3>{this.props.currentKey}</h3>
 
-				<Tabs defaultActiveKey={0} animation id="folder-contents">
+				<Tabs activeKey={this.state.tabIndex} onSelect={this.onTabClick} animation id="folder-contents">
 					<Tab eventKey={0} title="Videos">
 						<Well bsSize="small">
 							Showing <strong>{videoThumbnails.length}</strong> video(s).
