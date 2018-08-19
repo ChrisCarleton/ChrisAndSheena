@@ -39,7 +39,6 @@ function serve(done) {
 		{
 			compress: true,
 			historyApiFallback: true,
-			host: '0.0.0.0',
 			hot: true,
 			index: 'index.html',
 			port: 8080,

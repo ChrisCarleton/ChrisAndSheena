@@ -16,7 +16,7 @@ module.exports = merge(common, {
 	plugins: [
 		new webpack.DefinePlugin({
 			// Force React to compile in production mode.
-			'process.env.NODE_ENV': '"production"'
+			'process.env.NODE_ENV': JSON.stringify('production')
 		}),
 		new CleanWebpackPlugin(['dist/prod'])
 	]
