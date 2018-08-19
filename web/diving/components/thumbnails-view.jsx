@@ -54,11 +54,15 @@ class ThumbnailsView extends React.Component {
 		var videoIndex = 0;
 		var imageIndex = 0;
 
+		var videoCount = 0;
+		var imageCount = 0;
+
 		Object.keys(contents).forEach(key => {
 			const item = contents[key];
 			const split = key.split('/');
 
 			if (item.Type === 'video/mp4') {
+				videoCount++
 				videoThumbnails.push(this.getClearfix(videoIndex++));
 				videoThumbnails.push(
 					<Col key={key} xs={12} sm={6} md={3}>
@@ -71,6 +75,7 @@ class ThumbnailsView extends React.Component {
 			}
 			
 			else if (item.Type === 'image/jpeg') {
+				imageCount++;
 				imageThumbnails.push(this.getClearfix(imageIndex++));
 				imageThumbnails.push(
 					<Col key={key} xs={12} sm={6} md={3}>
@@ -92,7 +97,7 @@ class ThumbnailsView extends React.Component {
 				<Tabs activeKey={this.state.tabIndex} onSelect={this.onTabClick} animation id="folder-contents">
 					<Tab eventKey={0} title="Videos">
 						<Well bsSize="small">
-							Showing <strong>{videoThumbnails.length}</strong> video(s).
+							Showing <strong>{videoCount}</strong> video(s).
 						</Well>
 						<Row>
 							{ videoThumbnails }
@@ -100,7 +105,7 @@ class ThumbnailsView extends React.Component {
 					</Tab>
 					<Tab eventKey={1} title="Pictures">
 						<Well bsSize="small">
-							Showing <strong>{imageThumbnails.length}</strong> image(s).
+							Showing <strong>{imageCount}</strong> image(s).
 						</Well>
 						<Row>
 							{ imageThumbnails }
