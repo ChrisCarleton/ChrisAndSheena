@@ -5,7 +5,12 @@ import webpackStream from 'webpack-stream';
 import WebpackDevServer from 'webpack-dev-server';
 
 function lint() {
-	return gulp.src(['web/**/*.js', 'web/**/*.jsx'])
+	return gulp.src([
+			'web/**/*.js',
+			'web/**/*.jsx',
+			'admin/imagethumbs/*.js',
+			'admin/manifester/*.js',
+			'admin/transcoder/*.js'])
 		.pipe(eslint())
 		.pipe(eslint.format())
 		.pipe(eslint.failAfterError());
