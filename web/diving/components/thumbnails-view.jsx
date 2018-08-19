@@ -8,7 +8,8 @@ import {
 	Row,
 	Tab,
 	Tabs,
-	Thumbnail
+	Thumbnail,
+	Well
 } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
 
@@ -67,17 +68,17 @@ class ThumbnailsView extends React.Component {
 
 				<Tabs defaultActiveKey={0} animation id="folder-contents">
 					<Tab eventKey={0} title="Videos">
-						<p>
+						<Well bsSize="small">
 							Showing <strong>{videoThumbnails.length}</strong> video(s).
-						</p>
+						</Well>
 						<Row>
 							{ videoThumbnails }
 						</Row>
 					</Tab>
 					<Tab eventKey={1} title="Pictures">
-						<p>
+						<Well bsSize="small">
 							Showing <strong>{imageThumbnails.length}</strong> image(s).
-						</p>
+						</Well>
 						<Row>
 							{ imageThumbnails }
 						</Row>
