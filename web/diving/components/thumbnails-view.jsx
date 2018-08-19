@@ -8,13 +8,42 @@ import {
 	Row,
 	Tab,
 	Tabs,
-	Thumbnail
+	Thumbnail,
+	Well
 } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
 
+import ThumbnailActions from '../actions/thumbnail-actions';
+import ThumbnailStore from '../stores/thumbnail-store';
+
 class ThumbnailsView extends React.Component {
+	constructor(props) {
+		super(props);
+		this.state = ThumbnailStore.getState();
+
+		this.onTabChange = this.onTabChange.bind(this);
+		ThumbnailStore.listen(this.onTabChange);
+	}
+
+	componentWillUnmount() {
+		ThumbnailStore.unlisten(this.onTabChange);
+	}
+
+	onTabChange() {
+		this.setState(ThumbnailStore.getState());
+	}
+
+	onTabClick(index) {
+		ThumbnailActions.changeTab(index);
+	}
+
 	getClearfix(index) {
-		return <Clearfix key={`cf_${index}`} visibleXsBlock />;
+		return <Clearfix
+			key={`cf_${index}`}
+			visibleXsBlock
+			visibleSmBlock={index % 2 === 0}
+			visibleMdBlock={index % 3 === 0}
+			visibleLgBlock={index % 4 === 0} />;
 	}
 
 	render() {
@@ -30,6 +59,7 @@ class ThumbnailsView extends React.Component {
 			const split = key.split('/');
 
 			if (item.Type === 'video/mp4') {
+				videoThumbnails.push(this.getClearfix(videoIndex++));
 				videoThumbnails.push(
 					<Col key={key} xs={12} sm={6} md={3}>
 						<a href={`${this.props.match.url}/${item.Slug}`}>
@@ -38,10 +68,10 @@ class ThumbnailsView extends React.Component {
 							</Thumbnail>
 						</a>
 					</Col>);
-				videoThumbnails.push(this.getClearfix(videoIndex++));
 			}
 			
 			else if (item.Type === 'image/jpeg') {
+				imageThumbnails.push(this.getClearfix(imageIndex++));
 				imageThumbnails.push(
 					<Col key={key} xs={12} sm={6} md={3}>
 						<LinkContainer key={key} to={`${this.props.match.url}/${item.Slug}`}>
@@ -50,7 +80,6 @@ class ThumbnailsView extends React.Component {
 							</Thumbnail>
 						</LinkContainer>
 					</Col>);
-				imageThumbnails.push(this.getClearfix(imageIndex++));
 			}
 
 		});
@@ -60,19 +89,19 @@ class ThumbnailsView extends React.Component {
 
 				<h3>{this.props.currentKey}</h3>
 
-				<Tabs defaultActiveKey={0} animation id="folder-contents">
+				<Tabs activeKey={this.state.tabIndex} onSelect={this.onTabClick} animation id="folder-contents">
 					<Tab eventKey={0} title="Videos">
-						<p>
+						<Well bsSize="small">
 							Showing <strong>{videoThumbnails.length}</strong> video(s).
-						</p>
+						</Well>
 						<Row>
 							{ videoThumbnails }
 						</Row>
 					</Tab>
 					<Tab eventKey={1} title="Pictures">
-						<p>
+						<Well bsSize="small">
 							Showing <strong>{imageThumbnails.length}</strong> image(s).
-						</p>
+						</Well>
 						<Row>
 							{ imageThumbnails }
 						</Row>
