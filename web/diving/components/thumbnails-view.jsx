@@ -27,9 +27,9 @@ class ThumbnailsView extends React.Component {
 							<Image rounded src={item.ThumbnailUrl} alt={split[split.length - 1]} />
 						</Media.Left>
 						<Media.Body align="middle">
-							<Link to={`${this.props.match.url}/${item.Slug}`}>
+							<a href={`${this.props.match.url}/${item.Slug}`}>
 								<Media.Heading>{split[split.length - 1]}</Media.Heading>
-							</Link>
+							</a>
 						</Media.Body>
 					</Media.ListItem>);
 			}

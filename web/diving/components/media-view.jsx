@@ -26,6 +26,7 @@ class MediaView extends React.Component {
 
 		else if (mediaItem.Type === 'video/mp4') {
 			mediaNode = <VideoPlayer
+				autoPlay
 				controls
 				dashUrl={ mediaItem.DashUrl }
 				hlsUrl={ mediaItem.HlsUrl } />;
