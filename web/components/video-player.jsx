@@ -29,7 +29,7 @@ class VideoPlayer extends React.Component {
 
 	render() {
 		const browserInfo = bowser.getParser(window.navigator.userAgent).parsedResult;
-		if (browserInfo.platform.type === 'desktop' && /(Chrome|Firefox)/i.test(browserInfo.browser.name)) {
+		if (/(Chrome|Firefox)/i.test(browserInfo.browser.name)) {
 			return this.renderDashPlayer();
 		}
 
