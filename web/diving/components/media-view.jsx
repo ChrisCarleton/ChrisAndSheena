@@ -33,7 +33,7 @@ class MediaView extends React.Component {
 		}
 
 		return (
-			<div className="container">
+			<div className="container-fluid">
 				<Breadcrumbs
 					currentKey={ this.state.currentKey }
 					slugMap={ this.state.slugMap }

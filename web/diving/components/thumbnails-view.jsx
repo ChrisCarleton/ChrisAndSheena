@@ -4,17 +4,26 @@ import { Link, withRouter } from 'react-router-dom';
 
 import {
 	Col,
-	Image,
-	Media,
+	Clearfix,
+	Row,
 	Tab,
-	Tabs
+	Tabs,
+	Thumbnail
 } from 'react-bootstrap';
+import { LinkContainer } from 'react-router-bootstrap';
 
 class ThumbnailsView extends React.Component {
+	getClearfix(index) {
+		return <Clearfix key={`cf_${index}`} visibleXsBlock />;
+	}
+
 	render() {
 		const videoThumbnails = [];
 		const imageThumbnails = [];
 		const contents = this.props.folderContents;
+
+		var videoIndex = 0;
+		var imageIndex = 0;
 
 		Object.keys(contents).forEach(key => {
 			const item = contents[key];
@@ -22,55 +31,51 @@ class ThumbnailsView extends React.Component {
 
 			if (item.Type === 'video/mp4') {
 				videoThumbnails.push(
-					<Media.ListItem key={key}>
-						<Media.Left>
-							<Image rounded src={item.ThumbnailUrl} alt={split[split.length - 1]} />
-						</Media.Left>
-						<Media.Body align="middle">
-							<a href={`${this.props.match.url}/${item.Slug}`}>
-								<Media.Heading>{split[split.length - 1]}</Media.Heading>
-							</a>
-						</Media.Body>
-					</Media.ListItem>);
+					<Col key={key} xs={12} sm={6} md={3}>
+						<a href={`${this.props.match.url}/${item.Slug}`}>
+							<Thumbnail src={item.ThumbnailUrl} alt={split[split.length - 1]} rounded="true" responsive="true">
+								<h5 className="text-center">{split[split.length - 1]}</h5>
+							</Thumbnail>
+						</a>
+					</Col>);
+				videoThumbnails.push(this.getClearfix(videoIndex++));
 			}
 			
 			else if (item.Type === 'image/jpeg') {
 				imageThumbnails.push(
-					<Media.ListItem key={key}>
-						<Media.Left>
-							<Image rounded src={item.ThumbnailUrl} alt={split[split.length - 1]} />
-						</Media.Left>
-						<Media.Body align="middle">
-							<Link to={`${this.props.match.url}/${item.Slug}`}>
-								<Media.Heading>{split[split.length - 1]}</Media.Heading>
-							</Link>
-						</Media.Body>
-					</Media.ListItem>);
+					<Col key={key} xs={12} sm={6} md={3}>
+						<LinkContainer key={key} to={`${this.props.match.url}/${item.Slug}`}>
+							<Thumbnail rounded src={item.ThumbnailUrl} alt={split[split.length - 1]} rounded="true" responsive="true">
+								<h5 className="text-center">{split[split.length - 1]}</h5>
+							</Thumbnail>
+						</LinkContainer>
+					</Col>);
+				imageThumbnails.push(this.getClearfix(imageIndex++));
 			}
 
 		});
 
 		return (
-			<Col xs={9}>
+			<Col xs={12} md={8} lg={9}>
 
-				<h1>{this.props.currentKey}</h1>
+				<h3>{this.props.currentKey}</h3>
 
 				<Tabs defaultActiveKey={0} animation id="folder-contents">
 					<Tab eventKey={0} title="Videos">
 						<p>
-							Here are some videos.
+							Showing <strong>{videoThumbnails.length}</strong> video(s).
 						</p>
-						<Media.List>
+						<Row>
 							{ videoThumbnails }
-						</Media.List>
+						</Row>
 					</Tab>
 					<Tab eventKey={1} title="Pictures">
 						<p>
-							Here are some pictures!
+							Showing <strong>{imageThumbnails.length}</strong> image(s).
 						</p>
-						<Media.List>
+						<Row>
 							{ imageThumbnails }
-						</Media.List>
+						</Row>
 					</Tab>
 				</Tabs>
 			</Col>);

@@ -1,11 +1,13 @@
 import PropTypes from 'prop-types';
 import React from 'react';
-import { Link, withRouter } from 'react-router-dom';
+import { withRouter } from 'react-router-dom';
+import { LinkContainer } from 'react-router-bootstrap';
 
 import {
 	Col,
 	Glyphicon,
-	Media
+	Nav,
+	NavItem
 } from 'react-bootstrap';
 
 class SubFoldersList extends React.Component {
@@ -19,25 +21,22 @@ class SubFoldersList extends React.Component {
 		Object.keys(this.props.folderContents).forEach(key => {
 			if (!this.props.folderContents[key].Type) {
 				subFolders.push(
-					<Media.ListItem key={key}>
-						<Media.Left>
+					<LinkContainer key={key} to={`${this.props.match.url}/${this.props.folderContents[key].Slug}`}>
+						<NavItem>
 							<Glyphicon glyph="folder-open" />
-						</Media.Left>
-						<Media.Body>
-							<Link to={`${this.props.match.url}/${this.props.folderContents[key].Slug}`}>
-								{key}
-							</Link>
-						</Media.Body>
-					</Media.ListItem>);
+							&nbsp;&nbsp;&nbsp;
+							{key}
+						</NavItem>
+					</LinkContainer>);
 			}
 		});
 
+		if (subFolders.length === 0) return null;
+
 		return (
-			<Col xs={3}>
-				<h3>Sub Folders</h3>
-				{ subFolders.length === 0
-					? <p>Nothing to show.</p>
-					: <Media.List>{ subFolders }</Media.List> }
+			<Col xs={12} md={4} lg={3}>
+				<p><strong>Sub Folders</strong></p>
+				<Nav bsStyle="pills">{ subFolders }</Nav>
 			</Col>);
 
 	}
