@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import React from 'react';
-import { Link, withRouter } from 'react-router-dom';
+import { withRouter } from 'react-router-dom';
 
 import {
 	Col,
@@ -45,7 +45,7 @@ class ThumbnailsView extends React.Component {
 				imageThumbnails.push(
 					<Col key={key} xs={12} sm={6} md={3}>
 						<LinkContainer key={key} to={`${this.props.match.url}/${item.Slug}`}>
-							<Thumbnail rounded src={item.ThumbnailUrl} alt={split[split.length - 1]} rounded="true" responsive="true">
+							<Thumbnail src={item.ThumbnailUrl} alt={split[split.length - 1]} rounded="true" responsive="true">
 								<h5 className="text-center">{split[split.length - 1]}</h5>
 							</Thumbnail>
 						</LinkContainer>
