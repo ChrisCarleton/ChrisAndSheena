@@ -43,7 +43,7 @@ class Home extends React.Component {
 				<div className="container">
 					<h3>Hi! We&apos;re Chris and Sheena</h3>
 					<p>
-						This is a website we&apos;re building for the lulz. (And because we're really into diving!)
+						This is a website we&apos;re building for the lulz. (And because we&apos;re really into diving!)
 					</p>
 					<p className="text-center">
 						<Image src="/ChrisAndSheenaResort.jpg" rounded />
