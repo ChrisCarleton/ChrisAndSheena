@@ -104,7 +104,8 @@ listAllTheFiles(BUCKET_NAME)
 				node.Contents[parsed.name].Type = 'video/mp4';
 				node.Contents[parsed.name].ThumbnailUrl = urlify(
 					BUCKET_NAME,
-					`${parsed.dir}/${parsed.name}-00001.png`);
+					`${parsed.dir}/${parsed.name}-00001.png`,
+					true);
 				node.Contents[parsed.name].HlsUrl = urlify(
 					BUCKET_NAME,
 					`${parsed.dir}/${parsed.name}-hls${parsed.ext}`);
