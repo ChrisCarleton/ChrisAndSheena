@@ -1712,12 +1712,12 @@ module.exports = {
         },
         "GOPR0008 - Eagle Ray + More Sweet Drifting": {
           "Key": "GOPR0008 - Eagle Ray + More Sweet Drifting",
-          "Url": "https://2017-cozumel-trip.chrisandsheena.com/01+-+Columbia+Ladrillo/GOPR0008+-+Eagle+Ray+++More+Sweet+Drifting.MP4",
+          "Url": "https://2017-cozumel-trip.chrisandsheena.com/01+-+Columbia+Ladrillo/GOPR0008+-+Eagle+Ray+%2B+More+Sweet+Drifting.MP4",
           "Slug": "gopr0008-eagle-ray-more-sweet-drifting",
           "Type": "video/mp4",
-          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/01-ColumbiaLadrillo/GOPR0008-EagleRay+MoreSweetDrifting-00001.png",
-          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/01+-+Columbia+Ladrillo/GOPR0008+-+Eagle+Ray+++More+Sweet+Drifting-hls.MP4",
-          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/01-ColumbiaLadrillo/GOPR0008-EagleRay+MoreSweetDrifting-dash.mpd"
+          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/01-ColumbiaLadrillo/GOPR0008-EagleRay%2BMoreSweetDrifting-00001.png",
+          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/01+-+Columbia+Ladrillo/GOPR0008+-+Eagle+Ray+%2B+More+Sweet+Drifting-hls.MP4",
+          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/01-ColumbiaLadrillo/GOPR0008-EagleRay%2BMoreSweetDrifting-dash.mpd"
         },
         "GOPR0009 - More drifting": {
           "Key": "GOPR0009 - More drifting",
@@ -2312,20 +2312,6 @@ module.exports = {
         "Naza": {
           "Slug": "naza",
           "Contents": {
-            ".DS_Store": {
-              "Key": ".DS_Store",
-              "Url": "https://2017-cozumel-trip.chrisandsheena.com/02+-+Chak+Mool+Cenote/Naza/.DS_Store",
-              "Slug": "ds_store",
-              "Type": "image/jpeg",
-              "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/02+-+Chak+Mool+Cenote/Naza/.DS_Store-thumb"
-            },
-            "._": {
-              "Key": "._",
-              "Url": "https://2017-cozumel-trip.chrisandsheena.com/02+-+Chak+Mool+Cenote/Naza/._.DS_Store",
-              "Slug": "_",
-              "Type": "image/jpeg",
-              "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/02+-+Chak+Mool+Cenote/Naza/._-thumb.DS_Store"
-            },
             "P1190225": {
               "Key": "P1190225",
               "Url": "https://2017-cozumel-trip.chrisandsheena.com/02+-+Chak+Mool+Cenote/Naza/P1190225.JPG",
@@ -2545,12 +2531,12 @@ module.exports = {
         },
         "GOPR0097 - Drifting along; Sandy bottom + fish": {
           "Key": "GOPR0097 - Drifting along; Sandy bottom + fish",
-          "Url": "https://2017-cozumel-trip.chrisandsheena.com/03+-+Cedral+Wall/GOPR0097+-+Drifting+along;+Sandy+bottom+++fish.MP4",
+          "Url": "https://2017-cozumel-trip.chrisandsheena.com/03+-+Cedral+Wall/GOPR0097+-+Drifting+along;+Sandy+bottom+%2B+fish.MP4",
           "Slug": "gopr0097-drifting-along-sandy-bottom-fish",
           "Type": "video/mp4",
-          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/03-CedralWall/GOPR0097-Driftingalong;Sandybottom+fish-00001.png",
-          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/03+-+Cedral+Wall/GOPR0097+-+Drifting+along;+Sandy+bottom+++fish-hls.MP4",
-          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/03-CedralWall/GOPR0097-Driftingalong;Sandybottom+fish-dash.mpd"
+          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/03-CedralWall/GOPR0097-Driftingalong;Sandybottom%2Bfish-00001.png",
+          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/03+-+Cedral+Wall/GOPR0097+-+Drifting+along;+Sandy+bottom+%2B+fish-hls.MP4",
+          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/03-CedralWall/GOPR0097-Driftingalong;Sandybottom%2Bfish-dash.mpd"
         },
         "GOPR0098 - Eagle ray": {
           "Key": "GOPR0098 - Eagle ray",
@@ -2999,12 +2985,12 @@ module.exports = {
         },
         "GOPR0128 - Looking over the wall + turtle": {
           "Key": "GOPR0128 - Looking over the wall + turtle",
-          "Url": "https://2017-cozumel-trip.chrisandsheena.com/04+-+San+Francisco+Reef/GOPR0128+-+Looking+over+the+wall+++turtle.MP4",
+          "Url": "https://2017-cozumel-trip.chrisandsheena.com/04+-+San+Francisco+Reef/GOPR0128+-+Looking+over+the+wall+%2B+turtle.MP4",
           "Slug": "gopr0128-looking-over-the-wall-turtle",
           "Type": "video/mp4",
-          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/04-SanFranciscoReef/GOPR0128-Lookingoverthewall+turtle-00001.png",
-          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/04+-+San+Francisco+Reef/GOPR0128+-+Looking+over+the+wall+++turtle-hls.MP4",
-          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/04-SanFranciscoReef/GOPR0128-Lookingoverthewall+turtle-dash.mpd"
+          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/04-SanFranciscoReef/GOPR0128-Lookingoverthewall%2Bturtle-00001.png",
+          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/04+-+San+Francisco+Reef/GOPR0128+-+Looking+over+the+wall+%2B+turtle-hls.MP4",
+          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/04-SanFranciscoReef/GOPR0128-Lookingoverthewall%2Bturtle-dash.mpd"
         },
         "GOPR0129": {
           "Key": "GOPR0129",
@@ -3458,12 +3444,12 @@ module.exports = {
         },
         "GOPR0165 - Smile for the camera + establishing shot": {
           "Key": "GOPR0165 - Smile for the camera + establishing shot",
-          "Url": "https://2017-cozumel-trip.chrisandsheena.com/05+-+Palancar+Horseshoe/GOPR0165+-+Smile+for+the+camera+++establishing+shot.MP4",
+          "Url": "https://2017-cozumel-trip.chrisandsheena.com/05+-+Palancar+Horseshoe/GOPR0165+-+Smile+for+the+camera+%2B+establishing+shot.MP4",
           "Slug": "gopr0165-smile-for-the-camera-establishing-shot",
           "Type": "video/mp4",
-          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/05-PalancarHorseshoe/GOPR0165-Smileforthecamera+establishingshot-00001.png",
-          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/05+-+Palancar+Horseshoe/GOPR0165+-+Smile+for+the+camera+++establishing+shot-hls.MP4",
-          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/05-PalancarHorseshoe/GOPR0165-Smileforthecamera+establishingshot-dash.mpd"
+          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/05-PalancarHorseshoe/GOPR0165-Smileforthecamera%2Bestablishingshot-00001.png",
+          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/05+-+Palancar+Horseshoe/GOPR0165+-+Smile+for+the+camera+%2B+establishing+shot-hls.MP4",
+          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/05-PalancarHorseshoe/GOPR0165-Smileforthecamera%2Bestablishingshot-dash.mpd"
         },
         "GOPR0166 - Into the maze": {
           "Key": "GOPR0166 - Into the maze",
@@ -3549,12 +3535,12 @@ module.exports = {
         },
         "GOPR0237 - Colourful safety stop + peekaboo fish": {
           "Key": "GOPR0237 - Colourful safety stop + peekaboo fish",
-          "Url": "https://2017-cozumel-trip.chrisandsheena.com/05+-+Palancar+Horseshoe/GOPR0237+-+Colourful+safety+stop+++peekaboo+fish.MP4",
+          "Url": "https://2017-cozumel-trip.chrisandsheena.com/05+-+Palancar+Horseshoe/GOPR0237+-+Colourful+safety+stop+%2B+peekaboo+fish.MP4",
           "Slug": "gopr0237-colourful-safety-stop-peekaboo-fish",
           "Type": "video/mp4",
-          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/05-PalancarHorseshoe/GOPR0237-Colourfulsafetystop+peekaboofish-00001.png",
-          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/05+-+Palancar+Horseshoe/GOPR0237+-+Colourful+safety+stop+++peekaboo+fish-hls.MP4",
-          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/05-PalancarHorseshoe/GOPR0237-Colourfulsafetystop+peekaboofish-dash.mpd"
+          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/05-PalancarHorseshoe/GOPR0237-Colourfulsafetystop%2Bpeekaboofish-00001.png",
+          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/05+-+Palancar+Horseshoe/GOPR0237+-+Colourful+safety+stop+%2B+peekaboo+fish-hls.MP4",
+          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/05-PalancarHorseshoe/GOPR0237-Colourfulsafetystop%2Bpeekaboofish-dash.mpd"
         },
         "GOPR0238 - Safety stop": {
           "Key": "GOPR0238 - Safety stop",
@@ -3631,12 +3617,12 @@ module.exports = {
         },
         "GOPR0246 - Seahorse?": {
           "Key": "GOPR0246 - Seahorse?",
-          "Url": "https://2017-cozumel-trip.chrisandsheena.com/06+-+Pasa+de+Cedral/GOPR0246+-+Seahorse?.MP4",
+          "Url": "https://2017-cozumel-trip.chrisandsheena.com/06+-+Pasa+de+Cedral/GOPR0246+-+Seahorse%3F.MP4",
           "Slug": "gopr0246-seahorse",
           "Type": "video/mp4",
-          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/06-PasadeCedral/GOPR0246-Seahorse?-00001.png",
-          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/06+-+Pasa+de+Cedral/GOPR0246+-+Seahorse?-hls.MP4",
-          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/06-PasadeCedral/GOPR0246-Seahorse?-dash.mpd"
+          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/06-PasadeCedral/GOPR0246-Seahorse%3F-00001.png",
+          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/06+-+Pasa+de+Cedral/GOPR0246+-+Seahorse%3F-hls.MP4",
+          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/06-PasadeCedral/GOPR0246-Seahorse%3F-dash.mpd"
         },
         "GOPR0248 - N00b harrassing a turtle": {
           "Key": "GOPR0248 - N00b harrassing a turtle",
@@ -3704,21 +3690,21 @@ module.exports = {
       "Contents": {
         "GOPR0255 - Turtle?": {
           "Key": "GOPR0255 - Turtle?",
-          "Url": "https://2017-cozumel-trip.chrisandsheena.com/07+-+Punta+Dalila+(Night+Dive)/GOPR0255+-+Turtle?.MP4",
+          "Url": "https://2017-cozumel-trip.chrisandsheena.com/07+-+Punta+Dalila+(Night+Dive)/GOPR0255+-+Turtle%3F.MP4",
           "Slug": "gopr0255-turtle",
           "Type": "video/mp4",
-          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/07-PuntaDalila(NightDive)/GOPR0255-Turtle?-00001.png",
-          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/07+-+Punta+Dalila+(Night+Dive)/GOPR0255+-+Turtle?-hls.MP4",
-          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/07-PuntaDalila(NightDive)/GOPR0255-Turtle?-dash.mpd"
+          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/07-PuntaDalila(NightDive)/GOPR0255-Turtle%3F-00001.png",
+          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/07+-+Punta+Dalila+(Night+Dive)/GOPR0255+-+Turtle%3F-hls.MP4",
+          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/07-PuntaDalila(NightDive)/GOPR0255-Turtle%3F-dash.mpd"
         },
         "GOPR0257 - Turtle + crab": {
           "Key": "GOPR0257 - Turtle + crab",
-          "Url": "https://2017-cozumel-trip.chrisandsheena.com/07+-+Punta+Dalila+(Night+Dive)/GOPR0257+-+Turtle+++crab.MP4",
+          "Url": "https://2017-cozumel-trip.chrisandsheena.com/07+-+Punta+Dalila+(Night+Dive)/GOPR0257+-+Turtle+%2B+crab.MP4",
           "Slug": "gopr0257-turtle-crab",
           "Type": "video/mp4",
-          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/07-PuntaDalila(NightDive)/GOPR0257-Turtle+crab-00001.png",
-          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/07+-+Punta+Dalila+(Night+Dive)/GOPR0257+-+Turtle+++crab-hls.MP4",
-          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/07-PuntaDalila(NightDive)/GOPR0257-Turtle+crab-dash.mpd"
+          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/07-PuntaDalila(NightDive)/GOPR0257-Turtle%2Bcrab-00001.png",
+          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/07+-+Punta+Dalila+(Night+Dive)/GOPR0257+-+Turtle+%2B+crab-hls.MP4",
+          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/07-PuntaDalila(NightDive)/GOPR0257-Turtle%2Bcrab-dash.mpd"
         },
         "GOPR0258 - Flounder, lobster": {
           "Key": "GOPR0258 - Flounder, lobster",
@@ -4649,12 +4635,12 @@ module.exports = {
         },
         "GOPR0387 - Crab? hiding in a school of fish": {
           "Key": "GOPR0387 - Crab? hiding in a school of fish",
-          "Url": "https://2017-cozumel-trip.chrisandsheena.com/09+-+Barricuda+Reef/GOPR0387+-+Crab?+hiding+in+a+school+of+fish.MP4",
+          "Url": "https://2017-cozumel-trip.chrisandsheena.com/09+-+Barricuda+Reef/GOPR0387+-+Crab%3F+hiding+in+a+school+of+fish.MP4",
           "Slug": "gopr0387-crab-hiding-in-a-school-of-fish",
           "Type": "video/mp4",
-          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/09-BarricudaReef/GOPR0387-Crab?hidinginaschooloffish-00001.png",
-          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/09+-+Barricuda+Reef/GOPR0387+-+Crab?+hiding+in+a+school+of+fish-hls.MP4",
-          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/09-BarricudaReef/GOPR0387-Crab?hidinginaschooloffish-dash.mpd"
+          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/09-BarricudaReef/GOPR0387-Crab%3Fhidinginaschooloffish-00001.png",
+          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/09+-+Barricuda+Reef/GOPR0387+-+Crab%3F+hiding+in+a+school+of+fish-hls.MP4",
+          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/09-BarricudaReef/GOPR0387-Crab%3Fhidinginaschooloffish-dash.mpd"
         },
         "GOPR0388 - Just drifting": {
           "Key": "GOPR0388 - Just drifting",
@@ -4701,12 +4687,12 @@ module.exports = {
         },
         "GOPR0394 - Bull shark?": {
           "Key": "GOPR0394 - Bull shark?",
-          "Url": "https://2017-cozumel-trip.chrisandsheena.com/09+-+Barricuda+Reef/GOPR0394+-+Bull+shark?.MP4",
+          "Url": "https://2017-cozumel-trip.chrisandsheena.com/09+-+Barricuda+Reef/GOPR0394+-+Bull+shark%3F.MP4",
           "Slug": "gopr0394-bull-shark",
           "Type": "video/mp4",
-          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/09-BarricudaReef/GOPR0394-Bullshark?-00001.png",
-          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/09+-+Barricuda+Reef/GOPR0394+-+Bull+shark?-hls.MP4",
-          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/09-BarricudaReef/GOPR0394-Bullshark?-dash.mpd"
+          "ThumbnailUrl": "https://2017-cozumel-trip.chrisandsheena.com/09-BarricudaReef/GOPR0394-Bullshark%3F-00001.png",
+          "HlsUrl": "https://2017-cozumel-trip.chrisandsheena.com/09+-+Barricuda+Reef/GOPR0394+-+Bull+shark%3F-hls.MP4",
+          "DashUrl": "https://2017-cozumel-trip.chrisandsheena.com/09-BarricudaReef/GOPR0394-Bullshark%3F-dash.mpd"
         },
         "GOPR0395 - Several large schools": {
           "Key": "GOPR0395 - Several large schools",
