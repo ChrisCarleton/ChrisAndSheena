@@ -55,27 +55,56 @@ function listAllTheFiles(bucketName) {
 	});
 }
 
-listAllTheFiles(BUCKET_NAME)
-	.then(data => {
-		return _.filter(data, item => {
-			return /(\.jpg|\.jpeg|\.png)$/i.test(item.Key);
-		});
-	})
-	.then(items => {
-		const promises = [];
+function runInvocations(items) {
+	return new Bluebird((resolve, reject) => {
+		var index = 1;
 
-		items.forEach(item => {
-			promises.push(invoke({
+		const callback = value => {
+			console.log('Finished', index, 'of', items.length, '-', value);
+
+			if (index >= items.length) {
+				return resolve();
+			}
+
+			invoke({
 				FunctionName: 'makeThumbnail',
 				InvocationType: 'RequestResponse',
 				Payload: JSON.stringify({
 					bucket: BUCKET_NAME,
-					key: item.Key
+					key: items[index++].Key
 				})
-			}));
-		});
+			})
+			.then(callback)
+			.catch(reject);
+		};
 
-		return Bluebird.all(promises);
+		if (!items || items.length === 0) {
+			return resolve();
+		}
+
+		invoke({
+				FunctionName: 'makeThumbnail',
+				InvocationType: 'RequestResponse',
+				Payload: JSON.stringify({
+					bucket: BUCKET_NAME,
+					key: items[0].Key
+				})
+			})
+			.then(callback)
+			.catch(reject);
+	});
+}
+
+listAllTheFiles(BUCKET_NAME)
+	.then(data => {
+		return runInvocations(
+			_.filter(data, item => {
+				return /(\.jpg|\.jpeg|\.png)$/i.test(item.Key);
+			})
+		);
+	})
+	.then(items => {
+		runInvocations(items);
 	})
 	.then(() => {
 		console.log('Thumbnails have been generated.');
