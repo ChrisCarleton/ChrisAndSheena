@@ -22,6 +22,7 @@
   "homepage": "https://github.com/ChrisCarleton/ChrisAndSheena#readme",
   "devDependencies": {
     "babel-loader": "^7.1.5",
+    "babel-register": "^6.26.0",
     "clean-webpack-plugin": "^0.1.19",
     "css-loader": "^1.0.0",
     "eslint-plugin-react": "^7.11.1",
@@ -39,8 +40,6 @@
     "alt": "^0.18.6",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
-    "babel-register": "^6.26.0",
-    "bowser": "^2.0.0-alpha.4",
     "lodash": "^4.17.10",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
